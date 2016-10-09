@@ -1,4 +1,4 @@
-This is a repository simply to host some epg information cloning the xml data from user fixmysat and to remove any load our App would otherwise cause linking to his directly. This repo syncs every 24 hours around 5am.
+This is a repository simply to host some epg information cloning the xml data from user fixmysat and to remove any load our App would otherwise cause linking to his directly. This repo syncs every 24 hours around 5am EST.
 
 This guide has data worth 24 hours and segregated into categories/countries.
 
