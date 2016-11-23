@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.27 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="1HD">
     <display-name lang="en">1HD</display-name>
@@ -90,151 +90,6 @@
     <icon src="http://thedantv.co.uk/Channel_Logos/ikhbariya-arabe.png" />
     <url>http://www.beinsports.net</url>
   </channel>
-  <programme start="20161121000000 -0500" stop="20161121003000 -0500" channel="1HD">
-    <title lang="en">Trans World Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121003000 -0500" stop="20161121010000 -0500" channel="1HD">
-    <title lang="en">GP Confidential</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121010000 -0500" stop="20161121020000 -0500" channel="1HD">
-    <title lang="en">The Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121030000 -0500" channel="1HD">
-    <title lang="en">Sunday Highlight Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121030000 -0500" stop="20161121040000 -0500" channel="1HD">
-    <title lang="en">The Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121043000 -0500" channel="1HD">
-    <title lang="en">Jeonbuk vs Al Ain - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121050000 -0500" channel="1HD">
-    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121053000 -0500" channel="1HD">
-    <title lang="en">Best of CL MD4</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121053000 -0500" stop="20161121070000 -0500" channel="1HD">
-    <title lang="en">Vesprim vs PSG - Handball EHF Men's Championship 2017</title>
-    <category lang="en">Handball - EHF Champions League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121083000 -0500" channel="1HD">
-    <title lang="en">Kiel vs Flensburg - Handball EHF Men's Championship 2017</title>
-    <category lang="en">Handball - EHF Champions League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121083000 -0500" stop="20161121093000 -0500" channel="1HD">
-    <title lang="en">Sunday Highlight Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121093000 -0500" stop="20161121100000 -0500" channel="1HD">
-    <title lang="en">Motor Sport Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121110000 -0500" channel="1HD">
-    <title lang="en">EQUISTRIAN - World Cup Jumping</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121113000 -0500" channel="1HD">
-    <title lang="en">Jeonbuk vs Al Ain - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121123000 -0500" channel="1HD">
-    <title lang="en">UEFA - EUROPA LEAHGE MAGAZINE</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121123000 -0500" stop="20161121130000 -0500" channel="1HD">
-    <title lang="en">UEFA Champions League Preview</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121133000 -0500" channel="1HD">
-    <title lang="en">Zapping Of The Week</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121150000 -0500" channel="1HD">
-    <title lang="en">European Round Up</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121160000 -0500" channel="1HD">
-    <title lang="en">Match Point</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121165959 -0500" channel="1HD">
-    <title lang="en">Arabic Round Up 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121180000 -0500" channel="1HD">
-    <title lang="en">The Evening Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121180000 -0500" stop="20161121183000 -0500" channel="1HD">
-    <title lang="en">Zapping Of The Week</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121183000 -0500" stop="20161121190000 -0500" channel="1HD">
-    <title lang="en">UEFA Champions League Preview</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121190000 -0500" stop="20161121200000 -0500" channel="1HD">
-    <title lang="en">Match Point</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121213000 -0500" channel="1HD">
-    <title lang="en">European Round Up</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121223000 -0500" channel="1HD">
-    <title lang="en">Arabic Round Up 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121223000 -0500" stop="20161121230000 -0500" channel="1HD">
-    <title lang="en">Jeonbuk vs Al Ain - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121230000 -0500" stop="20161121233000 -0500" channel="1HD">
-    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121233000 -0500" stop="20161122000000 -0500" channel="1HD">
-    <title lang="en">UEFA Champions League Preview</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
   <programme start="20161122000000 -0500" stop="20161122010000 -0500" channel="1HD">
     <title lang="en">UEFA - EUROPA LEAHGE MAGAZINE</title>
     <category lang="en">Sports General</category>
@@ -386,7 +241,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123113000 -0500" stop="20161123120000 -0500" channel="1HD">
-    <title lang="en">STARS - Michael Laudrup</title>
+    <title lang="en">Michael Laudrup</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -505,116 +360,6 @@
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121001500 -0500" stop="20161121020000 -0500" channel="2HD">
-    <title lang="en">Flamengo vs Cortiba - BRAZILIAN LEAGUE 2015vs2016</title>
-    <category lang="en">Brazil League - Paulista A1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121023000 -0500" channel="2HD">
-    <title lang="en">FOOTBALL ASIA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121023000 -0500" stop="20161121041500 -0500" channel="2HD">
-    <title lang="en">Young Boys vs Sion - Swiss League 2016vs17</title>
-    <category lang="en">Swiss Super League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121041500 -0500" stop="20161121060000 -0500" channel="2HD">
-    <title lang="en">Middlesbrough vs Chelsea - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121063000 -0500" channel="2HD">
-    <title lang="en">FootBrazil</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121063000 -0500" stop="20161121070000 -0500" channel="2HD">
-    <title lang="en">Manchester United v Arsenal - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121073000 -0500" channel="2HD">
-    <title lang="en">Southampton v Liverpool - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121073000 -0500" stop="20161121091500 -0500" channel="2HD">
-    <title lang="en">Watford vs Leicester City - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121091500 -0500" stop="20161121110000 -0500" channel="2HD">
-    <title lang="en">Everton vs Swansea City - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121113000 -0500" channel="2HD">
-    <title lang="en">Crystal Palace v Manchester City - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121131500 -0500" channel="2HD">
-    <title lang="en">Leeds vs Newcastle - English Championship 16vs17</title>
-    <category lang="en">English League - Championship</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121131500 -0500" stop="20161121134500 -0500" channel="2HD">
-    <title lang="en">Crystal Palace v Manchester City - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121134500 -0500" stop="20161121141500 -0500" channel="2HD">
-    <title lang="en">Manchester United v Arsenal - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121141500 -0500" stop="20161121144500 -0500" channel="2HD">
-    <title lang="en">Southampton v Liverpool - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121144500 -0500" stop="20161121151500 -0500" channel="2HD">
-    <title lang="en">Middlesbrough v Chelsea - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121151500 -0500" stop="20161121160000 -0500" channel="2HD">
-    <title lang="en">Tottenham v West Ham - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121165959 -0500" channel="2HD">
-    <title lang="en">West Bromwich Albion vs Burnley - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121180000 -0500" stop="20161121194500 -0500" channel="2HD">
-    <title lang="en">Watford vs Leicester City - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121194500 -0500" stop="20161121213000 -0500" channel="2HD">
-    <title lang="en">West Bromwich Albion vs Burnley - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121220000 -0500" channel="2HD">
-    <title lang="en">Best of CL MD4</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161121234500 -0500" channel="2HD">
-    <title lang="en">Young Boys vs Sion - Swiss League 2016vs17</title>
-    <category lang="en">Swiss Super League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121234500 -0500" stop="20161122013000 -0500" channel="2HD">
-    <title lang="en">Everton vs Swansea City - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
   <programme start="20161122013000 -0500" stop="20161122020000 -0500" channel="2HD">
     <title lang="en">Crystal Palace v Manchester City - MINI MATCHES WEEK 47</title>
     <category lang="en">Mini Matches</category>
@@ -720,12 +465,12 @@
     <category lang="en">English Premier League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123000000 -0500" stop="20161123031500 -0500" channel="2HD">
+  <programme start="20161123000000 -0500" stop="20161123032100 -0500" channel="2HD">
     <title lang="en">Sevilla FC vs Juventus Football Club - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123031500 -0500" stop="20161123051500 -0500" channel="2HD">
+  <programme start="20161123032100 -0500" stop="20161123051500 -0500" channel="2HD">
     <title lang="en">Moscow vs Leverkusen - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
@@ -765,17 +510,17 @@
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123100000 -0500" stop="20161123120000 -0500" channel="2HD">
+  <programme start="20161123100000 -0500" stop="20161123115500 -0500" channel="2HD">
     <title lang="en">Sevilla FC vs Juventus Football Club - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123120000 -0500" stop="20161123125500 -0500" channel="2HD">
+  <programme start="20161123115500 -0500" stop="20161123125000 -0500" channel="2HD">
     <title lang="en">UEFA - EUROPA LEAHGE MAGAZINE</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123125500 -0500" stop="20161123150000 -0500" channel="2HD">
+  <programme start="20161123125000 -0500" stop="20161123150000 -0500" channel="2HD">
     <title lang="en">Rostov vs Bayern Munich - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
@@ -856,7 +601,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124140000 -0500" stop="20161124160000 -0500" channel="2HD">
-    <title lang="en">FC Steaua Bucureşti vs Osmanlıspor A.Ş - UEFA Europa League - Match day 5</title>
+    <title lang="en">FC Steaua Bucure?ti vs Osmanl?spor A.? - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -865,149 +610,14 @@
     <category lang="en">Basketball - NBA</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121000000 -0500" stop="20161121003000 -0500" channel="3HD">
-    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121003000 -0500" stop="20161121021500 -0500" channel="3HD">
-    <title lang="en">Deportivo Alaves vs Espanyol - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121021500 -0500" stop="20161121040000 -0500" channel="3HD">
-    <title lang="en">Valencia vs Granada - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121043000 -0500" channel="3HD">
-    <title lang="en">Football’s Greatest -Hristo Stoichkov</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121050000 -0500" channel="3HD">
-    <title lang="en">EPL LEGEND - Teddy Sheringham</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121053000 -0500" channel="3HD">
-    <title lang="en">Barcelona v Malaga - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121053000 -0500" stop="20161121060000 -0500" channel="3HD">
-    <title lang="en">Atletico Madrid v Real Madrid - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121063000 -0500" channel="3HD">
-    <title lang="en">Betis v Las Palmas - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121063000 -0500" stop="20161121070000 -0500" channel="3HD">
-    <title lang="en">Deportivo v Sevilla - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121084500 -0500" channel="3HD">
-    <title lang="en">Sporting Gijon vs Real Sociedad - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121084500 -0500" stop="20161121103000 -0500" channel="3HD">
-    <title lang="en">Athletic Club vs Villarreal - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121103000 -0500" stop="20161121110000 -0500" channel="3HD">
-    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121113000 -0500" channel="3HD">
-    <title lang="en">Best of CL MD4</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121120000 -0500" channel="3HD">
-    <title lang="en">Barcelona v Malaga - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121120000 -0500" stop="20161121123000 -0500" channel="3HD">
-    <title lang="en">Atletico Madrid v Real Madrid - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121123000 -0500" stop="20161121130000 -0500" channel="3HD">
-    <title lang="en">Betis v Las Palmas - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121133000 -0500" channel="3HD">
-    <title lang="en">FOOTBALL ASIA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121140000 -0500" channel="3HD">
-    <title lang="en">Trans World Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121140000 -0500" stop="20161121143000 -0500" channel="3HD">
-    <title lang="en">Deportivo v Sevilla - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="3HD">
-    <title lang="en">Athletic Club v Villarreal - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121154500 -0500" channel="3HD">
-    <title lang="en">FIFA WORLD FOOTBALL</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121154500 -0500" stop="20161121165959 -0500" channel="3HD">
-    <title lang="en">Leganes vs Osasuna - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121174500 -0500" stop="20161121193000 -0500" channel="3HD">
-    <title lang="en">Eibar vs Celta de Vigo - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121193000 -0500" stop="20161121200000 -0500" channel="3HD">
-    <title lang="en">Best of CL MD4</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121214500 -0500" channel="3HD">
-    <title lang="en">Palmeiras vs Botafogo - BRAZILIAN LEAGUE 2015vs2016</title>
-    <category lang="en">Brazil League - Paulista A1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121214500 -0500" stop="20161121233000 -0500" channel="3HD">
-    <title lang="en">Flamengo vs Cortiba - BRAZILIAN LEAGUE 2015vs2016</title>
-    <category lang="en">Brazil League - Paulista A1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121233000 -0500" stop="20161122010000 -0500" channel="3HD">
-    <title lang="en">European Round Up</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
   <programme start="20161122010000 -0500" stop="20161122024500 -0500" channel="3HD">
     <title lang="en">Leganes vs Osasuna - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122024500 -0500" stop="20161122043000 -0500" channel="3HD">
     <title lang="en">Athletic Club vs Villarreal - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122043000 -0500" stop="20161122050000 -0500" channel="3HD">
@@ -1037,7 +647,7 @@
   </programme>
   <programme start="20161122070000 -0500" stop="20161122084500 -0500" channel="3HD">
     <title lang="en">Valencia vs Granada - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122084500 -0500" stop="20161122103000 -0500" channel="3HD">
@@ -1051,7 +661,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122110000 -0500" stop="20161122113000 -0500" channel="3HD">
-    <title lang="en">Football’s Greatest -Hristo Stoichkov</title>
+    <title lang="en">Football?s Greatest -Hristo Stoichkov</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -1107,12 +717,12 @@
   </programme>
   <programme start="20161122200000 -0500" stop="20161122214500 -0500" channel="3HD">
     <title lang="en">Leganes vs Osasuna - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122214500 -0500" stop="20161122233000 -0500" channel="3HD">
     <title lang="en">Eibar vs Celta de Vigo - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122233000 -0500" stop="20161123000000 -0500" channel="3HD">
@@ -1126,7 +736,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123003000 -0500" stop="20161123010000 -0500" channel="3HD">
-    <title lang="en">STARS - Michael Laudrup</title>
+    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -1137,11 +747,11 @@
   </programme>
   <programme start="20161123024500 -0500" stop="20161123043000 -0500" channel="3HD">
     <title lang="en">Deportivo Alaves vs Espanyol - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123043000 -0500" stop="20161123050000 -0500" channel="3HD">
-    <title lang="en">STARS - Michael Laudrup</title>
+    <title lang="en">Zapping Of The Week</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -1177,7 +787,7 @@
   </programme>
   <programme start="20161123110000 -0500" stop="20161123130000 -0500" channel="3HD">
     <title lang="en">Sporting Gijon vs Real Sociedad - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123130000 -0500" stop="20161123133000 -0500" channel="3HD">
@@ -1190,15 +800,10 @@
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123140000 -0500" stop="20161123143000 -0500" channel="3HD">
+  <programme start="20161123140000 -0500" stop="20161123150000 -0500" channel="3HD">
     <title lang="en">Barcelona v Malaga - MINI MATCHES WEEK 47</title>
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161123143000 -0500" stop="20161123150000 -0500" channel="3HD">
-    <title lang="en">STARS - Michael Laudrup</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123150000 -0500" stop="20161123153000 -0500" channel="3HD">
     <title lang="en">Zapping Of The Week</title>
@@ -1227,7 +832,7 @@
   </programme>
   <programme start="20161123214500 -0500" stop="20161123233000 -0500" channel="3HD">
     <title lang="en">Leganes vs Osasuna - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123233000 -0500" stop="20161124000000 -0500" channel="3HD">
@@ -1247,7 +852,7 @@
   </programme>
   <programme start="20161124024500 -0500" stop="20161124043000 -0500" channel="3HD">
     <title lang="en">Leganes vs Osasuna - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124043000 -0500" stop="20161124050000 -0500" channel="3HD">
@@ -1272,7 +877,7 @@
   </programme>
   <programme start="20161124074500 -0500" stop="20161124093000 -0500" channel="3HD">
     <title lang="en">Sporting Gijon vs Real Sociedad - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124093000 -0500" stop="20161124100000 -0500" channel="3HD">
@@ -1301,12 +906,12 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161124120000 -0500" stop="20161124140000 -0500" channel="3HD">
-    <title lang="en">Fenerbahçe SK vs FC Zorya Luhansk - UEFA Europa League - Match day 5</title>
+    <title lang="en">Fenerbah?e SK vs FC Zorya Luhansk - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124140000 -0500" stop="20161124160500 -0500" channel="3HD">
-    <title lang="en">FC Zürich vs Villarreal CF - UEFA Europa League - Match day 5</title>
+    <title lang="en">FC Z?rich vs Villarreal CF - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -1316,12 +921,12 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124180000 -0500" stop="20161124194500 -0500" channel="3HD">
-    <title lang="en">Fenerbahçe SK vs FC Zorya Luhansk - UEFA Europa League - Match day 5</title>
+    <title lang="en">Fenerbah?e SK vs FC Zorya Luhansk - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124194500 -0500" stop="20161124213000 -0500" channel="3HD">
-    <title lang="en">FC Zürich vs Villarreal CF - UEFA Europa League - Match day 5</title>
+    <title lang="en">FC Z?rich vs Villarreal CF - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -1335,119 +940,89 @@
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121023000 -0500" stop="20161121041500 -0500" channel="4HD">
-    <title lang="en">Sampdoria vs Sassuolo - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
+  <programme start="20161124234500 -0500" stop="20161125013000 -0500" channel="3HD">
+    <title lang="en">Fenerbah?e SK vs FC Zorya Luhansk - UEFA Europa League - Match day 5</title>
+    <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121041500 -0500" stop="20161121060000 -0500" channel="4HD">
-    <title lang="en">Bologna vs Palermo - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121063000 -0500" channel="4HD">
-    <title lang="en">FIFA WORLD FOOTBALL</title>
+  <programme start="20161125013000 -0500" stop="20161125020000 -0500" channel="3HD">
+    <title lang="en">FootBrazil</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121063000 -0500" stop="20161121081500 -0500" channel="4HD">
-    <title lang="en">Atalanta vs Roma - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121081500 -0500" stop="20161121100000 -0500" channel="4HD">
-    <title lang="en">Milan vs Internazionale - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121102800 -0500" channel="4HD">
-    <title lang="en">FOOTBALL ASIA</title>
+  <programme start="20161125020000 -0500" stop="20161125023000 -0500" channel="3HD">
+    <title lang="en">Zapping Of The Week</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121102800 -0500" stop="20161121121400 -0500" channel="4HD">
-    <title lang="en">Crotone vs Torino - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
+  <programme start="20161125023000 -0500" stop="20161125041500 -0500" channel="3HD">
+    <title lang="en">FC Z?rich vs Villarreal CF - UEFA Europa League - Match day 5</title>
+    <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121121400 -0500" stop="20161121140000 -0500" channel="4HD">
-    <title lang="en">Bologna vs Palermo - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
+  <programme start="20161125041500 -0500" stop="20161125060000 -0500" channel="3HD">
+    <title lang="en">Athletic Club vs US Sassuolo Calcio - UEFA Europa League - Match day 5</title>
+    <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121140000 -0500" stop="20161121143000 -0500" channel="4HD">
-    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
+  <programme start="20161125060000 -0500" stop="20161125063000 -0500" channel="3HD">
+    <title lang="en">EPL LEGEND- Juninho</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="4HD">
-    <title lang="en">Udinese v Napoli - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
+  <programme start="20161125063000 -0500" stop="20161125081500 -0500" channel="3HD">
+    <title lang="en">Fenerbah?e SK vs FC Zorya Luhansk - UEFA Europa League - Match day 5</title>
+    <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121150000 -0500" stop="20161121153000 -0500" channel="4HD">
-    <title lang="en">Juventus v Pescara - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
+  <programme start="20161125081500 -0500" stop="20161125100000 -0500" channel="3HD">
+    <title lang="en">FC Z?rich vs Villarreal CF - UEFA Europa League - Match day 5</title>
+    <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121153000 -0500" stop="20161121160000 -0500" channel="4HD">
-    <title lang="en">Atalanta v Roma - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121163000 -0500" channel="4HD">
-    <title lang="en">Lazio v Genoa - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121163000 -0500" stop="20161121165959 -0500" channel="4HD">
-    <title lang="en">Milan v Inter - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121184500 -0500" channel="4HD">
-    <title lang="en">Empoli vs Fiorentina - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121184500 -0500" stop="20161121203000 -0500" channel="4HD">
-    <title lang="en">Crotone vs Torino - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121203000 -0500" stop="20161121210000 -0500" channel="4HD">
-    <title lang="en">Football Latino</title>
+  <programme start="20161125100000 -0500" stop="20161125103000 -0500" channel="3HD">
+    <title lang="en">FootBrazil</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121210000 -0500" stop="20161121213000 -0500" channel="4HD">
-    <title lang="en">Udinese v Napoli - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121220000 -0500" channel="4HD">
-    <title lang="en">Juventus v Pescara - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161121223000 -0500" channel="4HD">
-    <title lang="en">FIFA WORLD FOOTBALL</title>
+  <programme start="20161125103000 -0500" stop="20161125111000 -0500" channel="3HD">
+    <title lang="en">Bundesliga Special - THE COACH</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121223000 -0500" stop="20161121230000 -0500" channel="4HD">
-    <title lang="en">Atalanta v Roma - MINI MATCHES WEEK 47</title>
+  <programme start="20161125111000 -0500" stop="20161125130000 -0500" channel="3HD">
+    <title lang="en">El Jaish vs Al Kharitiyath - Qatar Stars League 2016vs2017 Week 8</title>
+    <category lang="en">Qatar Stars League</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
+  </programme>
+  <programme start="20161125130000 -0500" stop="20161125133000 -0500" channel="3HD">
+    <title lang="en">STARS - Michael Laudrup</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161125133000 -0500" stop="20161125140000 -0500" channel="3HD">
+    <title lang="en">Zurich v Villarreal - MINI MATCHES WEEK 47</title>
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121230000 -0500" stop="20161121233000 -0500" channel="4HD">
-    <title lang="en">Lazio v Genoa - MINI MATCHES WEEK 47</title>
+  <programme start="20161125140000 -0500" stop="20161125143000 -0500" channel="3HD">
+    <title lang="en">Athletic Club v Sassuolo - MINI MATCHES WEEK 47</title>
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121233000 -0500" stop="20161122000000 -0500" channel="4HD">
-    <title lang="en">Milan v Inter - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
+  <programme start="20161125143000 -0500" stop="20161125150000 -0500" channel="3HD">
+    <title lang="en">LIGA WORLD</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161125150000 -0500" stop="20161125154500 -0500" channel="3HD">
+    <title lang="en">LIGA SHOW</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161125154500 -0500" stop="20161125165959 -0500" channel="3HD">
+    <title lang="en">Eibar vs Real Betis - Spanish League 1 2016vs2017 Week 13</title>
+    <category lang="en">Spanish League - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122000000 -0500" stop="20161122014500 -0500" channel="4HD">
@@ -1641,7 +1216,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123130000 -0500" stop="20161123133000 -0500" channel="4HD">
-    <title lang="en">Football’s Greatest -Hristo Stoichkov</title>
+    <title lang="en">Football?s Greatest -Hristo Stoichkov</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -1756,113 +1331,8 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124160500 -0500" stop="20161124165959 -0500" channel="4HD">
-    <title lang="en">AS Roma vs FC Viktoria Plzeň - UEFA Europa League - Match day 5</title>
+    <title lang="en">AS Roma vs FC Viktoria Plze? - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121003000 -0500" stop="20161121010000 -0500" channel="5HD">
-    <title lang="en">Wolfsburg v Schalke - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121010000 -0500" stop="20161121013000 -0500" channel="5HD">
-    <title lang="en">Dortmund v Bayern Munich - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121020000 -0500" channel="5HD">
-    <title lang="en">Best of CL MD4</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121040000 -0500" channel="5HD">
-    <title lang="en">Augsburg vs Hertha BSC</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121060000 -0500" channel="5HD">
-    <title lang="en">Darmstadt 98 vs Ingolstadt</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121080000 -0500" channel="5HD">
-    <title lang="en">Hoffenheim vs Hamburger SV</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121080000 -0500" stop="20161121094500 -0500" channel="5HD">
-    <title lang="en">Werder Bremen vs Eintracht Frankfurt</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121094500 -0500" stop="20161121101500 -0500" channel="5HD">
-    <title lang="en">Leverkusen v RB Leipzig - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121101500 -0500" stop="20161121104500 -0500" channel="5HD">
-    <title lang="en">Monchengladbach v Cologne - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121104500 -0500" stop="20161121124500 -0500" channel="5HD">
-    <title lang="en">Bochum 1848 vs Eintracht Braunschweig - German League 2 - 2016vs2017</title>
-    <category lang="en">German League - Bundesliga 2nd Divsion</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121124500 -0500" stop="20161121143000 -0500" channel="5HD">
-    <title lang="en">Augsburg vs Hertha BSC</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="5HD">
-    <title lang="en">Wolfsburg v Schalke - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121153000 -0500" channel="5HD">
-    <title lang="en">Dortmund v Bayern Munich - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121153000 -0500" stop="20161121160000 -0500" channel="5HD">
-    <title lang="en">Leverkusen v RB Leipzig - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121163000 -0500" channel="5HD">
-    <title lang="en">Monchengladbach v Cologne - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121163000 -0500" stop="20161121165959 -0500" channel="5HD">
-    <title lang="en">Bremen v Frankfurt - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121184500 -0500" channel="5HD">
-    <title lang="en">Hoffenheim vs Hamburger SV</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121184500 -0500" stop="20161121203000 -0500" channel="5HD">
-    <title lang="en">Werder Bremen vs Eintracht Frankfurt</title>
-    <category lang="en">German League - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121203000 -0500" stop="20161121210000 -0500" channel="5HD">
-    <title lang="en">Wolfsburg v Schalke - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121230000 -0500" channel="5HD">
-    <title lang="en">Bochum 1848 vs Eintracht Braunschweig - German League 2 - 2016vs2017</title>
-    <category lang="en">German League - Bundesliga 2nd Divsion</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121230000 -0500" stop="20161122010000 -0500" channel="5HD">
-    <title lang="en">Darmstadt 98 vs Ingolstadt</title>
-    <category lang="en">German League - Bundesliga</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122010000 -0500" stop="20161122013000 -0500" channel="5HD">
@@ -1931,7 +1401,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122143000 -0500" stop="20161122150000 -0500" channel="5HD">
-    <title lang="en">Football’s Greatest -Hristo Stoichkov</title>
+    <title lang="en">Football?s Greatest -Hristo Stoichkov</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -2121,113 +1591,8 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124160500 -0500" stop="20161124165959 -0500" channel="5HD">
-    <title lang="en">AS Saint-Étienne vs FSV Mainz 05 - UEFA Europa League - Match day 5</title>
+    <title lang="en">AS Saint-?tienne vs FSV Mainz 05 - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121031500 -0500" channel="6HD">
-    <title lang="en">Havre AC vs Amiens - French league 2 - 2016vs2017</title>
-    <category lang="en">French League - Ligue 2</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121031500 -0500" stop="20161121050000 -0500" channel="6HD">
-    <title lang="en">Saint-Etienne vs Nice - French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121053000 -0500" channel="6HD">
-    <title lang="en">UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121053000 -0500" stop="20161121071500 -0500" channel="6HD">
-    <title lang="en">Guingamp vs Bordeaux - French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121071500 -0500" stop="20161121090000 -0500" channel="6HD">
-    <title lang="en">Nancy vs Dijon - French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121090000 -0500" stop="20161121093000 -0500" channel="6HD">
-    <title lang="en">Paris Saint Germain v Nantes - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121093000 -0500" stop="20161121100000 -0500" channel="6HD">
-    <title lang="en">Lille v Lyon - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121114500 -0500" channel="6HD">
-    <title lang="en">Bastia vs Montpellierv- French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121114500 -0500" stop="20161121132700 -0500" channel="6HD">
-    <title lang="en">Havre AC vs Amiens - French league 2 - 2016vs2017</title>
-    <category lang="en">French League - Ligue 2</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121132700 -0500" stop="20161121140000 -0500" channel="6HD">
-    <title lang="en">OFFSIDE - 2016 EP.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121140000 -0500" stop="20161121143000 -0500" channel="6HD">
-    <title lang="en">Marseille v Caen - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="6HD">
-    <title lang="en">St.Etienne v Nice - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121153000 -0500" channel="6HD">
-    <title lang="en">Lorient v Monaco - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121153000 -0500" stop="20161121160000 -0500" channel="6HD">
-    <title lang="en">Paris Saint Germain v Nantes - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121163000 -0500" channel="6HD">
-    <title lang="en">Lille v Lyon - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121163000 -0500" stop="20161121165959 -0500" channel="6HD">
-    <title lang="en">FOOTBALL ASIA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121184500 -0500" channel="6HD">
-    <title lang="en">Nancy vs Dijon - French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121184500 -0500" stop="20161121203000 -0500" channel="6HD">
-    <title lang="en">Bastia vs Montpellierv- French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121203000 -0500" stop="20161121210000 -0500" channel="6HD">
-    <title lang="en">Football’s Greatest -Hristo Stoichkov</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121224500 -0500" channel="6HD">
-    <title lang="en">Havre AC vs Amiens - French league 2 - 2016vs2017</title>
-    <category lang="en">French League - Ligue 2</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121224500 -0500" stop="20161122003000 -0500" channel="6HD">
-    <title lang="en">Toulouse vs Metz - French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122003000 -0500" stop="20161122010000 -0500" channel="6HD">
@@ -2395,12 +1760,12 @@
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123130000 -0500" stop="20161123133000 -0500" channel="6HD">
+  <programme start="20161123130000 -0500" stop="20161123133400 -0500" channel="6HD">
     <title lang="en">OFFSIDE - 2016 EP.1</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123133000 -0500" stop="20161123140000 -0500" channel="6HD">
+  <programme start="20161123133400 -0500" stop="20161123140000 -0500" channel="6HD">
     <title lang="en">St.Etienne v Nice - MINI MATCHES WEEK 47</title>
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
@@ -2415,18 +1780,18 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123150000 -0500" stop="20161123154500 -0500" channel="6HD">
+  <programme start="20161123150000 -0500" stop="20161123153500 -0500" channel="6HD">
     <title lang="en">Bundesliga Special - THE COACH</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123154500 -0500" stop="20161123165959 -0500" channel="6HD">
-    <title lang="en">Club Atlético de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
+  <programme start="20161123153500 -0500" stop="20161123165959 -0500" channel="6HD">
+    <title lang="en">Club Atl?tico de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123174500 -0500" stop="20161123194500 -0500" channel="6HD">
-    <title lang="en">Club Atlético de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">Club Atl?tico de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -2456,7 +1821,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161124020000 -0500" stop="20161124040000 -0500" channel="6HD">
-    <title lang="en">Club Atlético de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">Club Atl?tico de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -2491,7 +1856,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161124100000 -0500" stop="20161124120000 -0500" channel="6HD">
-    <title lang="en">Club Atlético de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">Club Atl?tico de Madrid vs PSV Eindhoven - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -2516,7 +1881,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161124140000 -0500" stop="20161124160500 -0500" channel="6HD">
-    <title lang="en">RC Celta de Vigo vs R. Standard de Liège - UEFA Europa League - Match day 5</title>
+    <title lang="en">RC Celta de Vigo vs R. Standard de Li?ge - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -2524,76 +1889,6 @@
     <title lang="en">Olympiacos FC vs BSC Young Boys - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121003000 -0500" stop="20161121021500 -0500" channel="7HD">
-    <title lang="en">Everton vs Swansea City - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121021500 -0500" stop="20161121040000 -0500" channel="7HD">
-    <title lang="en">Nancy vs Dijon - French League 1st Division - 2016-17 - Week 13</title>
-    <category lang="en">French League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121050000 -0500" channel="7HD">
-    <title lang="en">Blancpain GT Series- Season Revi</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121063000 -0500" channel="7HD">
-    <title lang="en">Navarra vs Jaen - Futsal Spanish League -2016vs2017</title>
-    <category lang="en">Futsal - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121063000 -0500" stop="20161121081500 -0500" channel="7HD">
-    <title lang="en">Oviedo vs Levante - Spanish League 2 (Liga Adelante)</title>
-    <category lang="en">Spanish League - Segunda Division</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121081500 -0500" stop="20161121100000 -0500" channel="7HD">
-    <title lang="en">Basel vs Vaduz - Swiss Super League 2016-17</title>
-    <category lang="en">Football</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121103000 -0500" channel="7HD">
-    <title lang="en">Auto Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121103000 -0500" stop="20161121130000 -0500" channel="7HD">
-    <title lang="en">Judo Qingdao Grand Prix - China 2016 - Day3</title>
-    <category lang="en">Judo</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/judo.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121140000 -0500" channel="7HD">
-    <title lang="en">Blancpain GT Series- Season Revi</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121140000 -0500" stop="20161121165959 -0500" channel="7HD">
-    <title lang="en">Arsenal TV 2016-17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121183000 -0500" channel="7HD">
-    <title lang="en">Bucharest vs Midtjylland - Handball EHF Champions League (W) 2016-17</title>
-    <category lang="en">Handball - EHF Champions League - (Women)</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121183000 -0500" stop="20161121200000 -0500" channel="7HD">
-    <title lang="en">Navarra vs Jaen - Futsal Spanish League -2016vs2017</title>
-    <category lang="en">Futsal - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121223000 -0500" channel="7HD">
-    <title lang="en">Golden State Warriors vs Indiana Pacers - NBA</title>
-    <category lang="en">Basketball - NBA</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121223000 -0500" stop="20161122013000 -0500" channel="7HD">
-    <title lang="en">Arsenal TV 2016-17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122013000 -0500" stop="20161122040000 -0500" channel="7HD">
     <title lang="en">Judo Qingdao Grand Prix - China 2016 - Day3</title>
@@ -2622,7 +1917,7 @@
   </programme>
   <programme start="20161122120000 -0500" stop="20161122133000 -0500" channel="7HD">
     <title lang="en">Navarra vs Jaen - Futsal Spanish League -2016vs2017</title>
-    <category lang="en">Futsal - Primera División</category>
+    <category lang="en">Futsal - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122133000 -0500" stop="20161122150000 -0500" channel="7HD">
@@ -2661,7 +1956,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123023000 -0500" stop="20161123053000 -0500" channel="7HD">
-    <title lang="en">Arsenal TV 2016-17</title>
+    <title lang="en">FD- Arsenal Media IPB</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -2670,14 +1965,14 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123083000 -0500" stop="20161123103000 -0500" channel="7HD">
+  <programme start="20161123083000 -0500" stop="20161123102500 -0500" channel="7HD">
     <title lang="en">GNK Dinamo vs Olympique Lyonnais - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123103000 -0500" stop="20161123120000 -0500" channel="7HD">
+  <programme start="20161123102500 -0500" stop="20161123120000 -0500" channel="7HD">
     <title lang="en">Navarra vs Jaen - Futsal Spanish League -2016vs2017</title>
-    <category lang="en">Futsal - Primera División</category>
+    <category lang="en">Futsal - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123120000 -0500" stop="20161123134500 -0500" channel="7HD">
@@ -2702,7 +1997,7 @@
   </programme>
   <programme start="20161123200000 -0500" stop="20161123213000 -0500" channel="7HD">
     <title lang="en">Navarra vs Jaen - Futsal Spanish League -2016vs2017</title>
-    <category lang="en">Futsal - Primera División</category>
+    <category lang="en">Futsal - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123213000 -0500" stop="20161124000000 -0500" channel="7HD">
@@ -2722,7 +2017,7 @@
   </programme>
   <programme start="20161124023000 -0500" stop="20161124040000 -0500" channel="7HD">
     <title lang="en">Navarra vs Jaen - Futsal Spanish League -2016vs2017</title>
-    <category lang="en">Futsal - Primera División</category>
+    <category lang="en">Futsal - Primera Divisi?n</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161124040000 -0500" stop="20161124060000 -0500" channel="7HD">
@@ -2769,91 +2064,6 @@
     <title lang="en">FK Austria Wien vs FC Astra Giurgiu - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121000000 -0500" stop="20161121020000 -0500" channel="8HD">
-    <title lang="en">Korea DPR vs Papua New Guinea - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121040000 -0500" channel="8HD">
-    <title lang="en">New Zealand vs France - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121043000 -0500" channel="8HD">
-    <title lang="en">GP Confidential</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121050000 -0500" channel="8HD">
-    <title lang="en">FOOTBALL ASIA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121070000 -0500" channel="8HD">
-    <title lang="en">Korea vs Germany - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121080000 -0500" channel="8HD">
-    <title lang="en">Blancpain GT Series- Season Revi</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121080000 -0500" stop="20161121100000 -0500" channel="8HD">
-    <title lang="en">Golden State Warriors vs Milwaukee Bucks - NBA</title>
-    <category lang="en">Basketball - NBA</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121113000 -0500" channel="8HD">
-    <title lang="en">Gyori vs Rostov Handball EHF Men's Championship 2017</title>
-    <category lang="en">Handball - EHF Champions League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121133000 -0500" channel="8HD">
-    <title lang="en">New Zealand vs France - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121153000 -0500" channel="8HD">
-    <title lang="en">Korea vs Germany - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121153000 -0500" stop="20161121165959 -0500" channel="8HD">
-    <title lang="en">Nantes vs Zaporaze - Handball EHF Champions League (W) 2016-17</title>
-    <category lang="en">Handball - EHF Champions League - (Women)</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121183000 -0500" channel="8HD">
-    <title lang="en">Gyori vs Rostov Handball EHF Men's Championship 2017</title>
-    <category lang="en">Handball - EHF Champions League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121183000 -0500" stop="20161121201500 -0500" channel="8HD">
-    <title lang="en">Fenerbache vs Anadolu - Basketball Euroleague 2016vs17</title>
-    <category lang="en">Basketball - Euroleague - (Women)</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121201500 -0500" stop="20161121210000 -0500" channel="8HD">
-    <title lang="en">GP Confidential</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121213000 -0500" channel="8HD">
-    <title lang="en">Auto Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121220000 -0500" channel="8HD">
-    <title lang="en">FOOTBALL ASIA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161122000000 -0500" channel="8HD">
-    <title lang="en">New Zealand vs France - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122000000 -0500" stop="20161122020000 -0500" channel="8HD">
     <title lang="en">Korea vs Germany - FIFA U20 Womens World Cup</title>
@@ -2916,12 +2126,12 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122153500 -0500" stop="20161122165959 -0500" channel="8HD">
-    <title lang="en">FC København vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">FC K?benhavn vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122174500 -0500" stop="20161122200000 -0500" channel="8HD">
-    <title lang="en">FC København vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">FC K?benhavn vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -2966,7 +2176,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123050000 -0500" stop="20161123070000 -0500" channel="8HD">
-    <title lang="en">FC København vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">FC K?benhavn vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -2991,7 +2201,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123113000 -0500" stop="20161123133000 -0500" channel="8HD">
-    <title lang="en">FC København vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
+    <title lang="en">FC K?benhavn vs FC Porto - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
@@ -3100,81 +2310,6 @@
     <category lang="en">Basketball - Euroleague - (Women)</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121000000 -0500" stop="20161121020000 -0500" channel="9HD">
-    <title lang="en">Brazil vs Sweden - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121040000 -0500" channel="9HD">
-    <title lang="en">USA vs Ghana - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121043000 -0500" channel="9HD">
-    <title lang="en">Auto Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121050000 -0500" channel="9HD">
-    <title lang="en">Trans World Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121070000 -0500" channel="9HD">
-    <title lang="en">Venezuela vs Mexico - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121090000 -0500" channel="9HD">
-    <title lang="en">Equestrian FEI World Cup Germany - Jumping</title>
-    <category lang="en">Equestrian</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121090000 -0500" stop="20161121093000 -0500" channel="9HD">
-    <title lang="en">FOOTBALL ASIA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121093000 -0500" stop="20161121111500 -0500" channel="9HD">
-    <title lang="en">Boca Juniors vs Rosario Central - Argentine League 2016-2017</title>
-    <category lang="en">Argentina League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121111500 -0500" stop="20161121130000 -0500" channel="9HD">
-    <title lang="en">Newell's Old Boys vs River Plate - Argentine League 2016-2017</title>
-    <category lang="en">Argentina League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121160000 -0500" channel="9HD">
-    <title lang="en">Real Madrid TV - 2016</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121163000 -0500" channel="9HD">
-    <title lang="en">Auto Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121163000 -0500" stop="20161121165959 -0500" channel="9HD">
-    <title lang="en">GP Confidential</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121190000 -0500" channel="9HD">
-    <title lang="en">Nigeria vs Ghana - Afcon Women's 2016</title>
-    <category lang="en">African Cup of Nations</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121190000 -0500" stop="20161121220000 -0500" channel="9HD">
-    <title lang="en">Real Madrid TV - 2016</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161122000000 -0500" channel="9HD">
-    <title lang="en">USA vs Ghana - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
   <programme start="20161122000000 -0500" stop="20161122020000 -0500" channel="9HD">
     <title lang="en">Venezuela vs Mexico - FIFA U20 Womens World Cup</title>
     <category lang="en">FIFA World Cup U20</category>
@@ -3230,12 +2365,12 @@
     <category lang="en">Basketball - Euroleague - (Women)</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122190000 -0500" stop="20161122204500 -0500" channel="9HD">
+  <programme start="20161122190000 -0500" stop="20161122210000 -0500" channel="9HD">
     <title lang="en">Zimbabwe vs Egypt - Afcon Women's 2016</title>
     <category lang="en">African Cup of Nations</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122204500 -0500" stop="20161122230000 -0500" channel="9HD">
+  <programme start="20161122210000 -0500" stop="20161122230000 -0500" channel="9HD">
     <title lang="en">Equestrian FEI World Cup Germany - Jumping</title>
     <category lang="en">Equestrian</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
@@ -3260,9 +2395,14 @@
     <category lang="en">Basketball - Euroleague - (Women)</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123050000 -0500" stop="20161123073000 -0500" channel="9HD">
+  <programme start="20161123050000 -0500" stop="20161123070000 -0500" channel="9HD">
     <title lang="en">Equestrian FEI World Cup Germany - Jumping</title>
     <category lang="en">Equestrian</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161123070000 -0500" stop="20161123073000 -0500" channel="9HD">
+    <title lang="en">Trans World Sports</title>
+    <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123073000 -0500" stop="20161123080000 -0500" channel="9HD">
@@ -3301,7 +2441,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123151500 -0500" stop="20161123165959 -0500" channel="9HD">
-    <title lang="en">GWD Minden vs Rhein-Neckar Löwen - Bundesliga Handball 2016vs17 Season - Week 13</title>
+    <title lang="en">GWD Minden vs Rhein-Neckar L?wen - Bundesliga Handball 2016vs17 Season - Week 13</title>
     <category lang="en">Handball - Bundesliga</category>
     <icon src="https://static.beinsports-social.com/img/show_types/handball.png" />
   </programme>
@@ -3321,7 +2461,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123223000 -0500" stop="20161124000000 -0500" channel="9HD">
-    <title lang="en">GWD Minden vs Rhein-Neckar Löwen - Bundesliga Handball 2016vs17 Season - Week 13</title>
+    <title lang="en">GWD Minden vs Rhein-Neckar L?wen - Bundesliga Handball 2016vs17 Season - Week 13</title>
     <category lang="en">Handball - Bundesliga</category>
     <icon src="https://static.beinsports-social.com/img/show_types/handball.png" />
   </programme>
@@ -3351,7 +2491,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161124083000 -0500" stop="20161124100000 -0500" channel="9HD">
-    <title lang="en">GWD Minden vs Rhein-Neckar Löwen - Bundesliga Handball 2016vs17 Season - Week 13</title>
+    <title lang="en">GWD Minden vs Rhein-Neckar L?wen - Bundesliga Handball 2016vs17 Season - Week 13</title>
     <category lang="en">Handball - Bundesliga</category>
     <icon src="https://static.beinsports-social.com/img/show_types/handball.png" />
   </programme>
@@ -3374,106 +2514,6 @@
     <title lang="en">Dundalk FC vs AZ Alkmaar - UEFA Europa League - Match day 5</title>
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121001500 -0500" stop="20161121011500 -0500" channel="10HD">
-    <title lang="en">Womens Doubles Final - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121011500 -0500" stop="20161121021500 -0500" channel="10HD">
-    <title lang="en">Mens Doubles Final - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121021500 -0500" stop="20161121024500 -0500" channel="10HD">
-    <title lang="en">ATP WORLD TOUR UNCOVERED</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121024500 -0500" stop="20161121043000 -0500" channel="10HD">
-    <title lang="en">Sada Cruziero vs Zenit Kazan Finals - FIVB Volleyball Men's Club World Championship 2016</title>
-    <category lang="en">FIVB Volleyball Club World Championships</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/volleyball.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121050000 -0500" channel="10HD">
-    <title lang="en">Studio Before ATP World Tours Final 2016</title>
-    <category lang="en">Tennis - ATP World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121071000 -0500" channel="10HD">
-    <title lang="en">Andy Murray vs Novak Djokovic - ATP World Tours Final 2016- The Final</title>
-    <category lang="en">Tennis - ATP World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121071000 -0500" stop="20161121073500 -0500" channel="10HD">
-    <title lang="en">Andy Murray vs Novak Djokovic - ATP World Tours Final 2016- The Final</title>
-    <category lang="en">Tennis - ATP World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121073500 -0500" stop="20161121081500 -0500" channel="10HD">
-    <title lang="en">WTA Magazine -</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121081500 -0500" stop="20161121084500 -0500" channel="10HD">
-    <title lang="en">Auto Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121084500 -0500" stop="20161121113000 -0500" channel="10HD">
-    <title lang="en">Eczacibasi Vitra Istanbul vs Pomi Casalmaggiore -Finals - FIVB Volleyball Women's Club World Champio</title>
-    <category lang="en">Volleyball - FIVB Club World Championship - Women</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/volleyball.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121123500 -0500" channel="10HD">
-    <title lang="en">Mens Singles Final - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121123500 -0500" stop="20161121133000 -0500" channel="10HD">
-    <title lang="en">Womens Singles Finals - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121143000 -0500" channel="10HD">
-    <title lang="en">Womens Doubles Final - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121163000 -0500" channel="10HD">
-    <title lang="en">Sada Cruziero vs Zenit Kazan Finals - FIVB Volleyball Men's Club World Championship 2016</title>
-    <category lang="en">FIVB Volleyball Club World Championships</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/volleyball.png" />
-  </programme>
-  <programme start="20161121163000 -0500" stop="20161121165959 -0500" channel="10HD">
-    <title lang="en">Trans World Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121191500 -0500" channel="10HD">
-    <title lang="en">Andy Murray vs Novak Djokovic - ATP World Tours Final 2016- The Final</title>
-    <category lang="en">Tennis - ATP World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121191500 -0500" stop="20161121200000 -0500" channel="10HD">
-    <title lang="en">Auto Mundial</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121210000 -0500" channel="10HD">
-    <title lang="en">EQUISTRIAN - World Cup Jumping</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121220000 -0500" channel="10HD">
-    <title lang="en">Womens Singles Finals - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161122010000 -0500" channel="10HD">
-    <title lang="en">Eczacibasi Vitra Istanbul vs Pomi Casalmaggiore -Finals - FIVB Volleyball Women's Club World Champio</title>
-    <category lang="en">Volleyball - FIVB Club World Championship - Women</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/volleyball.png" />
   </programme>
   <programme start="20161122010000 -0500" stop="20161122031500 -0500" channel="10HD">
     <title lang="en">Andy Murray vs Novak Djokovic - ATP World Tours Final 2016- The Final</title>
@@ -3536,9 +2576,9 @@
     <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
   </programme>
   <programme start="20161123020000 -0500" stop="20161123030000 -0500" channel="10HD">
-    <title lang="en">Mens Singles Final - Table Tennis ITTF Swedish Open - 2016</title>
-    <category lang="en">Table Tennis - World Tour</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
+    <title lang="en">Match Point</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123030000 -0500" stop="20161123063000 -0500" channel="10HD">
     <title lang="en">Andy Murray vs Novak Djokovic - Mens Single Final - First Session Rod Laver Arena 2016</title>
@@ -3634,146 +2674,6 @@
     <title lang="en">Womens Singles Finals - Table Tennis ITTF Swedish Open - 2016</title>
     <category lang="en">Table Tennis - World Tour</category>
     <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121020000 -0500" channel="11HD">
-    <title lang="en">Southampton v Liverpool - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121023000 -0500" channel="11HD">
-    <title lang="en">EPL Legends - Ruud van Nistelrooy</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121023000 -0500" stop="20161121060000 -0500" channel="11HD">
-    <title lang="en">Milan vs Internazionale - Italian League ( Serie A ) 2016 - 2017 Week 13</title>
-    <category lang="en">Italian League - Serie A</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121063000 -0500" channel="11HD">
-    <title lang="en">Tottenham v West Ham - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121063000 -0500" stop="20161121070000 -0500" channel="11HD">
-    <title lang="en">FOOTBALL LEAGUE SHOW - CHAMPIONSHIP HIGHLIGHTS 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121073000 -0500" channel="11HD">
-    <title lang="en">English News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121073000 -0500" stop="20161121080000 -0500" channel="11HD">
-    <title lang="en">Middlesbrough v Chelsea - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121080000 -0500" stop="20161121090000 -0500" channel="11HD">
-    <title lang="en">BUNDESLIGA SUNDAY HIGHLIGHTS 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121090000 -0500" stop="20161121093000 -0500" channel="11HD">
-    <title lang="en">EPL News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121093000 -0500" stop="20161121100000 -0500" channel="11HD">
-    <title lang="en">Atletico Madrid v Real Madrid - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121110000 -0500" channel="11HD">
-    <title lang="en">EPL SUNDAY REVIEW 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121113000 -0500" channel="11HD">
-    <title lang="en">English News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121130000 -0500" channel="11HD">
-    <title lang="en">Football Today</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121133000 -0500" channel="11HD">
-    <title lang="en">English News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121140000 -0500" channel="11HD">
-    <title lang="en">EPL WORLD 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121140000 -0500" stop="20161121143000 -0500" channel="11HD">
-    <title lang="en">Crystal Palace v Manchester City - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="11HD">
-    <title lang="en">Middlesbrough v Chelsea - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121165959 -0500" channel="11HD">
-    <title lang="en">West Bromwich Albion vs Burnley - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121181500 -0500" stop="20161121183000 -0500" channel="11HD">
-    <title lang="en">Manchester United v Arsenal</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121183000 -0500" stop="20161121190000 -0500" channel="11HD">
-    <title lang="en">FOOTBALL LEAGUE SHOW - CHAMPIONSHIP HIGHLIGHTS 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121190000 -0500" stop="20161121193000 -0500" channel="11HD">
-    <title lang="en">Atalanta v Roma - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121193000 -0500" stop="20161121200000 -0500" channel="11HD">
-    <title lang="en">Dortmund v Bayern Munich - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121203000 -0500" channel="11HD">
-    <title lang="en">EPL WORLD 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121203000 -0500" stop="20161121210000 -0500" channel="11HD">
-    <title lang="en">Southampton v Liverpool - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121213000 -0500" channel="11HD">
-    <title lang="en">Tottenham v West Ham - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121220000 -0500" channel="11HD">
-    <title lang="en">Athletic Club v Villarreal - MINI MATCHES WEEK 47</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161121223000 -0500" channel="11HD">
-    <title lang="en">UCL Magazine Show 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121223000 -0500" stop="20161122014500 -0500" channel="11HD">
-    <title lang="en">West Bromwich Albion vs Burnley - English Premier League 2016vs2017 Week 15</title>
-    <category lang="en">English Premier League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122014500 -0500" stop="20161122020000 -0500" channel="11HD">
     <title lang="en">Manchester United v Arsenal</title>
@@ -3960,15 +2860,25 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123033000 -0500" stop="20161123041500 -0500" channel="11HD">
+  <programme start="20161123033000 -0500" stop="20161123040000 -0500" channel="11HD">
     <title lang="en">THIS IS PARIS MATCH 2016vs17</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123041500 -0500" stop="20161123070000 -0500" channel="11HD">
+  <programme start="20161123040000 -0500" stop="20161123041500 -0500" channel="11HD">
+    <title lang="en">Paris Saint Germain v Nantes</title>
+    <category lang="en">Mini Matches</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
+  </programme>
+  <programme start="20161123041500 -0500" stop="20161123063000 -0500" channel="11HD">
     <title lang="en">AS Monaco FC vs Tottenham Hotspur FC - UEFA Champions League 16vs17 - Match Day 5</title>
     <category lang="en">UEFA Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
+  </programme>
+  <programme start="20161123063000 -0500" stop="20161123070000 -0500" channel="11HD">
+    <title lang="en">EPL Legends - Ruud van Nistelrooy</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123070000 -0500" stop="20161123073000 -0500" channel="11HD">
     <title lang="en">English News</title>
@@ -3980,10 +2890,15 @@
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123080000 -0500" stop="20161123090000 -0500" channel="11HD">
+  <programme start="20161123080000 -0500" stop="20161123084500 -0500" channel="11HD">
     <title lang="en">UCL MD5 TUESDAY REVIEW</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161123084500 -0500" stop="20161123090000 -0500" channel="11HD">
+    <title lang="en">Atletico Madrid v Real Madrid</title>
+    <category lang="en">Mini Matches</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161123090000 -0500" stop="20161123093000 -0500" channel="11HD">
     <title lang="en">EPL News</title>
@@ -4150,96 +3065,6 @@
     <category lang="en">UEFA Europa League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161121003000 -0500" stop="20161121013000 -0500" channel="12HD">
-    <title lang="en">GOLFING WORLD 2016</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121015000 -0500" channel="12HD">
-    <title lang="en">Paris Saint Germain v Nantes</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121015000 -0500" stop="20161121040000 -0500" channel="12HD">
-    <title lang="en">New Zealand vs France - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121043000 -0500" channel="12HD">
-    <title lang="en">Football Asia</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121045000 -0500" channel="12HD">
-    <title lang="en">Dortmund v Bayern Munich</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121045000 -0500" stop="20161121070000 -0500" channel="12HD">
-    <title lang="en">Korea vs Germany - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121073000 -0500" channel="12HD">
-    <title lang="en">FootBrazil</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121073000 -0500" stop="20161121080000 -0500" channel="12HD">
-    <title lang="en">Omni sport</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121080000 -0500" stop="20161121090000 -0500" channel="12HD">
-    <title lang="en">GOLFING WORLD 2016</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121090000 -0500" stop="20161121120000 -0500" channel="12HD">
-    <title lang="en">Green Bay Packers vs Washington Redskins - NFL - National Footbal League - 2016vs2017 Week 11</title>
-    <category lang="en">NFL- National Football League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121120000 -0500" stop="20161121123000 -0500" channel="12HD">
-    <title lang="en">Arsenal World 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121123000 -0500" stop="20161121143500 -0500" channel="12HD">
-    <title lang="en">Equestrian FEI World Cup Germany - Jumping</title>
-    <category lang="en">Equestrian</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121143500 -0500" stop="20161121153500 -0500" channel="12HD">
-    <title lang="en">FRENCH LIGUE 1 HIGHLIGHTS 2016vs17</title>
-    <category lang="en">Leagues Summary</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121153500 -0500" stop="20161121165959 -0500" channel="12HD">
-    <title lang="en">Leganes vs Osasuna - Spanish League 1 2016vs2017 Week 12</title>
-    <category lang="en">Spanish League - Primera División</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121174500 -0500" stop="20161121180000 -0500" channel="12HD">
-    <title lang="en">Atletico Madrid v Real Madrid</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121180000 -0500" stop="20161121210000 -0500" channel="12HD">
-    <title lang="en">Green Bay Packers vs Washington Redskins - NFL - National Footbal League - 2016vs2017 Week 11</title>
-    <category lang="en">NFL- National Football League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121213000 -0500" channel="12HD">
-    <title lang="en">NFL GAME DAY 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161122003000 -0500" channel="12HD">
-    <title lang="en">Houston Texans vs Oakland Raiders - NFL - National Footbal League - 2016vs2017 Week 11</title>
-    <category lang="en">NFL- National Football League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
   <programme start="20161122003000 -0500" stop="20161122013000 -0500" channel="12HD">
     <title lang="en">GOLFING WORLD 2016</title>
     <category lang="en">Sports General</category>
@@ -4315,20 +3140,30 @@
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161122180000 -0500" stop="20161122210000 -0500" channel="12HD">
+  <programme start="20161122180000 -0500" stop="20161122203000 -0500" channel="12HD">
     <title lang="en">Houston Texans vs Oakland Raiders - NFL - National Footbal League - 2016vs2017 Week 11</title>
     <category lang="en">NFL- National Football League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
+  </programme>
+  <programme start="20161122203000 -0500" stop="20161122210000 -0500" channel="12HD">
+    <title lang="en">Football Asia</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122210000 -0500" stop="20161122213000 -0500" channel="12HD">
     <title lang="en">Arsenal World 2016vs17</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122213000 -0500" stop="20161123000000 -0500" channel="12HD">
+  <programme start="20161122213000 -0500" stop="20161122231000 -0500" channel="12HD">
     <title lang="en">Squash Qatar Classic 2016 - The Finals Men's</title>
     <category lang="en">Squash Chamionships</category>
     <icon src="https://static.beinsports-social.com/img/show_types/squash.png" />
+  </programme>
+  <programme start="20161122231000 -0500" stop="20161123000000 -0500" channel="12HD">
+    <title lang="en">Transworld Sport</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123000000 -0500" stop="20161123003000 -0500" channel="12HD">
     <title lang="en">SERIE A SHOW 2016vs17</title>
@@ -4515,91 +3350,6 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121011500 -0500" stop="20161121015000 -0500" channel="13HD">
-    <title lang="en">NBA ACTION 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121015000 -0500" stop="20161121040000 -0500" channel="13HD">
-    <title lang="en">USA vs Ghana - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121043000 -0500" channel="13HD">
-    <title lang="en">International Rugby Review Show</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121045000 -0500" channel="13HD">
-    <title lang="en">Manchester United v Arsenal</title>
-    <category lang="en">Mini Matches</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121045000 -0500" stop="20161121070000 -0500" channel="13HD">
-    <title lang="en">Venezuela vs Mexico - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121084500 -0500" channel="13HD">
-    <title lang="en">Wales vs Japan - Rugby Autumn Internationals - 2016</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
-  <programme start="20161121084500 -0500" stop="20161121103000 -0500" channel="13HD">
-    <title lang="en">Ireland vs New Zealand - Rugby Autumn Internationals - 2016</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
-  <programme start="20161121103000 -0500" stop="20161121113000 -0500" channel="13HD">
-    <title lang="en">2016 ATP 1000 EVENT HIGHLIGHTS - LONDON</title>
-    <category lang="en">Tennis</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121133000 -0500" channel="13HD">
-    <title lang="en">Portland Trailblazers vs Brooklyn Nets - NBA</title>
-    <category lang="en">Basketball - NBA</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121151500 -0500" channel="13HD">
-    <title lang="en">Scotland vs Argentina - Rugby Autumn Internationals - 2016</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
-  <programme start="20161121151500 -0500" stop="20161121165959 -0500" channel="13HD">
-    <title lang="en">Wales vs Japan - Rugby Autumn Internationals - 2016</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121190000 -0500" channel="13HD">
-    <title lang="en">USA vs Ghana - FIFA U20 Womens World Cup</title>
-    <category lang="en">FIFA World Cup U20</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121190000 -0500" stop="20161121193000 -0500" channel="13HD">
-    <title lang="en">International Rugby Review Show</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
-  <programme start="20161121193000 -0500" stop="20161121200000 -0500" channel="13HD">
-    <title lang="en">NBA Inside Stuff 2016vs17</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121223000 -0500" channel="13HD">
-    <title lang="en">Golden State Warriors vs Indiana Pacers - NBA</title>
-    <category lang="en">Basketball - NBA</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121223000 -0500" stop="20161121233000 -0500" channel="13HD">
-    <title lang="en">2016 ATP 1000 EVENT HIGHLIGHTS - LONDON</title>
-    <category lang="en">Tennis</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/tennis.png" />
-  </programme>
-  <programme start="20161121233000 -0500" stop="20161122011500 -0500" channel="13HD">
-    <title lang="en">Ireland vs New Zealand - Rugby Autumn Internationals - 2016</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
-  </programme>
   <programme start="20161122011500 -0500" stop="20161122030000 -0500" channel="13HD">
     <title lang="en">Scotland vs Argentina - Rugby Autumn Internationals - 2016</title>
     <category lang="en">Rugby</category>
@@ -4690,47 +3440,47 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122233000 -0500" stop="20161123013000 -0500" channel="13HD">
+  <programme start="20161122233000 -0500" stop="20161123024500 -0500" channel="13HD">
     <title lang="en">F1 Brazil - GP RACE</title>
     <category lang="en">Formula One World Championship</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123013000 -0500" stop="20161123031500 -0500" channel="13HD">
-    <title lang="en">Ireland vs New Zealand - Rugby Autumn Internationals - 2016</title>
-    <category lang="en">Rugby</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
+  <programme start="20161123024500 -0500" stop="20161123031500 -0500" channel="13HD">
+    <title lang="en">NBA Inside Stuff 2016vs17</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123031500 -0500" stop="20161123050000 -0500" channel="13HD">
     <title lang="en">Wales vs Japan - Rugby Autumn Internationals - 2016</title>
     <category lang="en">Rugby</category>
     <icon src="https://static.beinsports-social.com/img/show_types/rugby.png" />
   </programme>
-  <programme start="20161123050000 -0500" stop="20161123070000 -0500" channel="13HD">
+  <programme start="20161123050000 -0500" stop="20161123065800 -0500" channel="13HD">
     <title lang="en">Portland Trailblazers vs New York Knicks - NBA</title>
     <category lang="en">Basketball - NBA</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123070000 -0500" stop="20161123084500 -0500" channel="13HD">
+  <programme start="20161123065800 -0500" stop="20161123084500 -0500" channel="13HD">
     <title lang="en">USA vs Ghana - FIFA U20 Womens World Cup</title>
     <category lang="en">FIFA World Cup U20</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123084500 -0500" stop="20161123103000 -0500" channel="13HD">
+  <programme start="20161123084500 -0500" stop="20161123103200 -0500" channel="13HD">
     <title lang="en">Venezuela vs Mexico - FIFA U20 Womens World Cup</title>
     <category lang="en">FIFA World Cup U20</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123103000 -0500" stop="20161123113000 -0500" channel="13HD">
+  <programme start="20161123103200 -0500" stop="20161123113100 -0500" channel="13HD">
     <title lang="en">Champions factory : Colombian Cycling</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123113000 -0500" stop="20161123133000 -0500" channel="13HD">
+  <programme start="20161123113100 -0500" stop="20161123132800 -0500" channel="13HD">
     <title lang="en">Portland Trailblazers vs New York Knicks - NBA</title>
     <category lang="en">Basketball - NBA</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123133000 -0500" stop="20161123134500 -0500" channel="13HD">
+  <programme start="20161123132800 -0500" stop="20161123134500 -0500" channel="13HD">
     <title lang="en">Barcelona v Malaga</title>
     <category lang="en">Mini Matches</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
@@ -4819,126 +3569,6 @@
     <title lang="en">DUTCH LEAGUE HIGHLIGHTS 2016vs17</title>
     <category lang="en">Leagues Summary</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121000000 -0500" stop="20161121003000 -0500" channel="14HD">
-    <title lang="en">Football Magazine Ligue Des Champions</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121003000 -0500" stop="20161121010000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121010000 -0500" stop="20161121031500 -0500" channel="14HD">
-    <title lang="en">Expresso</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121031500 -0500" stop="20161121034000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121034000 -0500" stop="20161121035500 -0500" channel="14HD">
-    <title lang="en">Expresso</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121035500 -0500" stop="20161121042000 -0500" channel="14HD">
-    <title lang="en">Bundesliga</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121042000 -0500" stop="20161121050000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121064500 -0500" channel="14HD">
-    <title lang="en">Nba</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121064500 -0500" stop="20161121073000 -0500" channel="14HD">
-    <title lang="en">NBA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121073000 -0500" stop="20161121080500 -0500" channel="14HD">
-    <title lang="en">Football Magazine Ligue Des Champions</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121080500 -0500" stop="20161121082500 -0500" channel="14HD">
-    <title lang="en">Expresso</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121082500 -0500" stop="20161121085000 -0500" channel="14HD">
-    <title lang="en">Serie A- J13</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121085000 -0500" stop="20161121090500 -0500" channel="14HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121090500 -0500" stop="20161121093500 -0500" channel="14HD">
-    <title lang="en">Bundesliga - J11</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121093500 -0500" stop="20161121100000 -0500" channel="14HD">
-    <title lang="en">Bundesliga</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121101500 -0500" channel="14HD">
-    <title lang="en">Expresso</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121101500 -0500" stop="20161121120000 -0500" channel="14HD">
-    <title lang="en">Ligue 1 - J13</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121120000 -0500" stop="20161121123000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121123000 -0500" stop="20161121140500 -0500" channel="14HD">
-    <title lang="en">Happy Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121140500 -0500" stop="20161121143000 -0500" channel="14HD">
-    <title lang="en">Bundesliga</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121165959 -0500" channel="14HD">
-    <title lang="en">Le Football Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121174000 -0500" stop="20161121184000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121184000 -0500" stop="20161122000000 -0500" channel="14HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161122000000 -0500" stop="20161122002500 -0500" channel="14HD">
     <title lang="en">Ligue Des Champions Masculine J06</title>
@@ -5035,8 +3665,8 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122184500 -0500" stop="20161122190000 -0500" channel="14HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
+  <programme start="20161122174500 -0500" stop="20161122190000 -0500" channel="14HD">
+    <title lang="en">Le Champions Show</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -5045,23 +3675,23 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123000000 -0500" stop="20161123003000 -0500" channel="14HD">
+  <programme start="20161123000000 -0500" stop="20161123013000 -0500" channel="14HD">
     <title lang="en">This Is Paris</title>
     <category lang="en">Entertainment</category>
     <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
   </programme>
-  <programme start="20161123003000 -0500" stop="20161123010000 -0500" channel="14HD">
+  <programme start="20161123013000 -0500" stop="20161123020000 -0500" channel="14HD">
     <title lang="en">Bundesliga - J10</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123010000 -0500" stop="20161123031500 -0500" channel="14HD">
+  <programme start="20161123020000 -0500" stop="20161123040000 -0500" channel="14HD">
     <title lang="en">Expresso</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123031500 -0500" stop="20161123050000 -0500" channel="14HD">
-    <title lang="en">Ligue 1 - J12</title>
+  <programme start="20161123040000 -0500" stop="20161123050000 -0500" channel="14HD">
+    <title lang="en">Le Champions Show</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -5225,101 +3855,6 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121000000 -0500" stop="20161121015500 -0500" channel="15HD">
-    <title lang="en">Production</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121015500 -0500" stop="20161121020000 -0500" channel="15HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121043000 -0500" channel="15HD">
-    <title lang="en">Serie A- J13</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121043000 -0500" stop="20161121053000 -0500" channel="15HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121053000 -0500" stop="20161121071500 -0500" channel="15HD">
-    <title lang="en">Bundesliga - J11</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121071500 -0500" stop="20161121094000 -0500" channel="15HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121094000 -0500" stop="20161121104500 -0500" channel="15HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121104500 -0500" stop="20161121113500 -0500" channel="15HD">
-    <title lang="en">Bundesliga - J11</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121113500 -0500" stop="20161121123000 -0500" channel="15HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121123000 -0500" stop="20161121141500 -0500" channel="15HD">
-    <title lang="en">Ligue 1 - J13</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121141500 -0500" stop="20161121144500 -0500" channel="15HD">
-    <title lang="en">Football Magazine Ligue Des Champions</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121144500 -0500" stop="20161121153500 -0500" channel="15HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121153500 -0500" stop="20161121163000 -0500" channel="15HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121163000 -0500" stop="20161121165959 -0500" channel="15HD">
-    <title lang="en">Bundesliga</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121173000 -0500" channel="15HD">
-    <title lang="en">Liga - J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121173000 -0500" stop="20161121173000 -0500" channel="15HD">
-    <title lang="en">Serie A- J13</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121173000 -0500" stop="20161121180000 -0500" channel="15HD">
-    <title lang="en">Bundesliga - J11</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121180000 -0500" stop="20161121190000 -0500" channel="15HD">
-    <title lang="en">Ligue 2 - J15</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121190000 -0500" stop="20161122000000 -0500" channel="15HD">
-    <title lang="en">Ligue 2 - J15</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
   <programme start="20161122000000 -0500" stop="20161122005000 -0500" channel="15HD">
     <title lang="en">World Cup Qualification</title>
     <category lang="en">Sports General</category>
@@ -5385,28 +3920,38 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122204000 -0500" stop="20161122210500 -0500" channel="15HD">
+  <programme start="20161122174500 -0500" stop="20161122203000 -0500" channel="15HD">
+    <title lang="en">Champions League-j5 Monaco-tottenham</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161122203000 -0500" stop="20161122221500 -0500" channel="15HD">
     <title lang="en">Ca Se Passe Sur Bein Sports</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122210500 -0500" stop="20161122231000 -0500" channel="15HD">
-    <title lang="en">World Cup Qualification</title>
+  <programme start="20161122221500 -0500" stop="20161123000000 -0500" channel="15HD">
+    <title lang="en">Serie A-j13:juventus-pescara</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122231000 -0500" stop="20161123020000 -0500" channel="15HD">
-    <title lang="en">Production</title>
+  <programme start="20161123000000 -0500" stop="20161123010000 -0500" channel="15HD">
+    <title lang="en">Atletico Madrid-real Madrid</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123020000 -0500" stop="20161123053000 -0500" channel="15HD">
-    <title lang="en">World Cup Qualification</title>
+  <programme start="20161123010000 -0500" stop="20161123030000 -0500" channel="15HD">
+    <title lang="en">?a Se Passe Sur Bein Sports</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123053000 -0500" stop="20161123090000 -0500" channel="15HD">
-    <title lang="en">Amical</title>
+  <programme start="20161123030000 -0500" stop="20161123044500 -0500" channel="15HD">
+    <title lang="en">Champions League-j5:seville - Juventus</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161123044500 -0500" stop="20161123090000 -0500" channel="15HD">
+    <title lang="en">Champions League-j5:dortmund - Legia</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
@@ -5505,81 +4050,6 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121000000 -0500" stop="20161121013000 -0500" channel="16HD">
-    <title lang="en">Amical</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121033000 -0500" channel="16HD">
-    <title lang="en">Production</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121033000 -0500" stop="20161121051500 -0500" channel="16HD">
-    <title lang="en">Nba</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121051500 -0500" stop="20161121090000 -0500" channel="16HD">
-    <title lang="en">Amical</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121090000 -0500" stop="20161121110000 -0500" channel="16HD">
-    <title lang="en">Londres</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121130000 -0500" channel="16HD">
-    <title lang="en">Nfl J12</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121134500 -0500" channel="16HD">
-    <title lang="en">NBA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121134500 -0500" stop="20161121141500 -0500" channel="16HD">
-    <title lang="en">Ca Se Passe Sur Bein Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121141500 -0500" stop="20161121161000 -0500" channel="16HD">
-    <title lang="en">Londres</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121161000 -0500" stop="20161121164500 -0500" channel="16HD">
-    <title lang="en">Achat</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121164500 -0500" stop="20161121165959 -0500" channel="16HD">
-    <title lang="en">NBA</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121171000 -0500" stop="20161121173000 -0500" channel="16HD">
-    <title lang="en">Achat</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121173000 -0500" stop="20161121183000 -0500" channel="16HD">
-    <title lang="en">Happy Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121183000 -0500" stop="20161121235500 -0500" channel="16HD">
-    <title lang="en">Happy Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121235500 -0500" stop="20161122013500 -0500" channel="16HD">
-    <title lang="en">Amical</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
   <programme start="20161122013500 -0500" stop="20161122031500 -0500" channel="16HD">
     <title lang="en">Production</title>
     <category lang="en">Sports General</category>
@@ -5630,7 +4100,12 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122170500 -0500" stop="20161122182000 -0500" channel="16HD">
+  <programme start="20161122170500 -0500" stop="20161122174500 -0500" channel="16HD">
+    <title lang="en">NBA</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161122174500 -0500" stop="20161122182000 -0500" channel="16HD">
     <title lang="en">NBA</title>
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
@@ -5790,91 +4265,6 @@
     <category lang="en">Sports General</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161121000000 -0500" stop="20161121013000 -0500" channel="1441297460beINSports">
-    <title lang="en">Rhein-Neckar Löwen vs Füchse Berlin - Bundesliga Handball 2016vs17 Season - Week 12</title>
-    <category lang="en">Handball - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/handball.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121031500 -0500" channel="1441297460beINSports">
-    <title lang="en">Al Sadd vs Al Wakrah</title>
-    <category lang="en">Qatar Stars League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121031500 -0500" stop="20161121050000 -0500" channel="1441297460beINSports">
-    <title lang="en">Lekhwiya vs Al Rayyan</title>
-    <category lang="en">Qatar Stars League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121060000 -0500" channel="1441297460beINSports">
-    <title lang="en">The Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121074500 -0500" channel="1441297460beINSports">
-    <title lang="en">OCK vs RCA - Moroccan League 2016vs2017</title>
-    <category lang="en">Moroccan League - Botola Pro</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121074500 -0500" stop="20161121093000 -0500" channel="1441297460beINSports">
-    <title lang="en">KACM vs IRT - Moroccan League 2016vs2017</title>
-    <category lang="en">Moroccan League - Botola Pro</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121093000 -0500" stop="20161121110000 -0500" channel="1441297460beINSports">
-    <title lang="en">Rhein-Neckar Löwen vs Füchse Berlin - Bundesliga Handball 2016vs17 Season - Week 12</title>
-    <category lang="en">Handball - Bundesliga</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/handball.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121120000 -0500" channel="1441297460beINSports">
-    <title lang="en">Equestrian FEI World Cup Germany - Driving</title>
-    <category lang="en">Equestrian</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121120000 -0500" stop="20161121143000 -0500" channel="1441297460beINSports">
-    <title lang="en">Equestrian FEI World Cup Germany - Dressage</title>
-    <category lang="en">Equestrian</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121143000 -0500" stop="20161121150000 -0500" channel="1441297460beINSports">
-    <title lang="en">Trans World Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121165959 -0500" channel="1441297460beINSports">
-    <title lang="en">OCK vs RCA - Moroccan League 2016vs2017</title>
-    <category lang="en">Moroccan League - Botola Pro</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121173000 -0500" channel="1441297460beINSports">
-    <title lang="en">Trans World Sports</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121173000 -0500" stop="20161121191500 -0500" channel="1441297460beINSports">
-    <title lang="en">Lekhwiya vs Al Rayyan</title>
-    <category lang="en">Qatar Stars League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121191500 -0500" stop="20161121210000 -0500" channel="1441297460beINSports">
-    <title lang="en">El Jaish vs Al Shahaniya - Qatar Stars League 2016vs2017 Week 7</title>
-    <category lang="en">Qatar Stars League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121213000 -0500" channel="1441297460beINSports">
-    <title lang="en">Arabs Future</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121231500 -0500" channel="1441297460beINSports">
-    <title lang="en">Al Gharafa vs Al Arabi</title>
-    <category lang="en">Qatar Stars League</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121231500 -0500" stop="20161122010000 -0500" channel="1441297460beINSports">
-    <title lang="en">USMA vs NAHD - Algerian League 2016vs 2017</title>
-    <category lang="en">Algerian League - Ligue 1</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
   <programme start="20161122010000 -0500" stop="20161122013000 -0500" channel="1441297460beINSports">
     <title lang="en">Trans World Sports</title>
     <category lang="en">Sports General</category>
@@ -5921,7 +4311,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
   <programme start="20161122133000 -0500" stop="20161122150000 -0500" channel="1441297460beINSports">
-    <title lang="en">Rhein-Neckar Löwen vs Füchse Berlin - Bundesliga Handball 2016vs17 Season - Week 12</title>
+    <title lang="en">Rhein-Neckar L?wen vs F?chse Berlin - Bundesliga Handball 2016vs17 Season - Week 12</title>
     <category lang="en">Handball - Bundesliga</category>
     <icon src="https://static.beinsports-social.com/img/show_types/handball.png" />
   </programme>
@@ -5955,20 +4345,30 @@
     <category lang="en">Equestrian</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161122223000 -0500" stop="20161123013000 -0500" channel="1441297460beINSports">
+  <programme start="20161122223000 -0500" stop="20161123010000 -0500" channel="1441297460beINSports">
     <title lang="en">Equestrian FEI World Cup Germany - Dressage</title>
     <category lang="en">Equestrian</category>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
-  <programme start="20161123013000 -0500" stop="20161123031500 -0500" channel="1441297460beINSports">
+  <programme start="20161123010000 -0500" stop="20161123013000 -0500" channel="1441297460beINSports">
+    <title lang="en">Auto Mundial</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
+  </programme>
+  <programme start="20161123013000 -0500" stop="20161123031400 -0500" channel="1441297460beINSports">
     <title lang="en">Al Gharafa vs Al Arabi</title>
     <category lang="en">Qatar Stars League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
   </programme>
-  <programme start="20161123031500 -0500" stop="20161123050000 -0500" channel="1441297460beINSports">
+  <programme start="20161123031400 -0500" stop="20161123043000 -0500" channel="1441297460beINSports">
     <title lang="en">Gyori vs Rostov Handball EHF Men's Championship 2017</title>
     <category lang="en">Handball - EHF Champions League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
+  </programme>
+  <programme start="20161123043000 -0500" stop="20161123050000 -0500" channel="1441297460beINSports">
+    <title lang="en">Trans World Sports</title>
+    <category lang="en">Sports General</category>
+    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20161123050000 -0500" stop="20161123060000 -0500" channel="1441297460beINSports">
     <title lang="en">The Morning Show</title>
@@ -6104,341 +4504,6 @@
     <title lang="en">Selesat vs Nantes - Handball French League 2016vs17</title>
     <category lang="en">Handball - French Handball League</category>
     <icon src="https://static.beinsports-social.com/img/show_types/football.png" />
-  </programme>
-  <programme start="20161121000000 -0500" stop="20161121010000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121010000 -0500" stop="20161121011500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121011500 -0500" stop="20161121013000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Special Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121013000 -0500" stop="20161121014500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Business Evening Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121014500 -0500" stop="20161121015000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121015000 -0500" stop="20161121020000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121020000 -0500" stop="20161121030000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121030000 -0500" stop="20161121031500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121031500 -0500" stop="20161121033000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Interview Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121033000 -0500" stop="20161121034500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Press Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121034500 -0500" stop="20161121035000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121035000 -0500" stop="20161121040000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.2</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121040000 -0500" stop="20161121050000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121050000 -0500" stop="20161121051500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121051500 -0500" stop="20161121053000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Special Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121053000 -0500" stop="20161121054500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Business Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121054500 -0500" stop="20161121055000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121055000 -0500" stop="20161121060000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121060000 -0500" stop="20161121070000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Day News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121070000 -0500" stop="20161121071500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121071500 -0500" stop="20161121073000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Interview Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121073000 -0500" stop="20161121074500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Press Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121074500 -0500" stop="20161121075000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121075000 -0500" stop="20161121080000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.2</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121080000 -0500" stop="20161121090000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121090000 -0500" stop="20161121091500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121091500 -0500" stop="20161121093000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Special Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121093000 -0500" stop="20161121094500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Business Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121094500 -0500" stop="20161121095000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121095000 -0500" stop="20161121100000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121100000 -0500" stop="20161121110000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121110000 -0500" stop="20161121111500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121111500 -0500" stop="20161121113000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Interview Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121113000 -0500" stop="20161121114500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Press Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121114500 -0500" stop="20161121115000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121115000 -0500" stop="20161121120000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.2</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121120000 -0500" stop="20161121130000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Evening News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121130000 -0500" stop="20161121131500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121131500 -0500" stop="20161121133000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Special Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121133000 -0500" stop="20161121134500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Business Morning Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121134500 -0500" stop="20161121135000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121135000 -0500" stop="20161121140000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121140000 -0500" stop="20161121150000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121150000 -0500" stop="20161121151500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121151500 -0500" stop="20161121153000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Interview Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121153000 -0500" stop="20161121154500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Press Evening Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121154500 -0500" stop="20161121155000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121155000 -0500" stop="20161121160000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.2</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121160000 -0500" stop="20161121165959 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121170000 -0500" stop="20161121171500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121171500 -0500" stop="20161121173000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Special Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121173000 -0500" stop="20161121174500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Business Evening Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121174500 -0500" stop="20161121175000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121175000 -0500" stop="20161121180000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121180000 -0500" stop="20161121190000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News (Hasad)</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121190000 -0500" stop="20161121191500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121191500 -0500" stop="20161121193000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Interview Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121193000 -0500" stop="20161121194500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Press Evening Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121194500 -0500" stop="20161121195000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">90 Seconds</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121195000 -0500" stop="20161121200000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.2</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121200000 -0500" stop="20161121210000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121210000 -0500" stop="20161121211500 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Briefs</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121211500 -0500" stop="20161121213000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Special Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121213000 -0500" stop="20161121215000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Business Evening Show</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121215000 -0500" stop="20161121220000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Magazine Report 47.1</title>
-    <category lang="en">Sports General</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
-  </programme>
-  <programme start="20161121220000 -0500" stop="20161121230000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
-  </programme>
-  <programme start="20161121230000 -0500" stop="20161122000000 -0500" channel="ikhbariya-arabe">
-    <title lang="en">Sports News</title>
-    <category lang="en">Sports News</category>
-    <icon src="https://static.beinsports-social.com/img/show_types/entertainment.png" />
   </programme>
   <programme start="20161122000000 -0500" stop="20161122010000 -0500" channel="ikhbariya-arabe">
     <title lang="en">Sports News</title>
