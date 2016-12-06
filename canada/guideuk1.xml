@@ -56,71 +56,6 @@
     <display-name lang="en">TSN HD</display-name>
     <url>http://www.tvhebdo.com</url>
   </channel>
-  <programme start="20161204220000 -0500" stop="20161204230000 -0500" channel="CKMI (Montr?al)">
-    <title lang="en">Madame la secr?taire d'?tat</title>
-    <sub-title lang="en">Waiting for Taleju</sub-title>
-    <desc lang="en">Elizabeth disagrees with President Dalton's response to the growing tension with Russia. Also, when incriminating photos of Stevie and Harrison surface, Elizabeth and Henry must deal with the aftermath(n)</desc>
-    <credits>
-      <director>Felix Alcala</director>
-      <director>Sc?nario</director>
-      <director>Joy Gregory</director>
-      <director>Avec</director>
-      <director>T?a Leoni (Elizabeth McCord)</director>
-      <director>Bebe Neuwirth (Nadine Tolliver)</director>
-      <director>Geoffrey Arend (Matt Mahoney)</director>
-      <director>Patina Miller (Daisy Grant)</director>
-      <director>Erich Bergen (Blake Moran)</director>
-      <director>Tim Daly (Henry McCord)</director>
-      <director>Katherine Herzer (Alison McCord)</director>
-      <director>Evan Roe (Jason McCord)</director>
-      <director>Zeljko Ivanek (Russell Jackson)</director>
-      <director>Wallis Currie-Wood (Stephanie "Stevie" McCord)</director>
-      <director>Keith Carradine (President Conrad Dalton)</director>
-      <director>Sebastian Arcelus (Jay Whitman)</director>
-      <director>Julian Acosta (Craig Sterling)</director>
-      <director>Johanna Day (Admiral Ellen Hill)</director>
-      <director>Uma Shtrom (Nepali Girl)</director>
-      <director>David Diaan (Shakya)</director>
-      <director>Alexander Chaplin (Chad Sorenson)</director>
-      <director>Christine Ebersole (Lydia Dalton)</director>
-      <director>Jonathan Walker (Ronald Watson)</director>
-      <director>Mandy Gonzalez (Lucy Knox)</director>
-      <director>Kobi Libii (Oliver Shaw)</director>
-      <actor>T?a Leoni (Elizabeth McCord)</actor>
-      <actor>Bebe Neuwirth (Nadine Tolliver)</actor>
-      <actor>Geoffrey Arend (Matt Mahoney)</actor>
-      <actor>Patina Miller (Daisy Grant)</actor>
-      <actor>Erich Bergen (Blake Moran)</actor>
-      <actor>Tim Daly (Henry McCord)</actor>
-      <actor>Katherine Herzer (Alison McCord)</actor>
-      <actor>Evan Roe (Jason McCord)</actor>
-      <actor>Zeljko Ivanek (Russell Jackson)</actor>
-      <actor>Wallis Currie-Wood (Stephanie "Stevie" McCord)</actor>
-      <actor>Keith Carradine (President Conrad Dalton)</actor>
-      <actor>Sebastian Arcelus (Jay Whitman)</actor>
-      <actor>Julian Acosta (Craig Sterling)</actor>
-      <actor>Johanna Day (Admiral Ellen Hill)</actor>
-      <actor>Uma Shtrom (Nepali Girl)</actor>
-      <actor>David Diaan (Shakya)</actor>
-      <actor>Alexander Chaplin (Chad Sorenson)</actor>
-      <actor>Christine Ebersole (Lydia Dalton)</actor>
-      <actor>Jonathan Walker (Ronald Watson)</actor>
-      <actor>Mandy Gonzalez (Lucy Knox)</actor>
-      <actor>Kobi Libii (Oliver Shaw)</actor>
-    </credits>
-    <category lang="en">Drama Program</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-  </programme>
-  <programme start="20161204230000 -0500" stop="20161204233000 -0500" channel="CKMI (Montr?al)">
-    <title lang="en">Global News at 11</title>
-    <desc lang="en">Top local news stories and latest weather forecast(n)</desc>
-    <category lang="en">Information Program</category>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205000000 -0500" channel="CKMI (Montr?al)">
-    <title lang="en">The West Block</title>
-    <desc lang="en">Tom Clark covers the week's top political stories and examines the story behind the headlines(n)</desc>
-    <category lang="en">Information Program</category>
-  </programme>
   <programme start="20161205000000 -0500" stop="20161205003000 -0500" channel="CKMI (Montr?al)">
     <title lang="en">Focus Montreal</title>
     <desc lang="en">Newsmagazine(n)</desc>
@@ -915,73 +850,6 @@
     <desc lang="en">Guests: Vice President Joe Biden and DJ Khaled(n)</desc>
     <category lang="en">Variety Program</category>
   </programme>
-  <programme start="20161204220000 -0500" stop="20161204230000 -0500" channel="CIVT">
-    <title lang="en">Le mobile du crime</title>
-    <sub-title lang="en">Framed</sub-title>
-    <desc lang="en">Detectives Flynn and Vega are called to the scene to investigate the death of a young art aficionado who was shot and killed on her morning run. When the murder weapon turns out to be an antique firearm, the case focuses on a nerdy gun collector(n)</desc>
-    <credits>
-      <actor>Kristin Lehman (Detective Angie Flynn)</actor>
-      <actor>Louis Ferreira (Oscar Vega)</actor>
-      <actor>Brendan Penny (Brian Lucas)</actor>
-      <actor>Lauren Holly (Dr. Betty Rogers)</actor>
-    </credits>
-    <category lang="en">Drama Program</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-  </programme>
-  <programme start="20161204230000 -0500" stop="20161205000000 -0500" channel="CIVT">
-    <title lang="en">Il ?tait une fois</title>
-    <sub-title lang="en">Wish You Were Here</sub-title>
-    <desc lang="en">When she learns that our heroes possess a weapon capable of defeating her, the Evil Queen steals Aladdin's magic lamp from Jasmine and makes a wish that could sideline the Savior forever(n)</desc>
-    <credits>
-      <director>Ron Underwood</director>
-      <director>Sc?nario</director>
-      <director>Edward Kitsis</director>
-      <director>Adam Horowitz</director>
-      <director>Avec</director>
-      <director>Keegan Connor Tracy (Mother Superior/Blue Fairy)</director>
-      <director>Ginnifer Goodwin (Snow White/Mary Margaret)</director>
-      <director>Jennifer Morrison (Emma Swan)</director>
-      <director>Robert Carlyle (Rumplestiltskin/Mr. Gold)</director>
-      <director>Lana Parrilla (Evil Queen/Regina)</director>
-      <director>Josh Dallas (Prince Charming/David Nolan)</director>
-      <director>Emilie de Ravin (Belle)</director>
-      <director>Colin O'Donoghue (Hook)</director>
-      <director>Jared S. Gilmore (Henry Mills)</director>
-      <director>Rebecca Mader (Wicked Witch/Zelena)</director>
-      <director>Lee Arenberg (Leroy/Grumpy)</director>
-      <director>Beverley Elliott (Granny)</director>
-      <director>Karen David (Princess Jasmine)</director>
-      <director>Deniz Akdeniz (Aladdin)</director>
-      <director>Gabe Khouth (Mr. Clark/Sneezy)</director>
-      <director>David Avalon (Doc)</director>
-      <director>Faustino Di Bauda (Sleepy)</director>
-      <director>Mig Macario (Bashful)</director>
-      <director>Geoff Gustafson (Stealthy)</director>
-      <director>Giles Matthey (Gideon)</director>
-      <actor>Keegan Connor Tracy (Mother Superior/Blue Fairy)</actor>
-      <actor>Ginnifer Goodwin (Snow White/Mary Margaret)</actor>
-      <actor>Jennifer Morrison (Emma Swan)</actor>
-      <actor>Robert Carlyle (Rumplestiltskin/Mr. Gold)</actor>
-      <actor>Lana Parrilla (Evil Queen/Regina)</actor>
-      <actor>Josh Dallas (Prince Charming/David Nolan)</actor>
-      <actor>Emilie de Ravin (Belle)</actor>
-      <actor>Colin O'Donoghue (Hook)</actor>
-      <actor>Jared S. Gilmore (Henry Mills)</actor>
-      <actor>Rebecca Mader (Wicked Witch/Zelena)</actor>
-      <actor>Lee Arenberg (Leroy/Grumpy)</actor>
-      <actor>Beverley Elliott (Granny)</actor>
-      <actor>Karen David (Princess Jasmine)</actor>
-      <actor>Deniz Akdeniz (Aladdin)</actor>
-      <actor>Gabe Khouth (Mr. Clark/Sneezy)</actor>
-      <actor>David Avalon (Doc)</actor>
-      <actor>Faustino Di Bauda (Sleepy)</actor>
-      <actor>Mig Macario (Bashful)</actor>
-      <actor>Geoff Gustafson (Stealthy)</actor>
-      <actor>Giles Matthey (Gideon)</actor>
-    </credits>
-    <category lang="en">Drama Program</category>
-    <episode-num system="xmltv_ns">5.9.</episode-num>
-  </programme>
   <programme start="20161205000000 -0500" stop="20161205020000 -0500" channel="CIVT">
     <title lang="en">Secrets and Lies</title>
     <sub-title lang="en">The Brother / The Truth</sub-title>
@@ -1571,16 +1439,6 @@
     </credits>
     <category lang="en">Drama Program</category>
     <episode-num system="xmltv_ns">2.8.</episode-num>
-  </programme>
-  <programme start="20161204230000 -0500" stop="20161204233000 -0500" channel="CFCF HD">
-    <title lang="en">CTV National News</title>
-    <desc lang="en">News bulletin(n)</desc>
-    <category lang="en">Information Program</category>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205000500 -0500" channel="CFCF HD">
-    <title lang="en">CTV News</title>
-    <desc lang="en">News bulletin(n)</desc>
-    <category lang="en">Information Program</category>
   </programme>
   <programme start="20161205000500 -0500" stop="20161205003500 -0500" channel="CFCF HD">
     <title lang="en">Key &amp; Peele</title>
@@ -2296,34 +2154,6 @@
     <title lang="en">CTV News</title>
     <desc lang="en">News bulletin(n)</desc>
     <category lang="en">Information Program</category>
-  </programme>
-  <programme start="20161204220000 -0500" stop="20161204223000 -0500" channel="CHAN">
-    <title lang="en">Douanes sous haute surveillance : Canada</title>
-    <sub-title lang="en">Border Security 1007</sub-title>
-    <desc lang="en">A Korean bride-to-be tries to enter Canada as a tourist. The Marine Enforcement Team tackles a massive Japanese freighter with an illegal passenger. Crack pipes in a borrowed car mean trouble for a California man on his way to a wedding(n)</desc>
-    <category lang="en">Documentary Program</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-  </programme>
-  <programme start="20161204223000 -0500" stop="20161204230000 -0500" channel="CHAN">
-    <title lang="en">Douanes sous haute surveillance : Canada</title>
-    <sub-title lang="en">3056</sub-title>
-    <desc lang="en">Documenting the daily lives of Canada Border Services Agency officers(n)</desc>
-    <category lang="en">Documentary Program</category>
-    <episode-num system="xmltv_ns">2.55.</episode-num>
-  </programme>
-  <programme start="20161204230000 -0500" stop="20161204233000 -0500" channel="CHAN">
-    <title lang="en">Les Simpson</title>
-    <sub-title lang="en">The Last Traction Hero</sub-title>
-    <desc lang="en">A workplace accident leaves Homer in a cast, and in a position to sue Mr. Burns. This leaves Marge unfulfilled, so she turns to an unexpected source for romance. Meanwhile, Lisa is made 'Bus Monitor' and tries to keep the peace(n)</desc>
-    <category lang="en">Animation Program</category>
-    <episode-num system="xmltv_ns">27.8.</episode-num>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205000000 -0500" channel="CHAN">
-    <title lang="en">Les Simpson</title>
-    <sub-title lang="en">White Christmas Blues</sub-title>
-    <desc lang="en">Springfield is inundated with holiday revelers after the nuclear power plant springs a radiation leak, causing snow to fall all over town. When the tourists drive up Christmas shopping prices, Marge opens up the Simpsons' house to boarders(n)</desc>
-    <category lang="en">Animation Program</category>
-    <episode-num system="xmltv_ns">24.7.</episode-num>
   </programme>
   <programme start="20161205000000 -0500" stop="20161205010000 -0500" channel="CHAN">
     <title lang="en">NCIS: Los Angeles</title>
@@ -3110,43 +2940,6 @@
     </credits>
     <category lang="en">Drama Program</category>
     <episode-num system="xmltv_ns">13.8.</episode-num>
-  </programme>
-  <programme start="20161204213000 -0500" stop="20161204220000 -0500" channel="City HD">
-    <title lang="en">The Last Man on Earth</title>
-    <sub-title lang="en">Whitney Houston, We Have a Problem</sub-title>
-    <desc lang="en">After finding a mysterious note left by Melissa that says 'Goodbye,' the gang sets off to go look for her. Meanwhile, Gail gets stuck on a solo adventure of her own(n)</desc>
-    <credits>
-      <actor>Will Forte (Phil Miller)</actor>
-      <actor>Kristen Schaal (Carol Pilbasian)</actor>
-      <actor>January Jones (Melissa Shart)</actor>
-      <actor>Mel Rodriguez (Todd)</actor>
-      <actor>Mary Steenburgen (Gail)</actor>
-      <actor>Cleopatra Coleman (Erica)</actor>
-    </credits>
-    <category lang="en">Drama Program</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-  <programme start="20161204220000 -0500" stop="20161204223000 -0500" channel="City HD">
-    <title lang="en">Vice on CITY</title>
-    <desc lang="en">The best documentaries produced by VICE?s team of journalists from around the world(n)</desc>
-    <category lang="en">Documentary Program</category>
-  </programme>
-  <programme start="20161204223000 -0500" stop="20161204230000 -0500" channel="City HD">
-    <title lang="en">Vice on CITY</title>
-    <desc lang="en">The best documentaries produced by VICE?s team of journalists from around the world(n)</desc>
-    <category lang="en">Documentary Program</category>
-  </programme>
-  <programme start="20161204230000 -0500" stop="20161204233000 -0500" channel="City HD">
-    <title lang="en">CityNews Weekends</title>
-    <sub-title lang="en">CityNews Weekend</sub-title>
-    <desc lang="en">News bulletin(n)</desc>
-    <category lang="en">Information Program</category>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205000000 -0500" channel="City HD">
-    <title lang="en">CityNews Weekends</title>
-    <sub-title lang="en">CityNews Weekend</sub-title>
-    <desc lang="en">News bulletin(n)</desc>
-    <category lang="en">Information Program</category>
   </programme>
   <programme start="20161205000000 -0500" stop="20161205010000 -0500" channel="City HD">
     <title lang="en">Between</title>
@@ -4283,12 +4076,6 @@
     <desc lang="en">News bulletin(n)</desc>
     <category lang="en">Information Program</category>
   </programme>
-  <programme start="20161204213000 -0500" stop="20161205000000 -0500" channel="Sports Net One HD">
-    <title lang="en">Hockey</title>
-    <sub-title lang="en">NHL. Minnesota vs Edmonton</sub-title>
-    <desc lang="en">NHL. Minnesota vs Edmonton(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
   <programme start="20161205000000 -0500" stop="20161205003000 -0500" channel="Sports Net One HD">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
@@ -4724,11 +4511,6 @@
     <desc lang="en">Darts tournament(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20161204233000 -0500" stop="20161205010000 -0500" channel="TSN1 HD">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
   <programme start="20161205010000 -0500" stop="20161205020000 -0500" channel="TSN1 HD">
     <title lang="en">Sportscentre</title>
     <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
@@ -5065,21 +4847,6 @@
   <programme start="20161207230000 -0500" stop="20161208000000 -0500" channel="TSN1 HD">
     <title lang="en">Sportscentre</title>
     <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20161204223000 -0500" stop="20161204230000 -0500" channel="TSN2 HD">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20161204230000 -0500" stop="20161204233000 -0500" channel="TSN2 HD">
-    <title lang="en">That's Hockey 2 Nite</title>
-    <desc lang="en">Hockey magazine(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205000000 -0500" channel="TSN2 HD">
-    <title lang="en">SC: Top 10 CFL Games of the Year</title>
-    <desc lang="en">The Top 10 CFL Games of the Year(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
   <programme start="20161205000000 -0500" stop="20161205030000 -0500" channel="TSN2 HD">
@@ -5581,11 +5348,6 @@
     <desc lang="en">November Not So Great Plays of the Month(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20161204233000 -0500" stop="20161205010000 -0500" channel="TSN3 HD">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
   <programme start="20161205010000 -0500" stop="20161205020000 -0500" channel="TSN3 HD">
     <title lang="en">Sportscentre</title>
     <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
@@ -5936,11 +5698,6 @@
     <category lang="en">Sports Program</category>
   </programme>
   <programme start="20161207223000 -0500" stop="20161208000000 -0500" channel="TSN3 HD">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205010000 -0500" channel="TSN4 HD">
     <title lang="en">Sportscentre</title>
     <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
     <category lang="en">Sports Program</category>
@@ -6313,11 +6070,6 @@
     <category lang="en">Sports Program</category>
   </programme>
   <programme start="20161207230000 -0500" stop="20161208000000 -0500" channel="TSN4 HD">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20161204233000 -0500" stop="20161205010000 -0500" channel="TSN HD">
     <title lang="en">Sportscentre</title>
     <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
     <category lang="en">Sports Program</category>
