@@ -100,131 +100,6 @@
     <display-name lang="en">USA</display-name>
     <url>http://www.ustvnow.com</url>
   </channel>
-  <programme start="20170127180000 -0500" stop="20170127190000 -0500" channel="AETV">
-    <title lang="en">The First 48</title>
-    <desc lang="en">A rookie detective tackles her first double murder(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/185469/AETV/sh" />
-  </programme>
-  <programme start="20170127190000 -0500" stop="20170127200000 -0500" channel="AETV">
-    <title lang="en">The First 48</title>
-    <desc lang="en">A young man gets shot to death at a motel party(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/185469/AETV/sh" />
-  </programme>
-  <programme start="20170127200000 -0500" stop="20170127210000 -0500" channel="AETV">
-    <title lang="en">The First 48: Deadly Misfortune</title>
-    <desc lang="en">Double shooting in Detroit; shooting victim found in a park(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12021490/AETV/sh" />
-  </programme>
-  <programme start="20170127210000 -0500" stop="20170128000000 -0500" channel="AETV">
-    <title lang="en">Live PD</title>
-    <desc lang="en">Police departments patrol the streets on Jan. 27, 2017(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13357824/AETV/sh" />
-  </programme>
-  <programme start="20170128000000 -0500" stop="20170128010000 -0500" channel="AETV">
-    <title lang="en">The First 48: Deadly Misfortune</title>
-    <desc lang="en">Double shooting in Detroit; shooting victim found in a park(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12021490/AETV/sh" />
-  </programme>
-  <programme start="20170128010000 -0500" stop="20170128040000 -0500" channel="AETV">
-    <title lang="en">Live PD</title>
-    <desc lang="en">Police departments patrol the streets on Jan. 27, 2017(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13357824/AETV/sh" />
-  </programme>
-  <programme start="20170128040000 -0500" stop="20170128043000 -0500" channel="AETV">
-    <title lang="en">Cindy Crawford's Beauty Secrets from France</title>
-    <desc lang="en">Cindy Crawford's 50 but her skin still looks 28! Get her anti-aging secrets! By Guthy-Renker(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11240585/AETV/sh" />
-  </programme>
-  <programme start="20170128043000 -0500" stop="20170128050000 -0500" channel="AETV">
-    <title lang="en">Don't Live With Wrinkles! New Breakthrough Used by Top Celebrities!</title>
-    <desc lang="en">Banish wrinkles! 70 percent off! Free Shipping!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13364408/AETV/sh" />
-  </programme>
-  <programme start="20170128050000 -0500" stop="20170128053000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
-  </programme>
-  <programme start="20170128053000 -0500" stop="20170128060000 -0500" channel="AETV">
-    <title lang="en">LifeLock Protection</title>
-    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12639902/AETV/sh" />
-  </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="AETV">
-    <title lang="en">Celebrity Sweat with Eric the Trainer</title>
-    <desc lang="en">Csweat in Denver(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13666129/AETV/sh" />
-  </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
-  </programme>
-  <programme start="20170128070000 -0500" stop="20170128080000 -0500" channel="AETV">
-    <title lang="en">Flipping Vegas</title>
-    <desc lang="en">Scott attempts to save money by changing Amie's designs(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8175495/AETV/sh" />
-  </programme>
-  <programme start="20170128080000 -0500" stop="20170128090000 -0500" channel="AETV">
-    <title lang="en">Flipping Vegas</title>
-    <desc lang="en">Gutting an out-of-date house and dealing with a houseguest(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8175495/AETV/sh" />
-  </programme>
-  <programme start="20170128090000 -0500" stop="20170128100000 -0500" channel="AETV">
-    <title lang="en">Flipping Vegas</title>
-    <desc lang="en">Scott's new house is filled with counterfeit products(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8175495/AETV/sh" />
-  </programme>
-  <programme start="20170128100000 -0500" stop="20170128110000 -0500" channel="AETV">
-    <title lang="en">Zombie House Flipping</title>
-    <desc lang="en">A zombie house from the '90s; the project sours quickly(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12426507/AETV/sh" />
-  </programme>
-  <programme start="20170128110000 -0500" stop="20170128120000 -0500" channel="AETV">
-    <title lang="en">Zombie House Flipping</title>
-    <desc lang="en">Headaches ensue after a single-story home gets an addition(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12426507/AETV/sh" />
-  </programme>
-  <programme start="20170128120000 -0500" stop="20170128130000 -0500" channel="AETV">
-    <title lang="en">Nightwatch</title>
-    <desc lang="en">A tourist has to be coaxed into going to the hospital(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11336236/AETV/sh" />
-  </programme>
-  <programme start="20170128130000 -0500" stop="20170128140000 -0500" channel="AETV">
-    <title lang="en">Nightwatch</title>
-    <desc lang="en">Titus and Dan respond to a call from a former Playboy Bunny(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11336236/AETV/sh" />
-  </programme>
-  <programme start="20170128140000 -0500" stop="20170128150000 -0500" channel="AETV">
-    <title lang="en">Nightwatch</title>
-    <desc lang="en">A purse snatcher on the run stops to take a meal break(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11336236/AETV/sh" />
-  </programme>
-  <programme start="20170128150000 -0500" stop="20170128160000 -0500" channel="AETV">
-    <title lang="en">Nightwatch</title>
-    <desc lang="en">The brother of a paramedic gets sucker-punched(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11336236/AETV/sh" />
-  </programme>
-  <programme start="20170128160000 -0500" stop="20170128163000 -0500" channel="AETV">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">The bidders look for big bargains in Stanton, Calif(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8354064/AETV/sh" />
-  </programme>
-  <programme start="20170128163000 -0500" stop="20170128170000 -0500" channel="AETV">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">The buyers return to Huntington Beach, Calif(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8354064/AETV/sh" />
-  </programme>
-  <programme start="20170128170000 -0500" stop="20170128173000 -0500" channel="AETV">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Darrell squares off against a former professional fighter(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8354064/AETV/sh" />
-  </programme>
-  <programme start="20170128173000 -0500" stop="20170128180000 -0500" channel="AETV">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">The buyers look for deals in Lake Elsinore, Calif(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8354064/AETV/sh" />
-  </programme>
   <programme start="20170128180000 -0500" stop="20170128183000 -0500" channel="AETV">
     <title lang="en">Storage Wars</title>
     <desc lang="en">A record-breaking 100-vault auction attracts extra bidders(n)</desc>
@@ -420,7 +295,7 @@
     <desc lang="en">The church accuses Leah of provoking hate crimes(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13449908/AETV/sh" />
   </programme>
-  <programme start="20170129200500 -0500" stop="20170129210500 -0500" channel="AETV">
+  <programme start="20170129200000 -0500" stop="20170129210100 -0500" channel="AETV">
     <title lang="en">Leah Remini: Scientology and the Aftermath</title>
     <desc lang="en">Leah and Mike Rinder host a question-and-answer session(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13449908/AETV/sh" />
@@ -440,7 +315,7 @@
     <desc lang="en">A man is beaten and shot in broad daylight(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/185469/AETV/sh" />
   </programme>
-  <programme start="20170130000500 -0500" stop="20170130010500 -0500" channel="AETV">
+  <programme start="20170130000000 -0500" stop="20170130010100 -0500" channel="AETV">
     <title lang="en">Leah Remini: Scientology and the Aftermath</title>
     <desc lang="en">Leah and Mike Rinder host a question-and-answer session(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13449908/AETV/sh" />
@@ -481,9 +356,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12756048/AETV/sh" />
   </programme>
   <programme start="20170130060000 -0500" stop="20170130063000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/AETV/sh" />
   </programme>
   <programme start="20170130063000 -0500" stop="20170130070000 -0500" channel="AETV">
     <title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
@@ -616,9 +491,9 @@
     <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
   <programme start="20170131050000 -0500" stop="20170131053000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">The Diet of 2017</title>
+    <desc lang="en">Introducing Nutrisystem's Lean13. Lose up to 13 pounds and 7 inches overall in your first month(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13642914/AETV/sh" />
   </programme>
   <programme start="20170131053000 -0500" stop="20170131060000 -0500" channel="AETV">
     <title lang="en">Regrow Hair With The Number 1 Clinically Proven System For Women</title>
@@ -626,9 +501,9 @@
     <icon src="http://m.poster.static-ustvnow.com/13207289/AETV/sh" />
   </programme>
   <programme start="20170131060000 -0500" stop="20170131063000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/AETV/sh" />
   </programme>
   <programme start="20170131063000 -0500" stop="20170131070000 -0500" channel="AETV">
     <title lang="en">Paid Programming</title>
@@ -766,9 +641,9 @@
     <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
   <programme start="20170201050000 -0500" stop="20170201053000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">The Diet of 2017</title>
+    <desc lang="en">Introducing Nutrisystem's Lean13. Lose up to 13 pounds and 7 inches overall in your first month(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13642914/AETV/sh" />
   </programme>
   <programme start="20170201053000 -0500" stop="20170201060000 -0500" channel="AETV">
     <title lang="en">Cook Healthier Meals with Nuwave &amp; Make Your Exercise Count</title>
@@ -776,9 +651,9 @@
     <icon src="http://m.poster.static-ustvnow.com/358914/AETV/sh" />
   </programme>
   <programme start="20170201060000 -0500" stop="20170201063000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/AETV/sh" />
   </programme>
   <programme start="20170201063000 -0500" stop="20170201070000 -0500" channel="AETV">
     <title lang="en">Perricone MD Cold Plasma Sub-D</title>
@@ -961,9 +836,9 @@
     <icon src="http://m.poster.static-ustvnow.com/9084386/AETV/sh" />
   </programme>
   <programme start="20170202040200 -0500" stop="20170202043000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/AETV/sh" />
   </programme>
   <programme start="20170202043000 -0500" stop="20170202050000 -0500" channel="AETV">
     <title lang="en">Start The New Year Resolution With Precision Induction Technology</title>
@@ -986,9 +861,9 @@
     <icon src="http://m.poster.static-ustvnow.com/11240585/AETV/sh" />
   </programme>
   <programme start="20170202063000 -0500" stop="20170202070000 -0500" channel="AETV">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
+    <title lang="en">Shark Powered Lift Away is 3 Vacuums In One!</title>
+    <desc lang="en">5 Star Cleaning Power &amp; Performance -Shark Lift-Away(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11913829/AETV/sh" />
   </programme>
   <programme start="20170202070000 -0500" stop="20170202073000 -0500" channel="AETV">
     <title lang="en">Parking Wars</title>
@@ -1215,65 +1090,105 @@
     <desc lang="en">Police departments patrol the streets on Feb. 3, 2017(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13357824/AETV/sh" />
   </programme>
-  <programme start="20170127163000 -0500" stop="20170127190000 -0500" channel="AMC">
-    <title lang="en">Con Air</title>
-    <desc lang="en">Vicious convicts hijack their flight(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/19439/AMC/sh" />
+  <programme start="20170204000000 -0500" stop="20170204010000 -0500" channel="AETV">
+    <title lang="en">The First 48: Most Shocking Twists</title>
+    <desc lang="en">A man robbed and shot outside an abandoned house(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12596318/AETV/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127223000 -0500" channel="AMC">
-    <title lang="en">The Departed</title>
-    <desc lang="en">An undercover cop and a criminal lead double lives(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/162564/AMC/sh" />
+  <programme start="20170204010000 -0500" stop="20170204040000 -0500" channel="AETV">
+    <title lang="en">Live PD</title>
+    <desc lang="en">Police departments patrol the streets on Feb. 3, 2017(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13357824/AETV/sh" />
   </programme>
-  <programme start="20170127223000 -0500" stop="20170128030000 -0500" channel="AMC">
-    <title lang="en">Titanic</title>
-    <desc lang="en">Oscar-winning account of the doomed 1912 ocean liner(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/20056/AMC/sh" />
+  <programme start="20170204040000 -0500" stop="20170204043000 -0500" channel="AETV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
-  <programme start="20170128030000 -0500" stop="20170128060000 -0500" channel="AMC">
-    <title lang="en">The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</title>
-    <desc lang="en">Children and a mystical lion unite against the White Witch(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/90695/AMC/sh" />
+  <programme start="20170204043000 -0500" stop="20170204050000 -0500" channel="AETV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="AMC">
-    <title lang="en">The Rifleman</title>
-    <desc lang="en">The townspeople leave Lucas to face killers alone(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
+  <programme start="20170204050000 -0500" stop="20170204053000 -0500" channel="AETV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="AMC">
-    <title lang="en">The Rifleman</title>
-    <desc lang="en">A family punishes Lucas for a son's accidental death(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="AETV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128073000 -0500" channel="AMC">
-    <title lang="en">The Rifleman</title>
-    <desc lang="en">Lucas mortgages his ranch to ransom Mark(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="AETV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
-  <programme start="20170128073000 -0500" stop="20170128080000 -0500" channel="AMC">
-    <title lang="en">The Rifleman</title>
-    <desc lang="en">Outlaws force Lucas to help with a prison break(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="AETV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/AETV/sh" />
   </programme>
-  <programme start="20170128080000 -0500" stop="20170128083000 -0500" channel="AMC">
-    <title lang="en">The Rifleman</title>
-    <desc lang="en">A girl and her ailing brother seek shelter with the McCains(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
+  <programme start="20170204070000 -0500" stop="20170204080000 -0500" channel="AETV">
+    <title lang="en">Flipping Vegas</title>
+    <desc lang="en">Scott buys a home that was formerly inhabited by 12 people(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8175495/AETV/sh" />
   </programme>
-  <programme start="20170128083000 -0500" stop="20170128090000 -0500" channel="AMC">
-    <title lang="en">The Rifleman</title>
-    <desc lang="en">A gang comes to town to free a jailed member(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
+  <programme start="20170204080000 -0500" stop="20170204090000 -0500" channel="AETV">
+    <title lang="en">Flipping Vegas</title>
+    <desc lang="en">An unfinished multimillion-dollar Las Vegas mansion(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8175495/AETV/sh" />
   </programme>
-  <programme start="20170128090000 -0500" stop="20170128120000 -0500" channel="AMC">
-    <title lang="en">Rio Bravo</title>
-    <desc lang="en">A powerful rancher seeks his brother's release from prison(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7006/AMC/sh" />
+  <programme start="20170204090000 -0500" stop="20170204100000 -0500" channel="AETV">
+    <title lang="en">Flipping Vegas</title>
+    <desc lang="en">Scott buys a house that belonged to a private detective(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8175495/AETV/sh" />
   </programme>
-  <programme start="20170128120000 -0500" stop="20170128153000 -0500" channel="AMC">
-    <title lang="en">The Departed</title>
-    <desc lang="en">An undercover cop and a criminal lead double lives(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/162564/AMC/sh" />
+  <programme start="20170204100000 -0500" stop="20170204110000 -0500" channel="AETV">
+    <title lang="en">Zombie House Flipping</title>
+    <desc lang="en">A zombie house flip located in a prime school district(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12426507/AETV/sh" />
+  </programme>
+  <programme start="20170204110000 -0500" stop="20170204120000 -0500" channel="AETV">
+    <title lang="en">Zombie House Flipping</title>
+    <desc lang="en">A home literally rotting from the inside out(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12426507/AETV/sh" />
+  </programme>
+  <programme start="20170204120000 -0500" stop="20170204143000 -0500" channel="AETV">
+    <title lang="en">The Negotiator</title>
+    <desc lang="en">A top police negotiator is accused of committing murder(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/21443/AETV/sh" />
+  </programme>
+  <programme start="20170204143000 -0500" stop="20170204170000 -0500" channel="AETV">
+    <title lang="en">Bad Boys</title>
+    <desc lang="en">Two Miami cops attempt to recover stolen police evidence(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/16624/AETV/sh" />
+  </programme>
+  <programme start="20170204170000 -0500" stop="20170204180000 -0500" channel="AETV">
+    <title lang="en">The First 48</title>
+    <desc lang="en">Dallas detectives search for the killer of an elderly woman(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185469/AETV/sh" />
+  </programme>
+  <programme start="20170204180000 -0500" stop="20170204190000 -0500" channel="AETV">
+    <title lang="en">The First 48</title>
+    <desc lang="en">Police find a 911 caller covered in blood(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185469/AETV/sh" />
+  </programme>
+  <programme start="20170204190000 -0500" stop="20170204200000 -0500" channel="AETV">
+    <title lang="en">The First 48</title>
+    <desc lang="en">A caretaker in Atlanta gunned down over a grudge(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185469/AETV/sh" />
+  </programme>
+  <programme start="20170204200000 -0500" stop="20170204210000 -0500" channel="AETV">
+    <title lang="en">The First 48: Deadly Misfortune</title>
+    <desc lang="en">A gunfight in a motel leaves two men dead(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12021490/AETV/sh" />
+  </programme>
+  <programme start="20170204210000 -0500" stop="20170205000000 -0500" channel="AETV">
+    <title lang="en">Live PD</title>
+    <desc lang="en">Police departments patrol the streets on Feb. 4, 2017(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13357824/AETV/sh" />
   </programme>
   <programme start="20170128153000 -0500" stop="20170128200000 -0500" channel="AMC">
     <title lang="en">Titanic</title>
@@ -1426,9 +1341,9 @@
     <icon src="http://m.poster.static-ustvnow.com/183880/AMC/sh" />
   </programme>
   <programme start="20170130060000 -0500" stop="20170130063000 -0500" channel="AMC">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AMC/sh" />
+    <title lang="en">The Diet of 2017</title>
+    <desc lang="en">Introducing Nutrisystem's Lean13. Lose up to 13 pounds and 7 inches overall in your first month(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13642914/AMC/sh" />
   </programme>
   <programme start="20170130063000 -0500" stop="20170130070000 -0500" channel="AMC">
     <title lang="en">LifeLock Protection</title>
@@ -1611,9 +1526,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12318673/AMC/sh" />
   </programme>
   <programme start="20170201070000 -0500" stop="20170201073000 -0500" channel="AMC">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AMC/sh" />
+    <title lang="en">The Diet of 2017</title>
+    <desc lang="en">Introducing Nutrisystem's Lean13. Lose up to 13 pounds and 7 inches overall in your first month(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13642914/AMC/sh" />
   </programme>
   <programme start="20170201073000 -0500" stop="20170201080000 -0500" channel="AMC">
     <title lang="en">No more wrinkles! Say ByeBye now and look younger!</title>
@@ -1781,9 +1696,9 @@
     <icon src="http://m.poster.static-ustvnow.com/9638974/AMC/sh" />
   </programme>
   <programme start="20170203083000 -0500" stop="20170203090000 -0500" channel="AMC">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/AMC/sh" />
+    <title lang="en">The Diet of 2017</title>
+    <desc lang="en">Introducing Nutrisystem's Lean13. Lose up to 13 pounds and 7 inches overall in your first month(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13642914/AMC/sh" />
   </programme>
   <programme start="20170203090000 -0500" stop="20170203093000 -0500" channel="AMC">
     <title lang="en">M*A*S*H</title>
@@ -1840,105 +1755,105 @@
     <desc lang="en">Vengeful boxer Rocky Balboa faces a deadly Soviet fighter(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/8862/AMC/sh" />
   </programme>
-  <programme start="20170127173000 -0500" stop="20170127200000 -0500" channel="Bravo">
-    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
-    <desc lang="en">Madea uses tough love on a New York banker and his family(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9201480/Bravo/sh" />
+  <programme start="20170204010000 -0500" stop="20170204030000 -0500" channel="AMC">
+    <title lang="en">Alien vs. Predator</title>
+    <desc lang="en">Antarctic explorers encounter deadly extraterrestrials(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/34715/AMC/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127210000 -0500" channel="Bravo">
-    <title lang="en">Married to Medicine</title>
-    <desc lang="en">Quad bares it all at her 35th birthday party(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9765466/Bravo/sh" />
+  <programme start="20170204030000 -0500" stop="20170204053000 -0500" channel="AMC">
+    <title lang="en">Predator 2</title>
+    <desc lang="en">Police officers lock horns with a bloodthirsty alien(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12894/AMC/sh" />
   </programme>
-  <programme start="20170127210000 -0500" stop="20170127233000 -0500" channel="Bravo">
-    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
-    <desc lang="en">Madea uses tough love on a New York banker and his family(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9201480/Bravo/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="AMC">
+    <title lang="en">Comic Book Men</title>
+    <desc lang="en">Members of the 501st Legion of Storm Troopers invade(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9009550/AMC/sh" />
   </programme>
-  <programme start="20170127233000 -0500" stop="20170128013200 -0500" channel="Bravo">
-    <title lang="en">Mrs. Doubtfire</title>
-    <desc lang="en">An estranged dad poses as a nanny to be with his children(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/15209/Bravo/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A drifter forces his attentions on a deaf girl(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128013200 -0500" stop="20170128023200 -0500" channel="Bravo">
-    <title lang="en">Married to Medicine</title>
-    <desc lang="en">Quad bares it all at her 35th birthday party(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9765466/Bravo/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A reputation-seeker challenges Lucas to a duel(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128023200 -0500" stop="20170128033000 -0500" channel="Bravo">
-    <title lang="en">Timber Creek Lodge</title>
-    <desc lang="en">Mark's choices impact the lodge and bring him deep regret(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13439436/Bravo/sh" />
+  <programme start="20170204070000 -0500" stop="20170204073000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">Mark falls head-over-heels into his first puppy love(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128033000 -0500" stop="20170128040000 -0500" channel="Bravo">
-    <title lang="en">Watch What Happens Live With Andy Cohen</title>
-    <desc lang="en">TV personality Jax Taylor; actor Jerry O'Connell(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3592417/Bravo/sh" />
+  <programme start="20170204073000 -0500" stop="20170204080000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">Lucas suspects a dead man's brother is a bounty hunter(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128040000 -0500" stop="20170128043000 -0500" channel="Bravo">
-    <title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
-    <desc lang="en">New skin care discoveries from Cindy Crawford in 2017!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13692594/Bravo/sh" />
+  <programme start="20170204080000 -0500" stop="20170204083000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A gunman threatens to kill Micah and Lucas tries to help(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128043000 -0500" stop="20170128050000 -0500" channel="Bravo">
-    <title lang="en">Buy gold, at-cost!</title>
-    <desc lang="en">Here's your chance to buy Government-issued Gold Coins from the U.S. Mint! If you're ready to make a gold purchase, you cannot afford to miss this opportunity: American Gold Eagles are being sold at-cost, for $145 per gold coin!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10475088/Bravo/sh" />
+  <programme start="20170204083000 -0500" stop="20170204090000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A witness claims that Lucas is a murderer(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128050000 -0500" stop="20170128053000 -0500" channel="Bravo">
-    <title lang="en">No more wrinkles! Say ByeBye now and look younger!</title>
-    <desc lang="en">No more wrinkles! Look younger with Bye Bye Foundation(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11414309/Bravo/sh" />
+  <programme start="20170204090000 -0500" stop="20170204093000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">Gratitude forces Mark to let a prisoner escape(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128053000 -0500" stop="20170128060000 -0500" channel="Bravo">
-    <title lang="en">DermaWand- Look years younger!</title>
-    <desc lang="en">Younger looking skin with only 2 three min treatments a day(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9564055/Bravo/sh" />
+  <programme start="20170204093000 -0500" stop="20170204100000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">Lucas' friends label him a tinhorn because of his gambling(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128065800 -0500" channel="Bravo">
-    <title lang="en">Ladies of London</title>
-    <desc lang="en">The women head to a high-society regatta(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9897425/Bravo/sh" />
+  <programme start="20170204100000 -0500" stop="20170204103000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A blind banjo-player befriends Mark and attacks Lucas(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128065800 -0500" stop="20170128075600 -0500" channel="Bravo">
-    <title lang="en">Summer House</title>
-    <desc lang="en">Kyle confronts Everett and Lindsay after their meltdown(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13501807/Bravo/sh" />
+  <programme start="20170204103000 -0500" stop="20170204110000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A jealous husband threatens Lucas(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128075600 -0500" stop="20170128085700 -0500" channel="Bravo">
-    <title lang="en">Vanderpump Rules</title>
-    <desc lang="en">Scheana levels an accusation; Kristen hosts a roast for Jax(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9656862/Bravo/sh" />
+  <programme start="20170204110000 -0500" stop="20170204113000 -0500" channel="AMC">
+    <title lang="en">The Rifleman</title>
+    <desc lang="en">A woman claims Micah is her boy's father(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/510365/AMC/sh" />
   </programme>
-  <programme start="20170128085700 -0500" stop="20170128095800 -0500" channel="Bravo">
-    <title lang="en">First Family of Hip Hop</title>
-    <desc lang="en">LeA brings the family together for a cookout(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13501826/Bravo/sh" />
+  <programme start="20170204113000 -0500" stop="20170204140000 -0500" channel="AMC">
+    <title lang="en">Rocky III</title>
+    <desc lang="en">A merciless contender forces Rocky into a title match(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/5610/AMC/sh" />
   </programme>
-  <programme start="20170128095800 -0500" stop="20170128105900 -0500" channel="Bravo">
-    <title lang="en">Married to Medicine</title>
-    <desc lang="en">Quad bares it all at her 35th birthday party(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9765466/Bravo/sh" />
+  <programme start="20170204140000 -0500" stop="20170204160000 -0500" channel="AMC">
+    <title lang="en">Rocky IV</title>
+    <desc lang="en">Vengeful boxer Rocky Balboa faces a deadly Soviet fighter(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8862/AMC/sh" />
   </programme>
-  <programme start="20170128105900 -0500" stop="20170128120000 -0500" channel="Bravo">
-    <title lang="en">The Real Housewives of Atlanta</title>
-    <desc lang="en">Phaedra and Kenya rekindle their friendship(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/188610/Bravo/sh" />
+  <programme start="20170204160000 -0500" stop="20170204190000 -0500" channel="AMC">
+    <title lang="en">John Carter</title>
+    <desc lang="en">A human soldier becomes embroiled in a conflict on Mars(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8726110/AMC/sh" />
   </programme>
-  <programme start="20170128120000 -0500" stop="20170128130000 -0500" channel="Bravo">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Boy George performs at Dorit's husband's birthday party(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8295433/Bravo/sh" />
+  <programme start="20170204190000 -0500" stop="20170204210000 -0500" channel="AMC">
+    <title lang="en">Megamind</title>
+    <desc lang="en">A supervillain has no purpose after he defeats his nemesis(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8129753/AMC/sh" />
   </programme>
-  <programme start="20170128130000 -0500" stop="20170128150000 -0500" channel="Bravo">
-    <title lang="en">Mrs. Doubtfire</title>
-    <desc lang="en">An estranged dad poses as a nanny to be with his children(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/15209/Bravo/sh" />
+  <programme start="20170204210000 -0500" stop="20170204230000 -0500" channel="AMC">
+    <title lang="en">Megamind</title>
+    <desc lang="en">A supervillain has no purpose after he defeats his nemesis(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8129753/AMC/sh" />
   </programme>
-  <programme start="20170128150000 -0500" stop="20170128170000 -0500" channel="Bravo">
-    <title lang="en">Dirty Dancing</title>
-    <desc lang="en">A sheltered teen falls for a street-wise dance instructor(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10022/Bravo/sh" />
+  <programme start="20170204230000 -0500" stop="20170205010000 -0500" channel="AMC">
+    <title lang="en">Megamind</title>
+    <desc lang="en">A supervillain has no purpose after he defeats his nemesis(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8129753/AMC/sh" />
   </programme>
   <programme start="20170128170000 -0500" stop="20170128193000 -0500" channel="Bravo">
     <title lang="en">Ocean's Eleven</title>
@@ -2763,194 +2678,100 @@
     <desc lang="en">Rapper Raekwon lights a fire under Rhondo(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13501826/Bravo/sh" />
   </programme>
-  <programme start="20170127180000 -0500" stop="20170127190000 -0500" channel="CNBC">
-    <title lang="en">Mad Money</title>
-    <icon src="http://m.poster.static-ustvnow.com/185326/CNBC/sh" />
+  <programme start="20170204000000 -0500" stop="20170204020000 -0500" channel="Bravo">
+    <title lang="en">Miss Congeniality</title>
+    <desc lang="en">A clumsy FBI agent goes under cover at a beauty pageant(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/26773/Bravo/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127200000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">The president of Waste Management collects garbage(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
+  <programme start="20170204020000 -0500" stop="20170204040000 -0500" channel="Bravo">
+    <title lang="en">Miss Congeniality 2: Armed and Fabulous</title>
+    <desc lang="en">An FBI agent must save two kidnapped friends in Las Vegas(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/35617/Bravo/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127210000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">The CEO of 7-Eleven goes under cover within the company(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
-  </programme>
-  <programme start="20170127210000 -0500" stop="20170127220000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">Mood Media CEO goes under cover and faces a fear(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
-  </programme>
-  <programme start="20170127220000 -0500" stop="20170127230000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">Family Dollar Stores President and COO Mike Bloom(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
-  </programme>
-  <programme start="20170127230000 -0500" stop="20170128000000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">Alfred Angelo President Paul Quentel goes under cover(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
-  </programme>
-  <programme start="20170128000000 -0500" stop="20170128010000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">Doug Guller deals with a troublesome employee(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
-  </programme>
-  <programme start="20170128010000 -0500" stop="20170128020000 -0500" channel="CNBC">
-    <title lang="en">Undercover Boss</title>
-    <desc lang="en">A casino president poses as a dealer in Las Vegas(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
-  </programme>
-  <programme start="20170128020000 -0500" stop="20170128023000 -0500" channel="CNBC">
-    <title lang="en">No more wrinkles! Say ByeBye now and look younger!</title>
-    <desc lang="en">No more wrinkles! Look younger with Bye Bye Foundation(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11414309/CNBC/sh" />
-  </programme>
-  <programme start="20170128023000 -0500" stop="20170128030000 -0500" channel="CNBC">
-    <title lang="en">Hall &amp; Oates, Chicago, Foreigner</title>
-    <desc lang="en">A beautiful melody and passionate lyrics: these are the greatest ballads of the 70s and 80s!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13680544/CNBC/sh" />
-  </programme>
-  <programme start="20170128030000 -0500" stop="20170128033000 -0500" channel="CNBC">
-    <title lang="en">Country Heat Dance Workout!</title>
-    <desc lang="en">Now you can shed weight FAST, just by getting your groove on with Autumn Calabrese(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13345127/CNBC/sh" />
-  </programme>
-  <programme start="20170128033000 -0500" stop="20170128040000 -0500" channel="CNBC">
+  <programme start="20170204040000 -0500" stop="20170204043000 -0500" channel="Bravo">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+    <icon src="http://m.poster.static-ustvnow.com/459763/Bravo/sh" />
   </programme>
-  <programme start="20170128040000 -0500" stop="20170128050000 -0500" channel="CNBC">
-    <title lang="en">American Greed</title>
-    <desc lang="en">Down-on-their-luck men are befriended, then murdered(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/185958/CNBC/sh" />
+  <programme start="20170204043000 -0500" stop="20170204050000 -0500" channel="Bravo">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/Bravo/sh" />
   </programme>
-  <programme start="20170128050000 -0500" stop="20170128053000 -0500" channel="CNBC">
-    <title lang="en">American Greed</title>
-    <desc lang="en">A small town comptroller steals $53 million from her city(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/185958/CNBC/sh" />
+  <programme start="20170204050000 -0500" stop="20170204053000 -0500" channel="Bravo">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/Bravo/sh" />
   </programme>
-  <programme start="20170128053000 -0500" stop="20170128060000 -0500" channel="CNBC">
-    <title lang="en">On the Money</title>
-    <desc lang="en">The opioid epidemic; free tuition at state schools(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9627623/CNBC/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="Bravo">
+    <title lang="en">DermaWand- Look years younger!</title>
+    <desc lang="en">Younger looking skin with only 2 three min treatments a day(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9564055/Bravo/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="CNBC">
-    <title lang="en">Options Action</title>
-    <desc lang="en">Option traders discuss how to profit from the news of the week using options(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/195409/CNBC/sh" />
+  <programme start="20170204060000 -0500" stop="20170204070000 -0500" channel="Bravo">
+    <title lang="en">Inside the Actors Studio</title>
+    <desc lang="en">Actress Viola Davis ((n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185400/Bravo/sh" />
   </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="CNBC">
-    <title lang="en">NuWave Brio Digital Air Fryer / Worry-Free Fried Foods</title>
-    <desc lang="en">Enjoy worry-free fried foods without any unhealthy oil(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12910478/CNBC/sh" />
+  <programme start="20170204070000 -0500" stop="20170204080000 -0500" channel="Bravo">
+    <title lang="en">Inside the Actors Studio</title>
+    <desc lang="en">Award-winning actor Cuba Gooding Jr. ((n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185400/Bravo/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128073000 -0500" channel="CNBC">
-    <title lang="en">LifeLock Protection</title>
-    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
+  <programme start="20170204080000 -0500" stop="20170204090000 -0500" channel="Bravo">
+    <title lang="en">Top Chef</title>
+    <desc lang="en">The competitors board a boat to harvest shrimp(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/187626/Bravo/sh" />
   </programme>
-  <programme start="20170128073000 -0500" stop="20170128080000 -0500" channel="CNBC">
-    <title lang="en">Copper Chef</title>
-    <desc lang="en">Cooking with Eric Theiss(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12606819/CNBC/sh" />
+  <programme start="20170204090000 -0500" stop="20170204100000 -0500" channel="Bravo">
+    <title lang="en">Ladies of London</title>
+    <desc lang="en">Caroline Fleming throws a Midsummer's Eve party(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9897425/Bravo/sh" />
   </programme>
-  <programme start="20170128080000 -0500" stop="20170128083000 -0500" channel="CNBC">
-    <title lang="en">Cindy Crawford's Beauty Secrets from France</title>
-    <desc lang="en">Cindy Crawford's 50 but her skin still looks 28! Get her anti-aging secrets! By Guthy-Renker(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11240585/CNBC/sh" />
+  <programme start="20170204100000 -0500" stop="20170204110000 -0500" channel="Bravo">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Kyle hosts a game night; Dorit and Eileen quarrel(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8295433/Bravo/sh" />
   </programme>
-  <programme start="20170128083000 -0500" stop="20170128090000 -0500" channel="CNBC">
-    <title lang="en">Play Piano in a Flash!</title>
-    <desc lang="en">Scott Houston created a fast, fun, and easy 3 step system(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9664562/CNBC/sh" />
+  <programme start="20170204110000 -0500" stop="20170204120000 -0500" channel="Bravo">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Lisa Rinna complains to Eden; Erika shoots a music video(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8295433/Bravo/sh" />
   </programme>
-  <programme start="20170128090000 -0500" stop="20170128093000 -0500" channel="CNBC">
-    <title lang="en">Tailgate With The NuWave Brio Digital Air Fryer Healthy Fried Foods</title>
-    <desc lang="en">Enjoy healthy, worry-free fried foods at your next tailgate(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12958137/CNBC/sh" />
+  <programme start="20170204120000 -0500" stop="20170204130000 -0500" channel="Bravo">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Boy George performs at Dorit's husband's birthday party(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8295433/Bravo/sh" />
   </programme>
-  <programme start="20170128093000 -0500" stop="20170128100000 -0500" channel="CNBC">
-    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
-    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13293181/CNBC/sh" />
+  <programme start="20170204130000 -0500" stop="20170204140000 -0500" channel="Bravo">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Lisa Rinna throws a barbecue with husband Harry(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8295433/Bravo/sh" />
   </programme>
-  <programme start="20170128100000 -0500" stop="20170128103000 -0500" channel="CNBC">
-    <title lang="en">LifeLock Protection</title>
-    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
+  <programme start="20170204140000 -0500" stop="20170204160000 -0500" channel="Bravo">
+    <title lang="en">Easy A</title>
+    <desc lang="en">A high-school student uses the rumor mill to her advantage(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8060361/Bravo/sh" />
   </programme>
-  <programme start="20170128103000 -0500" stop="20170128110000 -0500" channel="CNBC">
-    <title lang="en">Cooking Made Easy</title>
-    <desc lang="en">The amazing way to Fry Foods with little to NO OIL using Super-heated Air(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12757162/CNBC/sh" />
+  <programme start="20170204160000 -0500" stop="20170204180000 -0500" channel="Bravo">
+    <title lang="en">Miss Congeniality 2: Armed and Fabulous</title>
+    <desc lang="en">An FBI agent must save two kidnapped friends in Las Vegas(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/35617/Bravo/sh" />
   </programme>
-  <programme start="20170128110000 -0500" stop="20170128113000 -0500" channel="CNBC">
-    <title lang="en">No more wrinkles! Say ByeBye now and look younger!</title>
-    <desc lang="en">No more wrinkles! Look younger with Bye Bye Foundation(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11414309/CNBC/sh" />
+  <programme start="20170204180000 -0500" stop="20170204200000 -0500" channel="Bravo">
+    <title lang="en">Miss Congeniality</title>
+    <desc lang="en">A clumsy FBI agent goes under cover at a beauty pageant(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/26773/Bravo/sh" />
   </programme>
-  <programme start="20170128113000 -0500" stop="20170128120000 -0500" channel="CNBC">
-    <title lang="en">LifeLock Protection</title>
-    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
+  <programme start="20170204200000 -0500" stop="20170204223000 -0500" channel="Bravo">
+    <title lang="en">Bridesmaids</title>
+    <desc lang="en">A maid of honor's life unravels as the big day approaches(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8414185/Bravo/sh" />
   </programme>
-  <programme start="20170128120000 -0500" stop="20170128123000 -0500" channel="CNBC">
-    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
-    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13293181/CNBC/sh" />
-  </programme>
-  <programme start="20170128123000 -0500" stop="20170128130000 -0500" channel="CNBC">
-    <title lang="en">Copper Chef</title>
-    <desc lang="en">Cooking with Eric Theiss(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12606819/CNBC/sh" />
-  </programme>
-  <programme start="20170128130000 -0500" stop="20170128133000 -0500" channel="CNBC">
-    <title lang="en">Dance Away Your Cize!</title>
-    <desc lang="en">Forget everything you dread about workouts(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13426128/CNBC/sh" />
-  </programme>
-  <programme start="20170128133000 -0500" stop="20170128143000 -0500" channel="CNBC">
-    <title lang="en">Best Pan Ever!</title>
-    <desc lang="en">Copper Chef is the non-stick, no clean up pan that serves as a roasting pan and baking dish!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12333574/CNBC/sh" />
-  </programme>
-  <programme start="20170128143000 -0500" stop="20170128150000 -0500" channel="CNBC">
-    <title lang="en">Cooking Made Easy</title>
-    <desc lang="en">The amazing way to Fry Foods with little to NO OIL using Super-heated Air(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12757162/CNBC/sh" />
-  </programme>
-  <programme start="20170128150000 -0500" stop="20170128153000 -0500" channel="CNBC">
-    <title lang="en">BISSELL CrossWave All-In-One-Multi-Surface-Cleaner</title>
-    <desc lang="en">The new BISSELL CrossWave All-In-One multi-surface floor cleaner quickly and effortlessly cleans(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13216897/CNBC/sh" />
-  </programme>
-  <programme start="20170128153000 -0500" stop="20170128160000 -0500" channel="CNBC">
-    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
-    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13293181/CNBC/sh" />
-  </programme>
-  <programme start="20170128160000 -0500" stop="20170128163000 -0500" channel="CNBC">
-    <title lang="en">LifeLock Protection</title>
-    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
-  </programme>
-  <programme start="20170128163000 -0500" stop="20170128170000 -0500" channel="CNBC">
-    <title lang="en">Body Beast!</title>
-    <desc lang="en">Get the most advanced muscle-defining workout program(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9749488/CNBC/sh" />
-  </programme>
-  <programme start="20170128170000 -0500" stop="20170128173000 -0500" channel="CNBC">
-    <title lang="en">Perricone MD Cold Plasma Sub-D</title>
-    <desc lang="en">One's neck can make someone look too old; looking visibly younger with Cold Plasma Sub-D(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11068489/CNBC/sh" />
-  </programme>
-  <programme start="20170128173000 -0500" stop="20170128180000 -0500" channel="CNBC">
-    <title lang="en">Copper Chef</title>
-    <desc lang="en">Cooking with Eric Theiss(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12606819/CNBC/sh" />
+  <programme start="20170204223000 -0500" stop="20170205010000 -0500" channel="Bravo">
+    <title lang="en">Bridesmaids</title>
+    <desc lang="en">A maid of honor's life unravels as the big day approaches(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8414185/Bravo/sh" />
   </programme>
   <programme start="20170128180000 -0500" stop="20170128183000 -0500" channel="CNBC">
     <title lang="en">LifeLock Protection</title>
@@ -3686,123 +3507,185 @@
     <desc lang="en">Modell's Sporting Goods CEO Mitchell B. Modell(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
   </programme>
-  <programme start="20170127180000 -0500" stop="20170127190000 -0500" channel="CNN">
-    <title lang="en">The Situation Room With Wolf Blitzer</title>
-    <desc lang="en">Traditional reporting and online resources update international news(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/186409/CNN/sh" />
+  <programme start="20170204000000 -0500" stop="20170204010000 -0500" channel="CNBC">
+    <title lang="en">Undercover Boss</title>
+    <desc lang="en">John Hartmann is shocked by the antics of an employee(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127200000 -0500" channel="CNN">
-    <title lang="en">Erin Burnett OutFront</title>
-    <icon src="http://m.poster.static-ustvnow.com/8855245/CNN/sh" />
+  <programme start="20170204010000 -0500" stop="20170204020000 -0500" channel="CNBC">
+    <title lang="en">Undercover Boss</title>
+    <desc lang="en">Stella &amp; Dot CEO Jessica Herrin goes under cover(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127210000 -0500" channel="CNN">
-    <title lang="en">Anderson Cooper 360</title>
-    <icon src="http://m.poster.static-ustvnow.com/185440/CNN/sh" />
+  <programme start="20170204020000 -0500" stop="20170204023000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170127210000 -0500" stop="20170127220000 -0500" channel="CNN">
-    <title lang="en">Smerconish</title>
-    <icon src="http://m.poster.static-ustvnow.com/10610930/CNN/sh" />
+  <programme start="20170204023000 -0500" stop="20170204030000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170127220000 -0500" stop="20170127230000 -0500" channel="CNN">
-    <title lang="en">CNN Tonight With Don Lemon</title>
-    <icon src="http://m.poster.static-ustvnow.com/7929027/CNN/sh" />
+  <programme start="20170204030000 -0500" stop="20170204033000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170127230000 -0500" stop="20170128000000 -0500" channel="CNN">
-    <title lang="en">CNN Tonight With Don Lemon</title>
-    <icon src="http://m.poster.static-ustvnow.com/7929027/CNN/sh" />
+  <programme start="20170204033000 -0500" stop="20170204040000 -0500" channel="CNBC">
+    <title lang="en">LifeLock Protection</title>
+    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
   </programme>
-  <programme start="20170128000000 -0500" stop="20170128010000 -0500" channel="CNN">
-    <title lang="en">The Messy Truth</title>
-    <desc lang="en">Live audience discussion about the recent election(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13690852/CNN/sh" />
+  <programme start="20170204040000 -0500" stop="20170204050000 -0500" channel="CNBC">
+    <title lang="en">American Greed</title>
+    <desc lang="en">Albert Talton's twist on one of the nation's oldest crimes(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185958/CNBC/sh" />
   </programme>
-  <programme start="20170128010000 -0500" stop="20170128020000 -0500" channel="CNN">
-    <title lang="en">CNN Tonight With Don Lemon</title>
-    <icon src="http://m.poster.static-ustvnow.com/7929027/CNN/sh" />
+  <programme start="20170204050000 -0500" stop="20170204053000 -0500" channel="CNBC">
+    <title lang="en">American Greed</title>
+    <desc lang="en">A real estate developer lures victims to his phony oases(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185958/CNBC/sh" />
   </programme>
-  <programme start="20170128020000 -0500" stop="20170128030000 -0500" channel="CNN">
-    <title lang="en">CNN Tonight With Don Lemon</title>
-    <icon src="http://m.poster.static-ustvnow.com/7929027/CNN/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="CNBC">
+    <title lang="en">On the Money</title>
+    <desc lang="en">Perspectives on market conditions and investment advice(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9627623/CNBC/sh" />
   </programme>
-  <programme start="20170128030000 -0500" stop="20170128040000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest, up-to-date news stories from around the globe(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11873759/CNN/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="CNBC">
+    <title lang="en">Options Action</title>
+    <desc lang="en">Option traders discuss how to profit from the news of the week using options(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/195409/CNBC/sh" />
   </programme>
-  <programme start="20170128040000 -0500" stop="20170128050000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest, up-to-date news stories from around the globe(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11873759/CNN/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128050000 -0500" stop="20170128060000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest, up-to-date news stories from around the globe(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11873759/CNN/sh" />
+  <programme start="20170204070000 -0500" stop="20170204073000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128070000 -0500" channel="CNN">
-    <title lang="en">New Day Saturday</title>
-    <desc lang="en">CNN presents the latest news, weather and high interest stories to stat your day(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10014090/CNN/sh" />
+  <programme start="20170204073000 -0500" stop="20170204080000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128080000 -0500" channel="CNN">
-    <title lang="en">New Day Saturday</title>
-    <desc lang="en">CNN presents the latest news, weather and high interest stories to stat your day(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10014090/CNN/sh" />
+  <programme start="20170204080000 -0500" stop="20170204083000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128080000 -0500" stop="20170128090000 -0500" channel="CNN">
-    <title lang="en">New Day Saturday</title>
-    <desc lang="en">CNN presents the latest news, weather and high interest stories to stat your day(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10014090/CNN/sh" />
+  <programme start="20170204083000 -0500" stop="20170204090000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128090000 -0500" stop="20170128100000 -0500" channel="CNN">
-    <title lang="en">Smerconish</title>
-    <desc lang="en">Michael Smerconish tackles weekly American political and news stories from one perspective...his(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10610930/CNN/sh" />
+  <programme start="20170204090000 -0500" stop="20170204093000 -0500" channel="CNBC">
+    <title lang="en">LifeLock Protection</title>
+    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
   </programme>
-  <programme start="20170128100000 -0500" stop="20170128110000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
-    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
+  <programme start="20170204093000 -0500" stop="20170204100000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128110000 -0500" stop="20170128120000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
-    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
+  <programme start="20170204100000 -0500" stop="20170204120000 -0500" channel="CNBC">
+    <title lang="en">English Premier League Soccer</title>
+    <desc lang="en">From Selhurst Park in London(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3605402/CNBC/sh" />
   </programme>
-  <programme start="20170128120000 -0500" stop="20170128130000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
-    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
+  <programme start="20170204120000 -0500" stop="20170204123000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128130000 -0500" stop="20170128140000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
-    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
+  <programme start="20170204123000 -0500" stop="20170204130000 -0500" channel="CNBC">
+    <title lang="en">Cooking Made Easy</title>
+    <desc lang="en">The amazing way to Fry Foods with little to NO OIL using Super-heated Air(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12757162/CNBC/sh" />
   </programme>
-  <programme start="20170128140000 -0500" stop="20170128143000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
-    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
+  <programme start="20170204130000 -0500" stop="20170204133000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128143000 -0500" stop="20170128150000 -0500" channel="CNN">
-    <title lang="en">Vital Signs With Dr. Sanjay Gupta</title>
-    <desc lang="en">Dr. Sanjay Gupta explores the world of disease reversal(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10627771/CNN/sh" />
+  <programme start="20170204133000 -0500" stop="20170204140000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128150000 -0500" stop="20170128160000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Poppy Harlow</title>
-    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  <programme start="20170204140000 -0500" stop="20170204143000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
   </programme>
-  <programme start="20170128160000 -0500" stop="20170128170000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Poppy Harlow</title>
-    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  <programme start="20170204143000 -0500" stop="20170204150000 -0500" channel="CNBC">
+    <title lang="en">Copper Chef</title>
+    <desc lang="en">Cooking with Eric Theiss(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12606819/CNBC/sh" />
   </programme>
-  <programme start="20170128170000 -0500" stop="20170128180000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom With Poppy Harlow</title>
-    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  <programme start="20170204150000 -0500" stop="20170204153000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204153000 -0500" stop="20170204160000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204160000 -0500" stop="20170204163000 -0500" channel="CNBC">
+    <title lang="en">LifeLock Protection</title>
+    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12639902/CNBC/sh" />
+  </programme>
+  <programme start="20170204163000 -0500" stop="20170204170000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204170000 -0500" stop="20170204173000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204173000 -0500" stop="20170204180000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204180000 -0500" stop="20170204183000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204183000 -0500" stop="20170204190000 -0500" channel="CNBC">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/CNBC/sh" />
+  </programme>
+  <programme start="20170204190000 -0500" stop="20170204210000 -0500" channel="CNBC">
+    <title lang="en">The New Celebrity Apprentice</title>
+    <desc lang="en">Contestants market health food and make a digital brochure(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/188133/CNBC/sh" />
+  </programme>
+  <programme start="20170204210000 -0500" stop="20170204220000 -0500" channel="CNBC">
+    <title lang="en">Undercover Boss</title>
+    <desc lang="en">The CEO goes under cover within his own corporation(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
+  </programme>
+  <programme start="20170204220000 -0500" stop="20170204230000 -0500" channel="CNBC">
+    <title lang="en">Undercover Boss</title>
+    <desc lang="en">Checkers &amp; Rally's CEO Rick Silva goes under cover(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
+  </programme>
+  <programme start="20170204230000 -0500" stop="20170205000000 -0500" channel="CNBC">
+    <title lang="en">Undercover Boss</title>
+    <desc lang="en">PostNet CEO Steve Greenbaum goes under cover(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561923/CNBC/sh" />
   </programme>
   <programme start="20170128180000 -0500" stop="20170128190000 -0500" channel="CNN">
     <title lang="en">Smerconish</title>
@@ -3871,10 +3754,12 @@
   </programme>
   <programme start="20170129080000 -0500" stop="20170129090000 -0500" channel="CNN">
     <title lang="en">Inside Politics</title>
+    <desc lang="en">John King reports on President Trump's executive actions(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/10522994/CNN/sh" />
   </programme>
   <programme start="20170129090000 -0500" stop="20170129100000 -0500" channel="CNN">
     <title lang="en">State of the Union</title>
+    <desc lang="en">Guests discuss foreign policy and national security(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/11414123/CNN/sh" />
   </programme>
   <programme start="20170129100000 -0500" stop="20170129110000 -0500" channel="CNN">
@@ -3883,10 +3768,12 @@
   </programme>
   <programme start="20170129110000 -0500" stop="20170129120000 -0500" channel="CNN">
     <title lang="en">Reliable Sources</title>
+    <desc lang="en">Matthew Garrahan discusses Trump's promotion of Fox News(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/186413/CNN/sh" />
   </programme>
   <programme start="20170129120000 -0500" stop="20170129130000 -0500" channel="CNN">
     <title lang="en">State of the Union</title>
+    <desc lang="en">Guests discuss foreign policy and national security(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/11414123/CNN/sh" />
   </programme>
   <programme start="20170129130000 -0500" stop="20170129140000 -0500" channel="CNN">
@@ -4505,90 +4392,130 @@
     <desc lang="en">New look at the Aaron Hernandez murder case(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/606820/CNN/sh" />
   </programme>
-  <programme start="20170127170000 -0500" stop="20170127190000 -0500" channel="FX">
-    <title lang="en">The Purge</title>
-    <desc lang="en">All crime becomes legal during an annual 12-hour period(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9622770/FX/sh" />
+  <programme start="20170204000000 -0500" stop="20170204010000 -0500" channel="CNN">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Anthony explores Houston's diverse cultures(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9843844/CNN/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127223000 -0500" channel="FX">
-    <title lang="en">The Amazing Spider-Man 2</title>
-    <desc lang="en">Peter Parker confronts a powerful villain named Electro(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9957538/FX/sh" />
+  <programme start="20170204010000 -0500" stop="20170204020000 -0500" channel="CNN">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Bourdain takes a very personal trip to Provincetown(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9843844/CNN/sh" />
   </programme>
-  <programme start="20170127223000 -0500" stop="20170128020000 -0500" channel="FX">
-    <title lang="en">The Amazing Spider-Man 2</title>
-    <desc lang="en">Peter Parker confronts a powerful villain named Electro(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9957538/FX/sh" />
+  <programme start="20170204020000 -0500" stop="20170204030000 -0500" channel="CNN">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Bourdain and his crew take long-awaited first trip to Iran(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9843844/CNN/sh" />
   </programme>
-  <programme start="20170128020000 -0500" stop="20170128040000 -0500" channel="FX">
-    <title lang="en">The Purge</title>
-    <desc lang="en">All crime becomes legal during an annual 12-hour period(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9622770/FX/sh" />
+  <programme start="20170204030000 -0500" stop="20170204040000 -0500" channel="CNN">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Tony explores the food and music of anti-Qaddafi rapper(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9843844/CNN/sh" />
   </programme>
-  <programme start="20170128040000 -0500" stop="20170128043100 -0500" channel="FX">
-    <title lang="en">Sex&amp;Drugs&amp;Rock&amp;Roll</title>
-    <desc lang="en">Johnny decides to stay dead for financial reasons(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11689549/FX/sh" />
+  <programme start="20170204040000 -0500" stop="20170204050000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom Live</title>
+    <desc lang="en">The latest, up-to-date news stories from around the globe(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11873759/CNN/sh" />
   </programme>
-  <programme start="20170128043100 -0500" stop="20170128050100 -0500" channel="FX">
-    <title lang="en">Sex&amp;Drugs&amp;Rock&amp;Roll</title>
-    <desc lang="en">The Heathens find out they are somehow still big in Belgium(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11689549/FX/sh" />
+  <programme start="20170204050000 -0500" stop="20170204060000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom Live</title>
+    <desc lang="en">The latest, up-to-date news stories from around the globe(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11873759/CNN/sh" />
   </programme>
-  <programme start="20170128050100 -0500" stop="20170128053000 -0500" channel="FX">
-    <title lang="en">Midnight Special</title>
-    <desc lang="en">The Midnight Special was the first of its kind(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11065274/FX/sh" />
+  <programme start="20170204060000 -0500" stop="20170204070000 -0500" channel="CNN">
+    <title lang="en">New Day Saturday</title>
+    <desc lang="en">CNN presents the latest news, weather and high interest stories to stat your day(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10014090/CNN/sh" />
   </programme>
-  <programme start="20170128053000 -0500" stop="20170128060000 -0500" channel="FX">
-    <title lang="en">King of the Grill - Wood-Fired Cooking</title>
-    <desc lang="en">Traeger, the Original Wood Pellet Grill, turns the potential of uncooked food into phenomenal food(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13629187/FX/sh" />
+  <programme start="20170204070000 -0500" stop="20170204080000 -0500" channel="CNN">
+    <title lang="en">New Day Saturday</title>
+    <desc lang="en">CNN presents the latest news, weather and high interest stories to stat your day(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10014090/CNN/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="FX">
-    <title lang="en">Try Total Gym for $14.95</title>
-    <desc lang="en">Total Gym Fit is the only piece of fitness equipment you need to get into the best shape(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11628983/FX/sh" />
+  <programme start="20170204080000 -0500" stop="20170204090000 -0500" channel="CNN">
+    <title lang="en">New Day Saturday</title>
+    <desc lang="en">CNN presents the latest news, weather and high interest stories to stat your day(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10014090/CNN/sh" />
   </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="FX">
-    <title lang="en">Best Pan Ever!</title>
-    <desc lang="en">Copper Chef is the non-stick, no clean up pan that serves as a roasting pan and baking dish!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12333574/FX/sh" />
+  <programme start="20170204090000 -0500" stop="20170204100000 -0500" channel="CNN">
+    <title lang="en">Smerconish</title>
+    <desc lang="en">Michael Smerconish tackles weekly American political and news stories from one perspective...his(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10610930/CNN/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128100000 -0500" channel="FX">
-    <title lang="en">Savages</title>
-    <desc lang="en">Three pot growers go to war against a Mexican drug cartel(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9076164/FX/sh" />
+  <programme start="20170204100000 -0500" stop="20170204110000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
   </programme>
-  <programme start="20170128100000 -0500" stop="20170128103000 -0500" channel="FX">
-    <title lang="en">Two and a Half Men</title>
-    <desc lang="en">Walden becomes depressed after he receives divorce papers(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
+  <programme start="20170204110000 -0500" stop="20170204120000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
   </programme>
-  <programme start="20170128103000 -0500" stop="20170128110000 -0500" channel="FX">
-    <title lang="en">Two and a Half Men</title>
-    <desc lang="en">Jake falls for for his tutor, but she has a crush on Walden(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
+  <programme start="20170204120000 -0500" stop="20170204130000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
   </programme>
-  <programme start="20170128110000 -0500" stop="20170128113000 -0500" channel="FX">
-    <title lang="en">Two and a Half Men</title>
-    <desc lang="en">Alan becomes emotional when Walden redecorates the house(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
+  <programme start="20170204130000 -0500" stop="20170204140000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
   </programme>
-  <programme start="20170128113000 -0500" stop="20170128120000 -0500" channel="FX">
-    <title lang="en">Two and a Half Men</title>
-    <desc lang="en">Alan faces challenges that test his mental stability(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
+  <programme start="20170204140000 -0500" stop="20170204143000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854894/CNN/sh" />
   </programme>
-  <programme start="20170128120000 -0500" stop="20170128153000 -0500" channel="FX">
-    <title lang="en">The Equalizer</title>
-    <desc lang="en">A former commando champions the helpless(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10549100/FX/sh" />
+  <programme start="20170204143000 -0500" stop="20170204150000 -0500" channel="CNN">
+    <title lang="en">Kickoff in Houston: A CNN-Bleacher Report Special</title>
+    <desc lang="en">John Berman, Coy Wire and Hines Ward break down the upcoming Super Bowl(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13711569/CNN/sh" />
   </programme>
-  <programme start="20170128153000 -0500" stop="20170128173000 -0500" channel="FX">
-    <title lang="en">The Hangover Part II</title>
-    <desc lang="en">Phil, Stu, Alan and Doug head to Thailand for Stu's wedding(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8418274/FX/sh" />
+  <programme start="20170204150000 -0500" stop="20170204160000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Poppy Harlow</title>
+    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  </programme>
+  <programme start="20170204160000 -0500" stop="20170204170000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Poppy Harlow</title>
+    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  </programme>
+  <programme start="20170204170000 -0500" stop="20170204180000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Poppy Harlow</title>
+    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  </programme>
+  <programme start="20170204180000 -0500" stop="20170204190000 -0500" channel="CNN">
+    <title lang="en">Smerconish</title>
+    <desc lang="en">Michael Smerconish tackles weekly American political and news stories from one perspective...his(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10610930/CNN/sh" />
+  </programme>
+  <programme start="20170204190000 -0500" stop="20170204200000 -0500" channel="CNN">
+    <title lang="en">CNN Newsroom With Poppy Harlow</title>
+    <desc lang="en">Poppy Harlow brings the latest on the day's top news stories from around the world(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10854872/CNN/sh" />
+  </programme>
+  <programme start="20170204200000 -0500" stop="20170204210000 -0500" channel="CNN">
+    <title lang="en">CNN Special Report</title>
+    <desc lang="en">New look at the Aaron Hernandez murder case(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/606820/CNN/sh" />
+  </programme>
+  <programme start="20170204210000 -0500" stop="20170204220000 -0500" channel="CNN">
+    <title lang="en">United Shades of America</title>
+    <desc lang="en">Inmates of San Quentin prison tell their individual stories(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12751268/CNN/sh" />
+  </programme>
+  <programme start="20170204220000 -0500" stop="20170204230000 -0500" channel="CNN">
+    <title lang="en">United Shades of America</title>
+    <desc lang="en">Exploring new community policing program in Camden, N.J(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12751268/CNN/sh" />
+  </programme>
+  <programme start="20170204230000 -0500" stop="20170205000000 -0500" channel="CNN">
+    <title lang="en">United Shades of America</title>
+    <desc lang="en">The Klu Klux Klan, seek to reignite flames of white power(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12751268/CNN/sh" />
   </programme>
   <programme start="20170128173000 -0500" stop="20170128193000 -0500" channel="FX">
     <title lang="en">The Hangover Part III</title>
@@ -4866,9 +4793,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12583095/FX/sh" />
   </programme>
   <programme start="20170131033000 -0500" stop="20170131040000 -0500" channel="FX">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
+    <title lang="en">DermaWand- Look years younger!</title>
+    <desc lang="en">Younger looking skin with only 2 three min treatments a day(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9564055/FX/sh" />
   </programme>
   <programme start="20170131040000 -0500" stop="20170131043000 -0500" channel="FX">
     <title lang="en">LifeLock Protection</title>
@@ -4891,9 +4818,9 @@
     <icon src="http://m.poster.static-ustvnow.com/11414309/FX/sh" />
   </programme>
   <programme start="20170131060000 -0500" stop="20170131063000 -0500" channel="FX">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
+    <title lang="en">5 Makeup Tips 4 Older Women!</title>
+    <desc lang="en">Airbrushed makeup made easy!(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11963797/FX/sh" />
   </programme>
   <programme start="20170131063000 -0500" stop="20170131070000 -0500" channel="FX">
     <title lang="en">Cook Healthier Meals with Nuwave &amp; Make Your Exercise Count</title>
@@ -4986,9 +4913,9 @@
     <icon src="http://m.poster.static-ustvnow.com/8978680/FX/sh" />
   </programme>
   <programme start="20170201030000 -0500" stop="20170201033000 -0500" channel="FX">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
+    <title lang="en">Tailgate With The NuWave Brio Digital Air Fryer Healthy Fried Foods</title>
+    <desc lang="en">Enjoy healthy, worry-free fried foods at your next tailgate(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13522228/FX/sh" />
   </programme>
   <programme start="20170201033000 -0500" stop="20170201040000 -0500" channel="FX">
     <title lang="en">Try Total Gym for $14.95</title>
@@ -5340,160 +5267,80 @@
     <desc lang="en">An investigator (Tom Cruise) probes a random sniper attack(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/9286627/FX/sh" />
   </programme>
-  <programme start="20170127180000 -0500" stop="20170127190000 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">Jackie Hollywood unveils his body shop art gallery(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204020000 -0500" stop="20170204050000 -0500" channel="FX">
+    <title lang="en">Mission: Impossible -- Ghost Protocol</title>
+    <desc lang="en">Ethan Hunt goes(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8493689/FX/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127200000 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">Mike looks to bundle in order to save his bottom line(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204050000 -0500" stop="20170204053000 -0500" channel="FX">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127210000 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">The guys find a rare 1930s coupe at Buckey's one-man ranch(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="FX">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
   </programme>
-  <programme start="20170127210000 -0500" stop="20170127220300 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">In California, a collector is under pressure to downsize(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="FX">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
   </programme>
-  <programme start="20170127220300 -0500" stop="20170127230300 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">The guys find an aircraft with an amazing back-story(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="FX">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/FX/sh" />
   </programme>
-  <programme start="20170127230300 -0500" stop="20170128000300 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">Mike and Frank take a ride in a one-of-a-kind rocket car(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204070000 -0500" stop="20170204090000 -0500" channel="FX">
+    <title lang="en">No Good Deed</title>
+    <desc lang="en">A stranger terrorizes a woman and her children(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10231046/FX/sh" />
   </programme>
-  <programme start="20170128000300 -0500" stop="20170128010300 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">The guys find a rare 1930s coupe at Buckey's one-man ranch(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204090000 -0500" stop="20170204093000 -0500" channel="FX">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Lyndsey and Alan grapple with their moms' new relationship(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
   </programme>
-  <programme start="20170128010300 -0500" stop="20170128020600 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">In California, a collector is under pressure to downsize(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204093000 -0500" stop="20170204100000 -0500" channel="FX">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Alan gets more than he bargained for with Lyndsey(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
   </programme>
-  <programme start="20170128020600 -0500" stop="20170128030400 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">The guys find an aircraft with an amazing back-story(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204100000 -0500" stop="20170204103000 -0500" channel="FX">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">When Alan has a heart attack, Charlie's ghost visits him(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
   </programme>
-  <programme start="20170128030400 -0500" stop="20170128040200 -0500" channel="History">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">Mike and Frank take a ride in a one-of-a-kind rocket car(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
+  <programme start="20170204103000 -0500" stop="20170204110000 -0500" channel="FX">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Alan receives a shower of affection upon his return(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184925/FX/sh" />
   </programme>
-  <programme start="20170128040200 -0500" stop="20170128043000 -0500" channel="History">
-    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
-    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
+  <programme start="20170204110000 -0500" stop="20170204140000 -0500" channel="FX">
+    <title lang="en">Mission: Impossible -- Ghost Protocol</title>
+    <desc lang="en">Ethan Hunt goes(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8493689/FX/sh" />
   </programme>
-  <programme start="20170128043000 -0500" stop="20170128050000 -0500" channel="History">
-    <title lang="en">Coin Collecting with Mike Mezack</title>
-    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
+  <programme start="20170204140000 -0500" stop="20170204173000 -0500" channel="FX">
+    <title lang="en">The Amazing Spider-Man 2</title>
+    <desc lang="en">Peter Parker confronts a powerful villain named Electro(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9957538/FX/sh" />
   </programme>
-  <programme start="20170128050000 -0500" stop="20170128053000 -0500" channel="History">
-    <title lang="en">Coin Collecting with Mike Mezack</title>
-    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
+  <programme start="20170204173000 -0500" stop="20170204200000 -0500" channel="FX">
+    <title lang="en">The Heat</title>
+    <desc lang="en">A federal agent and a Boston cop go after a drug lord(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9434317/FX/sh" />
   </programme>
-  <programme start="20170128053000 -0500" stop="20170128060000 -0500" channel="History">
-    <title lang="en">Coin Collecting with Mike Mezack</title>
-    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
+  <programme start="20170204200000 -0500" stop="20170204220000 -0500" channel="FX">
+    <title lang="en">Let's Be Cops</title>
+    <desc lang="en">Two buddies impersonate police officers(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10487536/FX/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="History">
-    <title lang="en">Coin Collecting with Mike Mezack</title>
-    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
-  </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="History">
-    <title lang="en">Larry King Special Report UPDATE</title>
-    <desc lang="en">Larry King investigates Omega XL, the solution for pain(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10005060/History/sh" />
-  </programme>
-  <programme start="20170128070000 -0500" stop="20170128080000 -0500" channel="History">
-    <title lang="en">Mountain Men</title>
-    <desc lang="en">Morgan walks into a death trap in the Alaska Range(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
-  </programme>
-  <programme start="20170128080000 -0500" stop="20170128090000 -0500" channel="History">
-    <title lang="en">Mountain Men</title>
-    <desc lang="en">Marty finds an unexpected advantage(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
-  </programme>
-  <programme start="20170128090000 -0500" stop="20170128100000 -0500" channel="History">
-    <title lang="en">Mountain Men</title>
-    <desc lang="en">Morgan stakes out his next meal to fight off starvation(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
-  </programme>
-  <programme start="20170128100000 -0500" stop="20170128110000 -0500" channel="History">
-    <title lang="en">Mountain Men</title>
-    <desc lang="en">Tom's bad luck intensifies, but he refuses to give up(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
-  </programme>
-  <programme start="20170128110000 -0500" stop="20170128120000 -0500" channel="History">
-    <title lang="en">Mountain Men</title>
-    <desc lang="en">Morgan's survival depends on a critical airdrop(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
-  </programme>
-  <programme start="20170128120000 -0500" stop="20170128130000 -0500" channel="History">
-    <title lang="en">SIX</title>
-    <desc lang="en">Rip Taggart's former SEAL Team Six brothers must rescue him(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12902260/History/sh" />
-  </programme>
-  <programme start="20170128130000 -0500" stop="20170128140000 -0500" channel="History">
-    <title lang="en">SIX</title>
-    <desc lang="en">The SEAL Team attempts to detain a courier(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12902260/History/sh" />
-  </programme>
-  <programme start="20170128140000 -0500" stop="20170128143000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">Danny receives an offer for one of his prized cars(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128143000 -0500" stop="20170128150000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">Danny helps his friend Brian ride a motorcycle(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128150000 -0500" stop="20170128153000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">Danny visits the Shelby Heritage Center to gain inspiration(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128153000 -0500" stop="20170128160000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">A 1969 Cadillac; Danny wants to purchase a Ford Humpback(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128160000 -0500" stop="20170128163000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">George Lynch comes in with a 1965 Buick Riviera(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128163000 -0500" stop="20170128170000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">Ryan turns his attention to Danny's prized police cruiser(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128170000 -0500" stop="20170128173000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">A 1967 Ford Bronco; a 1950 Harley Davidson(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
-  </programme>
-  <programme start="20170128173000 -0500" stop="20170128180000 -0500" channel="History">
-    <title lang="en">Counting Cars</title>
-    <desc lang="en">Danny has a customer ready to buy the 1967 Ford Bronco(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  <programme start="20170204220000 -0500" stop="20170205000000 -0500" channel="FX">
+    <title lang="en">Let's Be Cops</title>
+    <desc lang="en">Two buddies impersonate police officers(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10487536/FX/sh" />
   </programme>
   <programme start="20170128180000 -0500" stop="20170128183000 -0500" channel="History">
     <title lang="en">Counting Cars</title>
@@ -5696,9 +5543,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12902260/History/sh" />
   </programme>
   <programme start="20170130040200 -0500" stop="20170130043000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Powered Lift Away is 3 Vacuums In One!</title>
+    <desc lang="en">5 Star Cleaning Power &amp; Performance -Shark Lift-Away(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11913829/History/sh" />
   </programme>
   <programme start="20170130043000 -0500" stop="20170130050000 -0500" channel="History">
     <title lang="en">Maintain Your Health!</title>
@@ -5716,9 +5563,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12639902/History/sh" />
   </programme>
   <programme start="20170130060000 -0500" stop="20170130063000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
   </programme>
   <programme start="20170130063000 -0500" stop="20170130070000 -0500" channel="History">
     <title lang="en">Arthritis Pain?</title>
@@ -5866,9 +5713,9 @@
     <icon src="http://m.poster.static-ustvnow.com/3565439/History/sh" />
   </programme>
   <programme start="20170131040200 -0500" stop="20170131043000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
   </programme>
   <programme start="20170131043000 -0500" stop="20170131050000 -0500" channel="History">
     <title lang="en">Paid Programming</title>
@@ -5891,9 +5738,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12583095/History/sh" />
   </programme>
   <programme start="20170131063000 -0500" stop="20170131070000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Powered Lift Away is 3 Vacuums In One!</title>
+    <desc lang="en">5 Star Cleaning Power &amp; Performance -Shark Lift-Away(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11913829/History/sh" />
   </programme>
   <programme start="20170131070000 -0500" stop="20170131080000 -0500" channel="History">
     <title lang="en">Modern Marvels</title>
@@ -6036,9 +5883,9 @@
     <icon src="http://m.poster.static-ustvnow.com/358914/History/sh" />
   </programme>
   <programme start="20170201050000 -0500" stop="20170201053000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
   </programme>
   <programme start="20170201053000 -0500" stop="20170201060000 -0500" channel="History">
     <title lang="en">Paid Programming</title>
@@ -6051,9 +5898,9 @@
     <icon src="http://m.poster.static-ustvnow.com/13516418/History/sh" />
   </programme>
   <programme start="20170201063000 -0500" stop="20170201070000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
   </programme>
   <programme start="20170201070000 -0500" stop="20170201080000 -0500" channel="History">
     <title lang="en">Modern Marvels</title>
@@ -6161,9 +6008,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12902260/History/sh" />
   </programme>
   <programme start="20170202040200 -0500" stop="20170202043000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
   </programme>
   <programme start="20170202043000 -0500" stop="20170202050000 -0500" channel="History">
     <title lang="en">Body Beast!</title>
@@ -6186,9 +6033,9 @@
     <icon src="http://m.poster.static-ustvnow.com/12583095/History/sh" />
   </programme>
   <programme start="20170202063000 -0500" stop="20170202070000 -0500" channel="History">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
+    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
+    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13293181/History/sh" />
   </programme>
   <programme start="20170202070000 -0500" stop="20170202080000 -0500" channel="History">
     <title lang="en">10 Days That Unexpectedly Changed America</title>
@@ -6325,10 +6172,15 @@
     <desc lang="en">Adam and the guys restore a 1956 Rocket 88(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13563284/History/sh" />
   </programme>
-  <programme start="20170202230300 -0500" stop="20170203000300 -0500" channel="History">
-    <title lang="en">Alone</title>
-    <desc lang="en">A survivalist takes things too far and risks organ failure(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11768118/History/sh" />
+  <programme start="20170202230300 -0500" stop="20170202233300 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Buyers get into a bidding war over an old Ford Econoline(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170202233300 -0500" stop="20170203000300 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Family members seek to pay tribute to their mother(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
   </programme>
   <programme start="20170203000300 -0500" stop="20170203010300 -0500" channel="History">
     <title lang="en">Alone</title>
@@ -6345,10 +6197,15 @@
     <desc lang="en">Adam and the guys restore a 1956 Rocket 88(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/13563284/History/sh" />
   </programme>
-  <programme start="20170203030400 -0500" stop="20170203040200 -0500" channel="History">
-    <title lang="en">Alone</title>
-    <desc lang="en">A survivalist takes things too far and risks organ failure(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11768118/History/sh" />
+  <programme start="20170203030400 -0500" stop="20170203033300 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Buyers get into a bidding war over an old Ford Econoline(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170203033300 -0500" stop="20170203040200 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Family members seek to pay tribute to their mother(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
   </programme>
   <programme start="20170203040200 -0500" stop="20170203043000 -0500" channel="History">
     <title lang="en">Paid Programming</title>
@@ -6470,90 +6327,180 @@
     <desc lang="en">A former firefighter gives the guys unprecedented access(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
   </programme>
-  <programme start="20170127170000 -0500" stop="20170127190000 -0500" channel="Syfy">
-    <title lang="en">Resident Evil: Apocalypse</title>
-    <desc lang="en">Survivors of a deadly virus battle zombies(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/34790/Syfy/sh" />
+  <programme start="20170204000300 -0500" stop="20170204010300 -0500" channel="History">
+    <title lang="en">American Pickers</title>
+    <desc lang="en">The guys go see a woman with an incredible inheritance(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127210000 -0500" channel="Syfy">
-    <title lang="en">Resident Evil: Retribution</title>
-    <desc lang="en">Umbrella Corp.'s T-virus continues to ravage the Earth(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9128231/Syfy/sh" />
+  <programme start="20170204010300 -0500" stop="20170204020600 -0500" channel="History">
+    <title lang="en">American Pickers</title>
+    <desc lang="en">The guys visit a huge property with custom 1932 Fords(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
   </programme>
-  <programme start="20170127210000 -0500" stop="20170127230000 -0500" channel="Syfy">
-    <title lang="en">Resident Evil: Afterlife</title>
-    <desc lang="en">Alice continues her battle against the walking dead(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8078013/Syfy/sh" />
+  <programme start="20170204020600 -0500" stop="20170204030400 -0500" channel="History">
+    <title lang="en">American Pickers</title>
+    <desc lang="en">The guys uncover a once-in-a-lifetime find(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
   </programme>
-  <programme start="20170127230000 -0500" stop="20170128000000 -0500" channel="Syfy">
-    <title lang="en">Incorporated</title>
-    <desc lang="en">Ben's ongoing investigation leads to a shock(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11982167/Syfy/sh" />
+  <programme start="20170204030400 -0500" stop="20170204040200 -0500" channel="History">
+    <title lang="en">American Pickers</title>
+    <desc lang="en">A former firefighter gives the guys unprecedented access(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/7939201/History/sh" />
   </programme>
-  <programme start="20170128000000 -0500" stop="20170128010000 -0500" channel="Syfy">
-    <title lang="en">Incorporated</title>
-    <desc lang="en">Ben's mission reaches a critical juncture(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/11982167/Syfy/sh" />
+  <programme start="20170204040200 -0500" stop="20170204043000 -0500" channel="History">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
   </programme>
-  <programme start="20170128010000 -0500" stop="20170128020000 -0500" channel="Syfy">
-    <title lang="en">The Magicians</title>
-    <desc lang="en">Quentin and his friends scramble for a new plan(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12313766/Syfy/sh" />
+  <programme start="20170204043000 -0500" stop="20170204050000 -0500" channel="History">
+    <title lang="en">Coin Collecting with Mike Mezack</title>
+    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
   </programme>
-  <programme start="20170128020000 -0500" stop="20170128040000 -0500" channel="Syfy">
-    <title lang="en">Final Destination 2</title>
-    <desc lang="en">Grisly fates await the survivors of a highway calamity(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/31359/Syfy/sh" />
+  <programme start="20170204050000 -0500" stop="20170204053000 -0500" channel="History">
+    <title lang="en">Coin Collecting with Mike Mezack</title>
+    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
   </programme>
-  <programme start="20170128040000 -0500" stop="20170128060000 -0500" channel="Syfy">
-    <title lang="en">Final Destination 3</title>
-    <desc lang="en">Death stalks accident survivors(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/159765/Syfy/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="History">
+    <title lang="en">Coin Collecting with Mike Mezack</title>
+    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="Syfy">
-    <title lang="en">Business In A Box</title>
-    <desc lang="en">This special presentation of Cutlery Corner(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13644445/Syfy/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="History">
+    <title lang="en">Coin Collecting with Mike Mezack</title>
+    <desc lang="en">Learn about the wonderful world of numismatics!(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11377439/History/sh" />
   </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="Syfy">
-    <title lang="en">LifeLock Protection</title>
-    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12639902/Syfy/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="History">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/History/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128073000 -0500" channel="Syfy">
-    <title lang="en">Country Heat Dance Workout!</title>
-    <desc lang="en">Now you can shed weight FAST, just by getting your groove on with Autumn Calabrese(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13345127/Syfy/sh" />
+  <programme start="20170204070000 -0500" stop="20170204080000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">Morgan's survival depends on a critical airdrop(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
   </programme>
-  <programme start="20170128073000 -0500" stop="20170128080000 -0500" channel="Syfy">
-    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
-    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13293181/Syfy/sh" />
+  <programme start="20170204080000 -0500" stop="20170204090000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">Rich Lewis's dogs go one step too far chasing a bobcat(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
   </programme>
-  <programme start="20170128080000 -0500" stop="20170128083000 -0500" channel="Syfy">
-    <title lang="en">The Expanse: Expanded</title>
-    <desc lang="en">Things that need to be known about(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13625785/Syfy/sh" />
+  <programme start="20170204090000 -0500" stop="20170204100000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">A breakdown leaves Marty stranded after dark(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
   </programme>
-  <programme start="20170128083000 -0500" stop="20170128103300 -0500" channel="Syfy">
-    <title lang="en">Ominous</title>
-    <desc lang="en">A stranger brings a couple's son back to life(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12168963/Syfy/sh" />
+  <programme start="20170204100000 -0500" stop="20170204110000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">An early melt brings Marty's run to a halt(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
   </programme>
-  <programme start="20170128103300 -0500" stop="20170128125700 -0500" channel="Syfy">
-    <title lang="en">Oculus</title>
-    <desc lang="en">Siblings try to destroy a malevolent mirror(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10205083/Syfy/sh" />
+  <programme start="20170204110000 -0500" stop="20170204120000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">A storm batters Eustace and Preston during their final push(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
   </programme>
-  <programme start="20170128125700 -0500" stop="20170128150000 -0500" channel="Syfy">
-    <title lang="en">Jason Goes to Hell: The Final Friday</title>
-    <desc lang="en">Slasher Jason (Kane Hodder) goes after blood relatives(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/14954/Syfy/sh" />
+  <programme start="20170204120000 -0500" stop="20170204130000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">A predator comes back when Tom can least afford it(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
   </programme>
-  <programme start="20170128150000 -0500" stop="20170128170000 -0500" channel="Syfy">
-    <title lang="en">Jason X</title>
-    <desc lang="en">The masked killer stalks students aboard a spacecraft(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/29363/Syfy/sh" />
+  <programme start="20170204130000 -0500" stop="20170204140000 -0500" channel="History">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">It's a race against the end of winter; Marty takes a risk(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9199091/History/sh" />
+  </programme>
+  <programme start="20170204140000 -0500" stop="20170204150000 -0500" channel="History">
+    <title lang="en">Detroit Steel</title>
+    <desc lang="en">Adam and the guys restore a 1956 Rocket 88(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13563284/History/sh" />
+  </programme>
+  <programme start="20170204150000 -0500" stop="20170204153000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Building a hot-rod wheelchair; a pink car project goes awry(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204153000 -0500" stop="20170204160000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">A rare 1960 delivery vehicle; Mike gets in trouble(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204160000 -0500" stop="20170204163000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny can't let go of a car he promised to sell(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204163000 -0500" stop="20170204170000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny must create a special bike; Danny finds a Corvette(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204170000 -0500" stop="20170204173000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Movie replica bike to commemorate a customer's lost friend(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204173000 -0500" stop="20170204180000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny builds a bike to commemorate a performers career(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204180000 -0500" stop="20170204183000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny has to give up his prized 1972 Monte Carlo(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204183000 -0500" stop="20170204190000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">A returning customer requires Danny's help(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204190000 -0500" stop="20170204193000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Dee Snider wants a(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204193000 -0500" stop="20170204200000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny gets a 1967 Mustang that he hopes to turn masterpiece(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204200000 -0500" stop="20170204203000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Family members seek to pay tribute to their mother(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204203000 -0500" stop="20170204210000 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Buyers get into a bidding war over an old Ford Econoline(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204210000 -0500" stop="20170204213100 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny begins a full restoration on '66 Mustang convertible(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204213100 -0500" stop="20170204220300 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny continues with a stock restoration Mustang mess(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204220300 -0500" stop="20170204230300 -0500" channel="History">
+    <title lang="en">Detroit Steel</title>
+    <desc lang="en">Adam restores a 1967 Oldsmobile 98 for his frat brother(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13563284/History/sh" />
+  </programme>
+  <programme start="20170204230300 -0500" stop="20170204233300 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Singer Dee Snider stops by with his new Tesla(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
+  </programme>
+  <programme start="20170204233300 -0500" stop="20170205000300 -0500" channel="History">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny and Kevin go to an auction in Palm Springs(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9354925/History/sh" />
   </programme>
   <programme start="20170128170000 -0500" stop="20170128190000 -0500" channel="Syfy">
     <title lang="en">Freddy vs. Jason</title>
@@ -7069,130 +7016,95 @@
     <desc lang="en">Quentin, Alice, Penny and Margo seek a new weapon(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/12313766/Syfy/sh" />
   </programme>
-  <programme start="20170127180000 -0500" stop="20170127183000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">George's and Susan's parents dine together(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204000000 -0500" stop="20170204010000 -0500" channel="Syfy">
+    <title lang="en">The Expanse</title>
+    <desc lang="en">Miller and Holden deal with the aftermath of their escape(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12051214/Syfy/sh" />
   </programme>
-  <programme start="20170127183000 -0500" stop="20170127190000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">Kramer befriends a caddy who helps his golf game(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204010000 -0500" stop="20170204020000 -0500" channel="Syfy">
+    <title lang="en">The Expanse</title>
+    <desc lang="en">The crew searches for information on the protomolecule(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12051214/Syfy/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127193000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">Jerry's new girlfriend always wears the same dress(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204020000 -0500" stop="20170204040000 -0500" channel="Syfy">
+    <title lang="en">Drag Me to Hell</title>
+    <desc lang="en">A young woman must shatter a powerful curse placed upon her(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/181669/Syfy/sh" />
   </programme>
-  <programme start="20170127193000 -0500" stop="20170127200000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">Jerry makes a TV appearance; Jay Leno guest stars(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204040000 -0500" stop="20170204060000 -0500" channel="Syfy">
+    <title lang="en">Big Ass Spider!</title>
+    <desc lang="en">A giant arachnid goes on a rampage in Los Angeles(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9873245/Syfy/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127223000 -0500" channel="TBS">
-    <title lang="en">Percy Jackson &amp; the Olympians: The Lightning Thief</title>
-    <desc lang="en">A youth learns that his father is the Greek god Poseidon(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/177957/TBS/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="Syfy">
+    <title lang="en">LifeLock Protection</title>
+    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12639902/Syfy/sh" />
   </programme>
-  <programme start="20170127223000 -0500" stop="20170128004500 -0500" channel="TBS">
-    <title lang="en">Percy Jackson: Sea of Monsters</title>
-    <desc lang="en">Percy and friends go in search of the Golden Fleece(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9756823/TBS/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="Syfy">
+    <title lang="en">LifeLock Protection</title>
+    <desc lang="en">Identity theft protection: how LifeLock helps protect you(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12639902/Syfy/sh" />
   </programme>
-  <programme start="20170128004500 -0500" stop="20170128024500 -0500" channel="TBS">
-    <title lang="en">The Librarian: Curse of the Judas Chalice</title>
-    <desc lang="en">A librarian must stop vampires from taking over the world(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/190996/TBS/sh" />
+  <programme start="20170204070000 -0500" stop="20170204073000 -0500" channel="Syfy">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/Syfy/sh" />
   </programme>
-  <programme start="20170128024500 -0500" stop="20170128044500 -0500" channel="TBS">
-    <title lang="en">Transporter 3</title>
-    <desc lang="en">Frank Martin becomes involved with a Ukrainian woman(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/182355/TBS/sh" />
+  <programme start="20170204073000 -0500" stop="20170204080000 -0500" channel="Syfy">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/Syfy/sh" />
   </programme>
-  <programme start="20170128044500 -0500" stop="20170128050000 -0500" channel="TBS">
-    <title lang="en">TBS Network Preview</title>
-    <desc lang="en">A backstage look at TBS original programming(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8924109/TBS/sh" />
+  <programme start="20170204080000 -0500" stop="20170204083000 -0500" channel="Syfy">
+    <title lang="en">The Twilight Zone</title>
+    <desc lang="en">A department-store Santa finds a magic bag of gifts(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183869/Syfy/sh" />
   </programme>
-  <programme start="20170128050000 -0500" stop="20170128053000 -0500" channel="TBS">
-    <title lang="en">Everybody Loves Raymond</title>
-    <desc lang="en">Marie attempts to take over Amy's bridal shower(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184243/TBS/sh" />
+  <programme start="20170204083000 -0500" stop="20170204093000 -0500" channel="Syfy">
+    <title lang="en">The Magicians</title>
+    <desc lang="en">Quentin and his friends scramble for a new plan(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12313766/Syfy/sh" />
   </programme>
-  <programme start="20170128053000 -0500" stop="20170128060000 -0500" channel="TBS">
-    <title lang="en">Everybody Loves Raymond</title>
-    <desc lang="en">Ray and Debra wrangle over a piece of luggage(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184243/TBS/sh" />
+  <programme start="20170204093000 -0500" stop="20170204103000 -0500" channel="Syfy">
+    <title lang="en">The Magicians</title>
+    <desc lang="en">Quentin, Alice, Penny and Margo seek a new weapon(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12313766/Syfy/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128063000 -0500" channel="TBS">
-    <title lang="en">Everybody Loves Raymond</title>
-    <desc lang="en">Ray throws a bachelor party for Robert, and it's a flop(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184243/TBS/sh" />
+  <programme start="20170204103000 -0500" stop="20170204123000 -0500" channel="Syfy">
+    <title lang="en">Zombie Shark</title>
+    <desc lang="en">An experimental shark goes on a rampage(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11851911/Syfy/sh" />
   </programme>
-  <programme start="20170128063000 -0500" stop="20170128070000 -0500" channel="TBS">
-    <title lang="en">Everybody Loves Raymond</title>
-    <desc lang="en">A classic Barone family wedding ceremony(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184243/TBS/sh" />
+  <programme start="20170204123000 -0500" stop="20170204143000 -0500" channel="Syfy">
+    <title lang="en">Big Ass Spider!</title>
+    <desc lang="en">A giant arachnid goes on a rampage in Los Angeles(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9873245/Syfy/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128073000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">Jerry learns naked truths; George anticipates apology(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204143000 -0500" stop="20170204163000 -0500" channel="Syfy">
+    <title lang="en">Lake Placid 3</title>
+    <desc lang="en">Baby crocodiles become monstrous man-eaters(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8104959/Syfy/sh" />
   </programme>
-  <programme start="20170128073000 -0500" stop="20170128080000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">George hopes to meet women at a bookstore(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204163000 -0500" stop="20170204183000 -0500" channel="Syfy">
+    <title lang="en">Tracers</title>
+    <desc lang="en">A woman helps a messenger who's in hot water with gangsters(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/11293563/Syfy/sh" />
   </programme>
-  <programme start="20170128080000 -0500" stop="20170128083000 -0500" channel="TBS">
-    <title lang="en">Seinfeld</title>
-    <desc lang="en">Jerry begins dating his maid (Angela Featherstone)(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
+  <programme start="20170204183000 -0500" stop="20170204210000 -0500" channel="Syfy">
+    <title lang="en">Quantum of Solace</title>
+    <desc lang="en">James Bond seeks revenge for the death of Vesper Lynd(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/170973/Syfy/sh" />
   </programme>
-  <programme start="20170128083000 -0500" stop="20170128101500 -0500" channel="TBS">
-    <title lang="en">Journey 2: The Mysterious Island</title>
-    <desc lang="en">A distress signal leads a teen to an island of treasures(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8786251/TBS/sh" />
+  <programme start="20170204210000 -0500" stop="20170204234000 -0500" channel="Syfy">
+    <title lang="en">Mission: Impossible III</title>
+    <desc lang="en">Agent Ethan Hunt faces the toughest villain of his career(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/149488/Syfy/sh" />
   </programme>
-  <programme start="20170128101500 -0500" stop="20170128124500 -0500" channel="TBS">
-    <title lang="en">Percy Jackson &amp; the Olympians: The Lightning Thief</title>
-    <desc lang="en">A youth learns that his father is the Greek god Poseidon(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/177957/TBS/sh" />
-  </programme>
-  <programme start="20170128124500 -0500" stop="20170128150000 -0500" channel="TBS">
-    <title lang="en">Percy Jackson: Sea of Monsters</title>
-    <desc lang="en">Percy and friends go in search of the Golden Fleece(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/9756823/TBS/sh" />
-  </programme>
-  <programme start="20170128150000 -0500" stop="20170128153000 -0500" channel="TBS">
-    <title lang="en">Friends</title>
-    <desc lang="en">Soap Opera Digest requests an interview with Joey(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
-  </programme>
-  <programme start="20170128153000 -0500" stop="20170128160000 -0500" channel="TBS">
-    <title lang="en">Friends</title>
-    <desc lang="en">Rachel accepts her mother's offer to help with the child(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
-  </programme>
-  <programme start="20170128160000 -0500" stop="20170128163000 -0500" channel="TBS">
-    <title lang="en">Friends</title>
-    <desc lang="en">A food critic blasts Monica's cooking in a review(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
-  </programme>
-  <programme start="20170128163000 -0500" stop="20170128170000 -0500" channel="TBS">
-    <title lang="en">Friends</title>
-    <desc lang="en">Overdue Rachel tries to rush the delivery of her baby(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
-  </programme>
-  <programme start="20170128170000 -0500" stop="20170128173000 -0500" channel="TBS">
-    <title lang="en">2 Broke Girls</title>
-    <desc lang="en">Max and Caroline raise money for a cupcake storefront(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
-  </programme>
-  <programme start="20170128173000 -0500" stop="20170128180000 -0500" channel="TBS">
-    <title lang="en">2 Broke Girls</title>
-    <desc lang="en">Caroline and Max decide to hire an intern(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
+  <programme start="20170204234000 -0500" stop="20170205013700 -0500" channel="Syfy">
+    <title lang="en">Source Code</title>
+    <desc lang="en">A pilot experiences the last few minutes of a man's life(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8395541/Syfy/sh" />
   </programme>
   <programme start="20170128180000 -0500" stop="20170128183000 -0500" channel="TBS">
     <title lang="en">2 Broke Girls</title>
@@ -7991,6 +7903,7 @@
   </programme>
   <programme start="20170201223000 -0500" stop="20170201230000 -0500" channel="TBS">
     <title lang="en">Full Frontal With Samantha Bee</title>
+    <desc lang="en">A trip across the pond before Trump drains that too(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/12412201/TBS/sh" />
   </programme>
   <programme start="20170201230000 -0500" stop="20170202000000 -0500" channel="TBS">
@@ -8403,90 +8316,155 @@
     <desc lang="en">Two single-parent families are stuck together at a resort(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/10372479/TBS/sh" />
   </programme>
-  <programme start="20170127180000 -0500" stop="20170127190000 -0500" channel="TNT">
-    <title lang="en">Castle</title>
-    <desc lang="en">A murdered video store clerk with a secret history(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/188601/TNT/sh" />
+  <programme start="20170204004500 -0500" stop="20170204024500 -0500" channel="TBS">
+    <title lang="en">The Pacifier</title>
+    <desc lang="en">A Navy SEAL becomes the guardian of five siblings(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/35592/TBS/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127200000 -0500" channel="TNT">
-    <title lang="en">Castle</title>
-    <desc lang="en">Castle and Beckett investigate a magazine employee's death(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/188601/TNT/sh" />
+  <programme start="20170204024500 -0500" stop="20170204050000 -0500" channel="TBS">
+    <title lang="en">The Heartbreak Kid</title>
+    <desc lang="en">A man realizes he may have married too hastily(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/169298/TBS/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127230000 -0500" channel="TNT">
-    <title lang="en">The Da Vinci Code</title>
-    <desc lang="en">A religious mystery could rock foundations of Christianity(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/159678/TNT/sh" />
+  <programme start="20170204050000 -0500" stop="20170204053000 -0500" channel="TBS">
+    <title lang="en">Married ... With Children</title>
+    <desc lang="en">Al forms a woman-hating club and takes over a talk show(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183881/TBS/sh" />
   </programme>
-  <programme start="20170127230000 -0500" stop="20170128010000 -0500" channel="TNT">
-    <title lang="en">The Taking of Pelham 123</title>
-    <desc lang="en">Criminals hijack a New York subway train(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/175714/TNT/sh" />
+  <programme start="20170204053000 -0500" stop="20170204060000 -0500" channel="TBS">
+    <title lang="en">Married ... With Children</title>
+    <desc lang="en">Men want to go to sports bar; women want to see play(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183881/TBS/sh" />
   </programme>
-  <programme start="20170128010000 -0500" stop="20170128020000 -0500" channel="TNT">
-    <title lang="en">Hawaii Five-0</title>
-    <desc lang="en">Searching for a missing bus full of school children(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8130405/TNT/sh" />
+  <programme start="20170204060000 -0500" stop="20170204063000 -0500" channel="TBS">
+    <title lang="en">Married ... With Children</title>
+    <desc lang="en">Buck runs away from home and ends up on death row(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183881/TBS/sh" />
   </programme>
-  <programme start="20170128020000 -0500" stop="20170128030000 -0500" channel="TNT">
-    <title lang="en">Hawaii Five-0</title>
-    <desc lang="en">An investigation into a man left to die in a bunker(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8130405/TNT/sh" />
+  <programme start="20170204063000 -0500" stop="20170204070000 -0500" channel="TBS">
+    <title lang="en">Married ... With Children</title>
+    <desc lang="en">A mix-up at the hospital leaves Al circumcised(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183881/TBS/sh" />
   </programme>
-  <programme start="20170128030000 -0500" stop="20170128040000 -0500" channel="TNT">
-    <title lang="en">Hawaii Five-0</title>
-    <desc lang="en">The team investigate the murder of a teenager(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/8130405/TNT/sh" />
+  <programme start="20170204070000 -0500" stop="20170204073000 -0500" channel="TBS">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">Elaine eats cake; Kramer helps George take an arcade game(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
   </programme>
-  <programme start="20170128040000 -0500" stop="20170128050000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">Evidence surrounding a death points to a federal official(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204073000 -0500" stop="20170204080000 -0500" channel="TBS">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">The four pals break the good Samaritan law(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
   </programme>
-  <programme start="20170128050000 -0500" stop="20170128060000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">A drug trail leads to an army officer's wife(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204080000 -0500" stop="20170204083000 -0500" channel="TBS">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">The four pals break the good Samaritan law(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183875/TBS/sh" />
   </programme>
-  <programme start="20170128060000 -0500" stop="20170128070000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">The detectives search for someone orchestrating car crashes(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204083000 -0500" stop="20170204104500 -0500" channel="TBS">
+    <title lang="en">The Heartbreak Kid</title>
+    <desc lang="en">A man realizes he may have married too hastily(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/169298/TBS/sh" />
   </programme>
-  <programme start="20170128070000 -0500" stop="20170128080000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">A high-society murder points to extortion(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204104500 -0500" stop="20170204124500 -0500" channel="TBS">
+    <title lang="en">The Pacifier</title>
+    <desc lang="en">A Navy SEAL becomes the guardian of five siblings(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/35592/TBS/sh" />
   </programme>
-  <programme start="20170128080000 -0500" stop="20170128090000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">The FBI provides an alibi for a murder suspect(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204124500 -0500" stop="20170204150000 -0500" channel="TBS">
+    <title lang="en">Blended</title>
+    <desc lang="en">Two single-parent families are stuck together at a resort(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/10372479/TBS/sh" />
   </programme>
-  <programme start="20170128090000 -0500" stop="20170128100000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">A school shooting ends in several deaths(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204150000 -0500" stop="20170204153000 -0500" channel="TBS">
+    <title lang="en">Friends</title>
+    <desc lang="en">Joey goes on a game show; Monica and Rachel hire a stripper(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
   </programme>
-  <programme start="20170128100000 -0500" stop="20170128110000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">Investigation of a failed hit on an unpopular judge(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204153000 -0500" stop="20170204160000 -0500" channel="TBS">
+    <title lang="en">Friends</title>
+    <desc lang="en">Blizzard disrupts Phoebe and Mike's wedding(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
   </programme>
-  <programme start="20170128110000 -0500" stop="20170128120000 -0500" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">An election conspiracy targets a reporter for death(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
+  <programme start="20170204160000 -0500" stop="20170204163000 -0500" channel="TBS">
+    <title lang="en">Friends</title>
+    <desc lang="en">Monica and Chandler's baby's background is revealed(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
   </programme>
-  <programme start="20170128120000 -0500" stop="20170128140000 -0500" channel="TNT">
-    <title lang="en">The General's Daughter</title>
-    <desc lang="en">Army investigators probe an officer's brutal slaying(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/23021/TNT/sh" />
+  <programme start="20170204163000 -0500" stop="20170204170000 -0500" channel="TBS">
+    <title lang="en">Friends</title>
+    <desc lang="en">Rachel winds up next to her boss at a job interview(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183931/TBS/sh" />
   </programme>
-  <programme start="20170128140000 -0500" stop="20170128160000 -0500" channel="TNT">
-    <title lang="en">The Taking of Pelham 123</title>
-    <desc lang="en">Criminals hijack a New York subway train(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/175714/TNT/sh" />
+  <programme start="20170204170000 -0500" stop="20170204173000 -0500" channel="TBS">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">A street performer causes trouble for Max and Caroline(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
+  </programme>
+  <programme start="20170204173000 -0500" stop="20170204180000 -0500" channel="TBS">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">Max and Caroline turn to Caroline's rich aunt for help(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
+  </programme>
+  <programme start="20170204180000 -0500" stop="20170204183000 -0500" channel="TBS">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">When Max and Caroline take office temp jobs, Max is hit on(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
+  </programme>
+  <programme start="20170204183000 -0500" stop="20170204190000 -0500" channel="TBS">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">Caroline is fired after insulting the diner(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
+  </programme>
+  <programme start="20170204190000 -0500" stop="20170204193000 -0500" channel="TBS">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">After a night with her ex, Caroline develops a rash(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8680648/TBS/sh" />
+  </programme>
+  <programme start="20170204193000 -0500" stop="20170204200000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon's elaborate lie leads to an unexpected result(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204200000 -0500" stop="20170204203000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Penny is left to nurse Sheldon back to health(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204203000 -0500" stop="20170204210000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon looks for a way to derail a prodigy's research(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204210000 -0500" stop="20170204213000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">The guys kick Sheldon off the Physics Bowl team(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204213000 -0500" stop="20170204220000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Leonard and the guys buy a time machine prop(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204220000 -0500" stop="20170204223000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon decides to pick who his sister dates(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204223000 -0500" stop="20170204230000 -0500" channel="TBS">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Penny plans a surprise party for Leonard(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185554/TBS/sh" />
+  </programme>
+  <programme start="20170204230000 -0500" stop="20170204233000 -0500" channel="TBS">
+    <title lang="en">Full Frontal With Samantha Bee</title>
+    <desc lang="en">A trip across the pond before Trump drains that too(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12412201/TBS/sh" />
+  </programme>
+  <programme start="20170204233000 -0500" stop="20170205023000 -0500" channel="TBS">
+    <title lang="en">The Great Gatsby</title>
+    <desc lang="en">A would-be writer lives next to a mysterious millionaire(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/9287195/TBS/sh" />
   </programme>
   <programme start="20170128160000 -0500" stop="20170128183000 -0500" channel="TNT">
     <title lang="en">S.W.A.T.</title>
@@ -9088,145 +9066,90 @@
     <desc lang="en">Former Special Forces soldiers form a rogue unit(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/7938924/TNT/sh" />
   </programme>
-  <programme start="20170127180000 -0500" stop="20170127183000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Mitch and Cam join a protest against a local restaurant(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204010000 -0500" stop="20170204020000 -0500" channel="TNT">
+    <title lang="en">Hawaii Five-0</title>
+    <desc lang="en">The team investigates the death of a famous talk-radio host(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8130405/TNT/sh" />
   </programme>
-  <programme start="20170127183000 -0500" stop="20170127190000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Phil, Luke and Haley force Alex to celebrate ditch day(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204020000 -0500" stop="20170204030000 -0500" channel="TNT">
+    <title lang="en">Hawaii Five-0</title>
+    <desc lang="en">McGarrett's sister is arrested for smuggling diamonds(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8130405/TNT/sh" />
   </programme>
-  <programme start="20170127190000 -0500" stop="20170127193000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Claire worries about giving Alex the perfect gift(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204030000 -0500" stop="20170204040000 -0500" channel="TNT">
+    <title lang="en">Hawaii Five-0</title>
+    <desc lang="en">Tracking a serial killer who may have ties to Max's past(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/8130405/TNT/sh" />
   </programme>
-  <programme start="20170127193000 -0500" stop="20170127200000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Haley and Andy deal with their emotions in different ways(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204040000 -0500" stop="20170204050000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">A murdered psychologist's confidential files may hold clues(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127200000 -0500" stop="20170127203000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Alex lies about her college move-in date(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204050000 -0500" stop="20170204060000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">A troubled girl suffocates during barbaric therapy(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127203000 -0500" stop="20170127210000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Phil helps Haley talk Claire into letting Dylan move in(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204060000 -0500" stop="20170204070000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">A girl's classmates might be her murderers(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127210000 -0500" stop="20170127213000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Mitch and Cam cannot agree on who to invite to a party(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204070000 -0500" stop="20170204080000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">Investigation of the murder of an investment analyst(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127213000 -0500" stop="20170127220000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Everyone decides to sneak into a house Phil's helping sell(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204080000 -0500" stop="20170204090000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">A death leads to an investigation of a beef supplier(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127220000 -0500" stop="20170127223000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Gloria rents a cabin in the mountains for Christmas(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204090000 -0500" stop="20170204100000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">The young wife of an investment banker plunges to her death(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127223000 -0500" stop="20170127230000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Manny gets everyone to take the train to Dede's wedding(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204100000 -0500" stop="20170204110000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">The search for the murderer of a private investigator(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127230000 -0500" stop="20170127233000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Claire is anxious about bringing her closet ideas to Jay(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204110000 -0500" stop="20170204120000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">Investigation of the murder of a defense attorney's wife(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170127233000 -0500" stop="20170128000000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Luke is arrested for driving without a license(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204120000 -0500" stop="20170204130000 -0500" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">Deals complicate the investigation of a doctor's murder(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/183983/TNT/sh" />
   </programme>
-  <programme start="20170128000000 -0500" stop="20170128003000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Claire and Phil worry that Alex's boyfriend is imaginary(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204130000 -0500" stop="20170204150000 -0500" channel="TNT">
+    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
+    <desc lang="en">A NASCAR driver (Will Ferrell) has a new rival(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/159752/TNT/sh" />
   </programme>
-  <programme start="20170128003000 -0500" stop="20170128010000 -0500" channel="USA">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">The whole family takes Haley to celebrate her 21st birthday(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  <programme start="20170204150000 -0500" stop="20170204173000 -0500" channel="TNT">
+    <title lang="en">The A-Team</title>
+    <desc lang="en">Former Special Forces soldiers form a rogue unit(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/7938924/TNT/sh" />
   </programme>
-  <programme start="20170128010000 -0500" stop="20170128020000 -0500" channel="USA">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <desc lang="en">Evidence in an case points to events in the victim's past(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  <programme start="20170204173000 -0500" stop="20170204200000 -0500" channel="TNT">
+    <title lang="en">Gone in Sixty Seconds</title>
+    <desc lang="en">A retired thief must steal 50 cars to save his brother(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/25612/TNT/sh" />
   </programme>
-  <programme start="20170128020000 -0500" stop="20170128030000 -0500" channel="USA">
-    <title lang="en">NCIS: Los Angeles</title>
-    <desc lang="en">NCIS investigates as a Defense Department researcher(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561420/USA/sh" />
+  <programme start="20170204200000 -0500" stop="20170204213000 -0500" channel="TNT">
+    <title lang="en">Walking Tall</title>
+    <desc lang="en">A sheriff and a deputy try to rid their town of thugs(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/34259/TNT/sh" />
   </programme>
-  <programme start="20170128030000 -0500" stop="20170128040000 -0500" channel="USA">
-    <title lang="en">NCIS: Los Angeles</title>
-    <desc lang="en">NCIS must find the person behind an ambush on Jada Khaled(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/3561420/USA/sh" />
-  </programme>
-  <programme start="20170128040000 -0500" stop="20170128050000 -0500" channel="USA">
-    <title lang="en">Law &amp; Order: Criminal Intent</title>
-    <desc lang="en">A couple in witness protection are murdered(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184724/USA/sh" />
-  </programme>
-  <programme start="20170128050000 -0500" stop="20170128060000 -0500" channel="USA">
-    <title lang="en">Law &amp; Order: Criminal Intent</title>
-    <desc lang="en">A dentist's wife dies from a form of dioxin poisoning(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/184724/USA/sh" />
-  </programme>
-  <programme start="20170128060000 -0500" stop="20170128070000 -0500" channel="USA">
-    <title lang="en">Burn Notice</title>
-    <desc lang="en">An enemy sends assassins after Michael and his team(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/185589/USA/sh" />
-  </programme>
-  <programme start="20170128070000 -0500" stop="20170128073000 -0500" channel="USA">
-    <title lang="en">Shark Rocket Complete with DuoClean Technology - For Floors &amp; Carpets</title>
-    <desc lang="en">Even more suction power than any Rocket before - Under $200(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13293181/USA/sh" />
-  </programme>
-  <programme start="20170128073000 -0500" stop="20170128080000 -0500" channel="USA">
-    <title lang="en">Tailgate With The NuWave Brio Digital Air Fryer Healthy Fried Foods</title>
-    <desc lang="en">Enjoy healthy, worry-free fried foods at your next tailgate(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12958137/USA/sh" />
-  </programme>
-  <programme start="20170128080000 -0500" stop="20170128083000 -0500" channel="USA">
-    <title lang="en">Country Heat Dance Workout!</title>
-    <desc lang="en">Dance, Dance, Dance your butt off! Now you can shed weight FAST, just by getting your groove on(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13317892/USA/sh" />
-  </programme>
-  <programme start="20170128083000 -0500" stop="20170128090000 -0500" channel="USA">
-    <title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
-    <desc lang="en">New skin care discoveries from Cindy Crawford in 2017!(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/13692594/USA/sh" />
-  </programme>
-  <programme start="20170128090000 -0500" stop="20170128110000 -0500" channel="USA">
-    <title lang="en">3 Days to Kill</title>
-    <desc lang="en">A dying agent must accomplish one final mission(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/10172778/USA/sh" />
-  </programme>
-  <programme start="20170128110000 -0500" stop="20170128130000 -0500" channel="USA">
-    <title lang="en">The Condemned 2</title>
-    <desc lang="en">Convicts fight to the death in a tournament(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/12210656/USA/sh" />
-  </programme>
-  <programme start="20170128130000 -0500" stop="20170128153000 -0500" channel="USA">
-    <title lang="en">National Treasure: Book of Secrets</title>
-    <desc lang="en">Ben Gates sets out to establish an ancestor's innocence(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/170980/USA/sh" />
-  </programme>
-  <programme start="20170128153000 -0500" stop="20170128180000 -0500" channel="USA">
-    <title lang="en">G.I. Joe: The Rise of Cobra</title>
-    <desc lang="en">Elite soldiers battle a corrupt arms dealer named Destro(n)</desc>
-    <icon src="http://m.poster.static-ustvnow.com/176171/USA/sh" />
+  <programme start="20170204213000 -0500" stop="20170205000000 -0500" channel="TNT">
+    <title lang="en">G.I. Jane</title>
+    <desc lang="en">A woman undergoes the rigors of Navy SEALs training(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/19676/TNT/sh" />
   </programme>
   <programme start="20170128180000 -0500" stop="20170128203000 -0500" channel="USA">
     <title lang="en">G.I. Joe: Retaliation</title>
@@ -10047,5 +9970,140 @@
     <title lang="en">Modern Family</title>
     <desc lang="en">Gloria does not like Jay's reaction to Manny's father(n)</desc>
     <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  </programme>
+  <programme start="20170204000000 -0500" stop="20170204003000 -0500" channel="USA">
+    <title lang="en">Modern Family</title>
+    <desc lang="en">Claire finds a dirty picture on the computer(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  </programme>
+  <programme start="20170204003000 -0500" stop="20170204010000 -0500" channel="USA">
+    <title lang="en">Modern Family</title>
+    <desc lang="en">Claire and Phil threaten to take away Christmas(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3560360/USA/sh" />
+  </programme>
+  <programme start="20170204010000 -0500" stop="20170204020000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">People connected with Benson's cases are found murdered(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204020000 -0500" stop="20170204030000 -0500" channel="USA">
+    <title lang="en">NCIS: Los Angeles</title>
+    <desc lang="en">The team investigates a Navy intelligence officer's death(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561420/USA/sh" />
+  </programme>
+  <programme start="20170204030000 -0500" stop="20170204040000 -0500" channel="USA">
+    <title lang="en">NCIS: Los Angeles</title>
+    <desc lang="en">An ex-Marine is suspected of making a chemical bomb(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/3561420/USA/sh" />
+  </programme>
+  <programme start="20170204040000 -0500" stop="20170204050000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <desc lang="en">A powerful radio-magnate's son is found murdered(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184724/USA/sh" />
+  </programme>
+  <programme start="20170204050000 -0500" stop="20170204060000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <desc lang="en">Detectives investigate the death of a secret service agent(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184724/USA/sh" />
+  </programme>
+  <programme start="20170204060000 -0500" stop="20170204070000 -0500" channel="USA">
+    <title lang="en">Burn Notice</title>
+    <desc lang="en">Michael is recruited by a terrorist to steal equipment(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/185589/USA/sh" />
+  </programme>
+  <programme start="20170204070000 -0500" stop="20170204073000 -0500" channel="USA">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/USA/sh" />
+  </programme>
+  <programme start="20170204073000 -0500" stop="20170204080000 -0500" channel="USA">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/USA/sh" />
+  </programme>
+  <programme start="20170204080000 -0500" stop="20170204083000 -0500" channel="USA">
+    <title lang="en">Country Heat Dance Workout!</title>
+    <desc lang="en">Dance, Dance, Dance your butt off! Now you can shed weight FAST, just by getting your groove on(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/13317892/USA/sh" />
+  </programme>
+  <programme start="20170204083000 -0500" stop="20170204090000 -0500" channel="USA">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/459763/USA/sh" />
+  </programme>
+  <programme start="20170204090000 -0500" stop="20170204100000 -0500" channel="USA">
+    <title lang="en">Colony</title>
+    <desc lang="en">Jennifer keeps an eye on the Bowman house(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12051243/USA/sh" />
+  </programme>
+  <programme start="20170204100000 -0500" stop="20170204110000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">Detectives investigate the murder of a cabdriver(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204110000 -0500" stop="20170204120000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">A woman is unable to identify her attacker(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204120000 -0500" stop="20170204130000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">Stabler's daughter witnesses a gory crime scene(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204130000 -0500" stop="20170204140000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">A victim helps the detectives track down a rapist(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204140000 -0500" stop="20170204150000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">Benson and Stabler unearth black-marketing of infants(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204150000 -0500" stop="20170204160000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">An attacker rips a fetus from a woman's womb(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204160000 -0500" stop="20170204170000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">Detectives hunt for rapist of a comatose patient(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204170000 -0500" stop="20170204180000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">A man is mutilated on the subway during his evening commute(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204180000 -0500" stop="20170204190000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">A woman attempts to kidnap who she thinks is her daughter(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204190000 -0500" stop="20170204200000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">A girl calls for help, claiming to be held hostage(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204200000 -0500" stop="20170204210000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">Fin deals with colleagues accusing his son of murder(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204210000 -0500" stop="20170204220000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">A man goes on trial for murders of a woman and baby(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204220000 -0500" stop="20170204230000 -0500" channel="USA">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="en">The life of a law-abiding engineer goes terribly wrong(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/184536/USA/sh" />
+  </programme>
+  <programme start="20170204230000 -0500" stop="20170205000000 -0500" channel="USA">
+    <title lang="en">Colony</title>
+    <desc lang="en">Jennifer keeps an eye on the Bowman house(n)</desc>
+    <icon src="http://m.poster.static-ustvnow.com/12051243/USA/sh" />
   </programme>
 </tv>
